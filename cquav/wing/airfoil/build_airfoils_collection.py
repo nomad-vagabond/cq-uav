@@ -3,7 +3,7 @@ import re
 import json
 import requests
 
-import splinecloud_scipy as scsp
+import cquav.splinecloud_scipy as scsp
 
 
 # API_BASE_URL = "http://127.0.0.1:8000/api/repositories/"

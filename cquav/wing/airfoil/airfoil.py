@@ -2,7 +2,7 @@ import numpy as np
 from scipy.optimize import direct
 import cadquery as cq
 
-import splinecloud_scipy as scsp
+import cquav.splinecloud_scipy as scsp
 
 
 class Airfoil:

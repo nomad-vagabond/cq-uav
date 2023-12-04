@@ -4,7 +4,7 @@ import numpy as np
 from scipy.optimize import minimize_scalar, shgo, brentq, direct
 import cadquery as cq
 
-from constants import STANDARD_GRAVITY
+from cquav.constants import STANDARD_GRAVITY
 from .profile import AirfoilSection, ThreeChamberBoxedWingSection
 
 

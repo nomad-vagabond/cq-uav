@@ -1,2 +1,2 @@
 # cq-uav
-Generative UAV models based on CadQuery
+Generative UAV models with CadQuery and SplineCloud

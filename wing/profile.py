@@ -44,7 +44,11 @@ class AirfoilSection:
     
     def _setup_profile(self, thicken_sharp_tail):
         profile_points = self.airfoil.profile.to_numpy()
-        self._patch_tail(profile_points, thicken_sharp_tail)
+
+        self.sharp_tail = self._has_sharp_tail(profile_points)
+        if self.sharp_tail and thicken_sharp_tail:
+            self._patch_sharp_tail(profile_points)
+            self.sharp_tail = False
 
         t, c, k = self._bspl_profile_approx(profile_points)
         self.profile_tck = t, c*self.chord, k
@@ -52,40 +56,28 @@ class AirfoilSection:
         self.profile_points = [tuple(p) for p in profile_points*self.chord]
         self._setup_profile_curves()
 
-    def _patch_tail(self, profile_points, thicken_sharp_tail):
+    def _has_sharp_tail(self, profile_points):
+        sharp_tail = (
+            profile_points[0][0] == profile_points[-1][0]
+            and 
+            profile_points[0][1] == profile_points[-1][1]
+        )
+
+        return sharp_tail
+
+    def _patch_sharp_tail(self, profile_points):
         """
         Patch tail points to avoid malformed geometry construction
         and enable shell creation in CadQuery
         """
         thicken_ratio = 0.3 # share of neighboring point offsets
-
-        self.sharp_tail = (
-            profile_points[0][0] == profile_points[-1][0]
-            and 
-            profile_points[0][1] == profile_points[-1][1]
-        )
         
         ## height at the first point pair after the tail point
-        h1 = profile_points[1][1] - profile_points[-2][1] 
-        if self.sharp_tail and thicken_sharp_tail:
-            h0 = min(h1 * thicken_ratio, 0.001)
+        h1 = profile_points[1][1] - profile_points[-2][1]
 
-            profile_points[0][1] = profile_points[0][1] + h0/2
-            profile_points[-1][1] = profile_points[-1][1] - h0/2
-
-            self.sharp_tail = False
-
-        # ## calculate x-offset of the first point pair after the tail point
-        # v1 = np.array(profile_points[1]) - np.array(profile_points[0])
-        # v2 = np.array(profile_points[-2]) - np.array(profile_points[-1])
-        # tail_length = min(np.linalg.norm(v1), np.linalg.norm(v2))  
-        # short_tail = tail_length < 0.01
-        # thin_tail = h1 < 0.05
-
-        # if short_tail or thin_tail: 
-        #     ## reduce point density at the tail region
-        #     profile_points.pop(1)
-        #     profile_points.pop(-2)
+        h0 = min(h1 * thicken_ratio, 0.001)
+        profile_points[0][1] = profile_points[0][1] + h0/2
+        profile_points[-1][1] = profile_points[-1][1] - h0/2
 
     def _setup_profile_curves(self):
         """

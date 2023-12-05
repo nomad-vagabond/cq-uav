@@ -21,6 +21,14 @@ AIRFOIL_REPOS = [
 ]
 
 
+def extract_profile_name(datafile_path):
+    pathsplit =  datafile_path.split('/')
+    if len(pathsplit) < 2:
+        return
+    
+    return pathsplit[-2]
+
+
 def try_append_profile(profile_name, airfoils_collection):
     airfoil_data = airfoils_collection.get(profile_name)
     if not airfoil_data:
@@ -38,12 +46,15 @@ def process_relation(relation_data, airfoils_collection):
 
     reynolds = reynolds_pattern.findall(name)
     profile_name = profile_pattern.findall(name)
-
+    
     if not (reynolds and profile_name):
         return
 
+    profile_name = extract_profile_name(relation_data['subset']['dataset']['datafile']['path'])
+    if not profile_name:
+        return
+
     reynolds = int(reynolds[0])
-    profile_name = profile_name[0].rstrip("-il").rstrip("-jf").rstrip("-sa").upper()
 
     if "Cl" in name:
         curve_type = f"CL_{reynolds}"
@@ -65,7 +76,10 @@ def process_dataset(dataset_data, airfoils_collection):
     if not ext == ".dat":
         return
 
-    profile_name = name.upper()
+    profile_name = extract_profile_name(dataset_data['datafile']['path'])
+    if not profile_name:
+        return
+
     try_append_profile(profile_name, airfoils_collection)
     subset_uid = dataset_data['subsets'][0]['uid']
     airfoils_collection[profile_name]["profile"] = subset_uid

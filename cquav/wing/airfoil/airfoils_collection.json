@@ -1,7 +1,7 @@
 {
   "NACA different airfoils": {
-    "NCAMBRE": {
-      "name": "NCAMBRE",
+    "ONERA NACA CAMBRE AIRFOIL (ncambre-il)": {
+      "name": "ONERA NACA CAMBRE AIRFOIL (ncambre-il)",
       "curves": {
         "CL_1000000": "spl_JhQwfV8rdXPc",
         "CL_500000": "spl_3XFejXMfraU8",
@@ -22,8 +22,8 @@
       "profile": "sbt_coECL3mh03p4",
       "group": "NACA different airfoils"
     },
-    "NACAM6": {
-      "name": "NACAM6",
+    "NACA M6 (nacam6-il)": {
+      "name": "NACA M6 (nacam6-il)",
       "curves": {
         "CL_1000000": "spl_T6FUoHmyMrdS",
         "CL_500000": "spl_UJClyyjBK2Uh",
@@ -44,8 +44,8 @@
       "profile": "sbt_X1yrPlRo5GyY",
       "group": "NACA different airfoils"
     },
-    "NACAM18": {
-      "name": "NACAM18",
+    "NACA M18 (nacam18-il)": {
+      "name": "NACA M18 (nacam18-il)",
       "curves": {
         "CL_1000000": "spl_kNX6RGEsZqox",
         "CL_500000": "spl_ood9m6R0ht8D",
@@ -66,8 +66,8 @@
       "profile": "sbt_THqVgxk3GxHl",
       "group": "NACA different airfoils"
     },
-    "NACAM12": {
-      "name": "NACAM12",
+    "NACA M12 (nacam12-il)": {
+      "name": "NACA M12 (nacam12-il)",
       "curves": {
         "CL_1000000": "spl_x8xWJ78schjC",
         "CL_500000": "spl_5nRU2q7bXmkB",
@@ -88,8 +88,8 @@
       "profile": "sbt_tNdh5efswgnY",
       "group": "NACA different airfoils"
     },
-    "NACACYH": {
-      "name": "NACACYH",
+    "NACA CYH (nacacyh-il)": {
+      "name": "NACA CYH (nacacyh-il)",
       "curves": {
         "CL_1000000": "spl_NWZjKtyEOw0Q",
         "CL_500000": "spl_WInwJ67taU7B",
@@ -110,8 +110,8 @@
       "profile": "sbt_vzhY1Ef1pG7c",
       "group": "NACA different airfoils"
     },
-    "NACA747A415": {
-      "name": "NACA747A415",
+    "NACA 747A415 (naca747a415-il)": {
+      "name": "NACA 747A415 (naca747a415-il)",
       "curves": {
         "CL_1000000": "spl_PLSepbjBWMLL",
         "CL_500000": "spl_ku3a20jxHw9a",
@@ -132,8 +132,8 @@
       "profile": "sbt_ZFYxLoH3UoeG",
       "group": "NACA different airfoils"
     },
-    "NACA747A315": {
-      "name": "NACA747A315",
+    "NACA 747A315 (naca747a315-il)": {
+      "name": "NACA 747A315 (naca747a315-il)",
       "curves": {
         "CL_1000000": "spl_7jXhAG6Kw9PR",
         "CL_500000": "spl_7gaK1ORXv6Pi",
@@ -154,8 +154,8 @@
       "profile": "sbt_7L735vHm04ax",
       "group": "NACA different airfoils"
     },
-    "NACA001264A08CLI02": {
-      "name": "NACA001264A08CLI02",
+    "NACA 0012-64 a=0.8 c(li)=0.2 (naca001264a08cli02-il)": {
+      "name": "NACA 0012-64 a=0.8 c(li)=0.2 (naca001264a08cli02-il)",
       "curves": {
         "CM_1000000": "spl_A8C8T3ZDnBsp",
         "CD_1000000": "spl_PgK6ltsV7QZH",
@@ -176,8 +176,8 @@
       "profile": "sbt_EAOkgwE8PiKB",
       "group": "NACA different airfoils"
     },
-    "NACA001034A08CLI02": {
-      "name": "NACA001034A08CLI02",
+    "NACA 0010-34 a=0.8 c(li)=0.2 (naca001034a08cli02-il)": {
+      "name": "NACA 0010-34 a=0.8 c(li)=0.2 (naca001034a08cli02-il)",
       "curves": {
         "CM_1000000": "spl_d4HQMnL5SVAc",
         "CD_1000000": "spl_kT94Z1aaU719",
@@ -198,8 +198,8 @@
       "profile": "sbt_W93AAApHvqhw",
       "group": "NACA different airfoils"
     },
-    "N8H12": {
-      "name": "N8H12",
+    "NACA 8-H-12 AIRFOIL (n8h12-il)": {
+      "name": "NACA 8-H-12 AIRFOIL (n8h12-il)",
       "curves": {
         "CL_1000000": "spl_xUlfWUglb5Nj",
         "CL_500000": "spl_Y9s8gm9GGlJf",
@@ -220,8 +220,8 @@
       "profile": "sbt_0beIXgvFmSK8",
       "group": "NACA different airfoils"
     },
-    "N6H20": {
-      "name": "N6H20",
+    "NACA 6-H-20 AIRFOIL (n6h20-il)": {
+      "name": "NACA 6-H-20 AIRFOIL (n6h20-il)",
       "curves": {
         "CL_1000000": "spl_76bFbLBIXBfM",
         "CL_500000": "spl_9yHlqIduR58l",
@@ -242,8 +242,8 @@
       "profile": "sbt_ZLn58ZECIajf",
       "group": "NACA different airfoils"
     },
-    "N6H15": {
-      "name": "N6H15",
+    "NACA 6-H-15 AIRFOIL (n6h15-il)": {
+      "name": "NACA 6-H-15 AIRFOIL (n6h15-il)",
       "curves": {
         "CL_1000000": "spl_uOt0FRFinPUt",
         "CL_500000": "spl_bKswE8qINItN",
@@ -264,8 +264,8 @@
       "profile": "sbt_QdSfdsG6soDd",
       "group": "NACA different airfoils"
     },
-    "N6H10": {
-      "name": "N6H10",
+    "NACA 6-H-10 AIRFOIL (n6h10-il)": {
+      "name": "NACA 6-H-10 AIRFOIL (n6h10-il)",
       "curves": {
         "CL_1000000": "spl_XPZhLXNrbTPb",
         "CL_500000": "spl_cGoqOSOgHAGn",
@@ -286,8 +286,8 @@
       "profile": "sbt_kZnLQhbv6sSq",
       "group": "NACA different airfoils"
     },
-    "N5H20": {
-      "name": "N5H20",
+    "NACA 5-H-20 AIRFOIL (n5h20-il)": {
+      "name": "NACA 5-H-20 AIRFOIL (n5h20-il)",
       "curves": {
         "CL_1000000": "spl_ls2efKyUxigh",
         "CL_500000": "spl_k1k8SerwqDXV",
@@ -308,8 +308,8 @@
       "profile": "sbt_kPCoV7CfAjo3",
       "group": "NACA different airfoils"
     },
-    "N5H15": {
-      "name": "N5H15",
+    "NACA 5-H-15 AIRFOIL (n5h15-il)": {
+      "name": "NACA 5-H-15 AIRFOIL (n5h15-il)",
       "curves": {
         "CL_1000000": "spl_697lo02gqXQZ",
         "CL_500000": "spl_pLmTIkgssfbA",
@@ -330,8 +330,8 @@
       "profile": "sbt_TI3qwXx5gay9",
       "group": "NACA different airfoils"
     },
-    "N5H10": {
-      "name": "N5H10",
+    "NACA 5-H-10 AIRFOIL (n5h10-il)": {
+      "name": "NACA 5-H-10 AIRFOIL (n5h10-il)",
       "curves": {
         "CL_1000000": "spl_ag5g1NkrhW2p",
         "CL_500000": "spl_VX6K5YEw6yiv",
@@ -352,8 +352,8 @@
       "profile": "sbt_Po6tVnPigtOb",
       "group": "NACA different airfoils"
     },
-    "N2H15": {
-      "name": "N2H15",
+    "NACA 2-H-15 AIRFOIL (n2h15-il)": {
+      "name": "NACA 2-H-15 AIRFOIL (n2h15-il)",
       "curves": {
         "CL_1000000": "spl_peyGB1pZbryy",
         "CL_500000": "spl_wXixB0BRjgug",
@@ -374,8 +374,8 @@
       "profile": "sbt_lJFMRZRqOWDI",
       "group": "NACA different airfoils"
     },
-    "N1H15": {
-      "name": "N1H15",
+    "NACA 1-H-15 AIRFOIL (n1h15-il)": {
+      "name": "NACA 1-H-15 AIRFOIL (n1h15-il)",
       "curves": {
         "CL_1000000": "spl_wtUJ5RZq960I",
         "CL_500000": "spl_LqCXsqCqqnke",
@@ -396,8 +396,8 @@
       "profile": "sbt_cN5tA9pdT5vS",
       "group": "NACA different airfoils"
     },
-    "N11H9": {
-      "name": "N11H9",
+    "NACA 11-H-09 AIRFOIL (n11h9-il)": {
+      "name": "NACA 11-H-09 AIRFOIL (n11h9-il)",
       "curves": {
         "CL_1000000": "spl_KX0EQT6ZXzlU",
         "CL_500000": "spl_9oTrUtfQt8c4",
@@ -420,8 +420,8 @@
     }
   },
   "NACA 6 series airfoils": {
-    "NACA671215": {
-      "name": "NACA671215",
+    "NACA 67 (naca671215-il)": {
+      "name": "NACA 67 (naca671215-il)",
       "curves": {
         "CL_1000000": "spl_xDtp9VMLmWZP",
         "CL_500000": "spl_etzccHIhNnQO",
@@ -442,8 +442,8 @@
       "profile": "sbt_IxTnlou0x2IR",
       "group": "NACA 6 series airfoils"
     },
-    "NACA664221": {
-      "name": "NACA664221",
+    "NACA 66(4)-221 (naca664221-il)": {
+      "name": "NACA 66(4)-221 (naca664221-il)",
       "curves": {
         "CL_1000000": "spl_T10eYUurBoto",
         "CL_500000": "spl_CtIk6YQpTWMJ",
@@ -464,8 +464,8 @@
       "profile": "sbt_WlaTzs1xTgLV",
       "group": "NACA 6 series airfoils"
     },
-    "NACA663418": {
-      "name": "NACA663418",
+    "NACA 66(3)-418 (naca663418-il)": {
+      "name": "NACA 66(3)-418 (naca663418-il)",
       "curves": {
         "CL_1000000": "spl_yZ9NdBtF0MNA",
         "CL_500000": "spl_ECG8p15zYi57",
@@ -486,8 +486,8 @@
       "profile": "sbt_HDHU8BLzDbSf",
       "group": "NACA 6 series airfoils"
     },
-    "NACA663218": {
-      "name": "NACA663218",
+    "NACA 66(3)-218 (naca663218-il)": {
+      "name": "NACA 66(3)-218 (naca663218-il)",
       "curves": {
         "CL_1000000": "spl_YdnfS4eM2Cy7",
         "CL_500000": "spl_CuPKjtjkgGIW",
@@ -508,8 +508,8 @@
       "profile": "sbt_vsB1kP24SWrI",
       "group": "NACA 6 series airfoils"
     },
-    "NACA662415": {
-      "name": "NACA662415",
+    "NACA 66(2)-415 (naca662415-il)": {
+      "name": "NACA 66(2)-415 (naca662415-il)",
       "curves": {
         "CL_1000000": "spl_S56Xqq4MSGDT",
         "CL_500000": "spl_qG2LCeOkEaqF",
@@ -530,8 +530,8 @@
       "profile": "sbt_ihQwuyYZtIGy",
       "group": "NACA 6 series airfoils"
     },
-    "NACA662215": {
-      "name": "NACA662215",
+    "NACA 66(2)-215 (naca662215-il)": {
+      "name": "NACA 66(2)-215 (naca662215-il)",
       "curves": {
         "CL_1000000": "spl_DmYpvNzXc78M",
         "CL_500000": "spl_6xBRj1lH6EB3",
@@ -552,8 +552,8 @@
       "profile": "sbt_6dUGwT9bRB8X",
       "group": "NACA 6 series airfoils"
     },
-    "NACA66210": {
-      "name": "NACA66210",
+    "NACA 66-210 (naca66210-il)": {
+      "name": "NACA 66-210 (naca66210-il)",
       "curves": {
         "CL_1000000": "spl_b7MqWSREggdh",
         "CL_500000": "spl_5uHpokNfF2D2",
@@ -574,8 +574,8 @@
       "profile": "sbt_gBH7qvOwxFzA",
       "group": "NACA 6 series airfoils"
     },
-    "NACA66209": {
-      "name": "NACA66209",
+    "NACA 66-209 (naca66209-il)": {
+      "name": "NACA 66-209 (naca66209-il)",
       "curves": {
         "CL_1000000": "spl_qWQisJ7UAYB3",
         "CL_500000": "spl_coZ6nkDUhR6b",
@@ -596,8 +596,8 @@
       "profile": "sbt_TH2UCzjr0iiQ",
       "group": "NACA 6 series airfoils"
     },
-    "NACA66206": {
-      "name": "NACA66206",
+    "NACA 66-206 (naca66206-il)": {
+      "name": "NACA 66-206 (naca66206-il)",
       "curves": {
         "CL_1000000": "spl_5wypghzSBUMP",
         "CL_500000": "spl_s4eFQZLWa440",
@@ -618,8 +618,8 @@
       "profile": "sbt_yYYtnXIEHCOH",
       "group": "NACA 6 series airfoils"
     },
-    "NACA661212": {
-      "name": "NACA661212",
+    "NACA 66(1)-212 (naca661212-il)": {
+      "name": "NACA 66(1)-212 (naca661212-il)",
       "curves": {
         "CL_1000000": "spl_Q7Sm4TZvK8OQ",
         "CL_500000": "spl_tSpNYtPlzDIk",
@@ -640,8 +640,8 @@
       "profile": "sbt_QFRVKnLrACQR",
       "group": "NACA 6 series airfoils"
     },
-    "NACA66-018": {
-      "name": "NACA66-018",
+    "NACA 66-018 (naca66-018-il)": {
+      "name": "NACA 66-018 (naca66-018-il)",
       "curves": {
         "CL_1000000": "spl_5EOBuGaFavuC",
         "CL_500000": "spl_ZREku6F6qIa3",
@@ -662,8 +662,8 @@
       "profile": "sbt_yoL4MzV19cyD",
       "group": "NACA 6 series airfoils"
     },
-    "NACA654421A05": {
-      "name": "NACA654421A05",
+    "NACA 65(4)-421 a=0.5 (naca654421a05-il)": {
+      "name": "NACA 65(4)-421 a=0.5 (naca654421a05-il)",
       "curves": {
         "CL_1000000": "spl_2snIbGVVehWh",
         "CL_500000": "spl_8atupZMpMuBP",
@@ -684,8 +684,8 @@
       "profile": "sbt_fbmrJSdsx0RI",
       "group": "NACA 6 series airfoils"
     },
-    "NACA654421": {
-      "name": "NACA654421",
+    "NACA 65(4)-421 (naca654421-il)": {
+      "name": "NACA 65(4)-421 (naca654421-il)",
       "curves": {
         "CL_1000000": "spl_K4CRCzSvJgqI",
         "CL_500000": "spl_Flqjps5nIM86",
@@ -706,8 +706,8 @@
       "profile": "sbt_JHUYcLXFBX9I",
       "group": "NACA 6 series airfoils"
     },
-    "NACA654221": {
-      "name": "NACA654221",
+    "NACA 65(4)-221 (naca654221-il)": {
+      "name": "NACA 65(4)-221 (naca654221-il)",
       "curves": {
         "CL_1000000": "spl_M3yLdeBEEVEb",
         "CL_500000": "spl_bL6kxCSJETv6",
@@ -728,8 +728,8 @@
       "profile": "sbt_erWQGgmYRXBL",
       "group": "NACA 6 series airfoils"
     },
-    "NACA65410": {
-      "name": "NACA65410",
+    "NACA 65-410 (naca65410-il)": {
+      "name": "NACA 65-410 (naca65410-il)",
       "curves": {
         "CL_1000000": "spl_afFWvfXx4rnz",
         "CL_500000": "spl_lwmroKWiw3h8",
@@ -750,8 +750,8 @@
       "profile": "sbt_9J2x7jwcmZPF",
       "group": "NACA 6 series airfoils"
     },
-    "NACA653618": {
-      "name": "NACA653618",
+    "NACA 65(3)-618 (naca653618-il)": {
+      "name": "NACA 65(3)-618 (naca653618-il)",
       "curves": {
         "CL_1000000": "spl_3AognMOcP3Nk",
         "CL_500000": "spl_FqqCe7JTlwbh",
@@ -772,8 +772,8 @@
       "profile": "sbt_g1VNZbLXY6rV",
       "group": "NACA 6 series airfoils"
     },
-    "NACA653218": {
-      "name": "NACA653218",
+    "NACA 65(3)-218 (naca653218-il)": {
+      "name": "NACA 65(3)-218 (naca653218-il)",
       "curves": {
         "CL_1000000": "spl_5ZEN7nR4ji5p",
         "CL_500000": "spl_55pl50gW8pZw",
@@ -794,8 +794,8 @@
       "profile": "sbt_od2okdnLThlh",
       "group": "NACA 6 series airfoils"
     },
-    "NACA652415A05": {
-      "name": "NACA652415A05",
+    "NACA 65(2)-415 a=0.5 (naca652415a05-il)": {
+      "name": "NACA 65(2)-415 a=0.5 (naca652415a05-il)",
       "curves": {
         "CL_1000000": "spl_grhrEcF4MtFt",
         "CL_500000": "spl_GW1Dqc6GQ2al",
@@ -816,8 +816,8 @@
       "profile": "sbt_aDXw1Fw5TeJi",
       "group": "NACA 6 series airfoils"
     },
-    "NACA652415": {
-      "name": "NACA652415",
+    "NACA 65(2)-415 (naca652415-il)": {
+      "name": "NACA 65(2)-415 (naca652415-il)",
       "curves": {
         "CL_1000000": "spl_PQ0sXBkfxzxG",
         "CL_500000": "spl_sqjchB3IwmSm",
@@ -838,8 +838,8 @@
       "profile": "sbt_jU8b4hpF9NND",
       "group": "NACA 6 series airfoils"
     },
-    "NACA652215": {
-      "name": "NACA652215",
+    "NACA 65(2)-215 (naca652215-il)": {
+      "name": "NACA 65(2)-215 (naca652215-il)",
       "curves": {
         "CL_1000000": "spl_FI9FFRK3ZTKw",
         "CL_500000": "spl_LoIF0zpg7JpX",
@@ -860,8 +860,8 @@
       "profile": "sbt_iS75nE9E4eIb",
       "group": "NACA 6 series airfoils"
     },
-    "NACA65210": {
-      "name": "NACA65210",
+    "NACA 65-210 (naca65210-il)": {
+      "name": "NACA 65-210 (naca65210-il)",
       "curves": {
         "CL_1000000": "spl_UxK3ktBc7MG3",
         "CL_500000": "spl_KWYcdIN6I5kQ",
@@ -882,8 +882,8 @@
       "profile": "sbt_m4aBB6MwVQlj",
       "group": "NACA 6 series airfoils"
     },
-    "NACA65209": {
-      "name": "NACA65209",
+    "NACA 65-209 (naca65209-il)": {
+      "name": "NACA 65-209 (naca65209-il)",
       "curves": {
         "CL_1000000": "spl_LkJnwZPyBqza",
         "CL_500000": "spl_d108X4d1WgJq",
@@ -904,8 +904,8 @@
       "profile": "sbt_pWZ97bKvaReQ",
       "group": "NACA 6 series airfoils"
     },
-    "NACA65206": {
-      "name": "NACA65206",
+    "NACA 65-206 (naca65206-il)": {
+      "name": "NACA 65-206 (naca65206-il)",
       "curves": {
         "CL_1000000": "spl_WuP7pHBxzWXg",
         "CL_500000": "spl_rPFPOwFVAFYB",
@@ -926,8 +926,8 @@
       "profile": "sbt_LKtSGOXxMDpJ",
       "group": "NACA 6 series airfoils"
     },
-    "NACA651412": {
-      "name": "NACA651412",
+    "NACA 65(1)-412 (naca651412-il)": {
+      "name": "NACA 65(1)-412 (naca651412-il)",
       "curves": {
         "CL_1000000": "spl_d7pbSyz51EWV",
         "CL_500000": "spl_8me8e2AB3Qqq",
@@ -948,8 +948,8 @@
       "profile": "sbt_Wv9eJUf2tPvI",
       "group": "NACA 6 series airfoils"
     },
-    "NACA651212A06": {
-      "name": "NACA651212A06",
+    "NACA 65(1)-212 a=0.6 (naca651212a06-il)": {
+      "name": "NACA 65(1)-212 a=0.6 (naca651212a06-il)",
       "curves": {
         "CL_1000000": "spl_4Mk6w5ol5om9",
         "CL_500000": "spl_gAUiM5u2ctA7",
@@ -970,8 +970,8 @@
       "profile": "sbt_lhAyZQbkbrkJ",
       "group": "NACA 6 series airfoils"
     },
-    "NACA651212": {
-      "name": "NACA651212",
+    "NACA 65(1)-212 (naca651212-il)": {
+      "name": "NACA 65(1)-212 (naca651212-il)",
       "curves": {
         "CL_1000000": "spl_UCqZ7ThAWQ9S",
         "CL_500000": "spl_XG2RfyqJ3rzM",
@@ -992,8 +992,8 @@
       "profile": "sbt_K57Xd8Va3uwr",
       "group": "NACA 6 series airfoils"
     },
-    "NACA64A410": {
-      "name": "NACA64A410",
+    "NACA 64A410 (naca64a410-il)": {
+      "name": "NACA 64A410 (naca64a410-il)",
       "curves": {
         "CL_1000000": "spl_MAoVNvP6ozDq",
         "CL_500000": "spl_0cMbE8cLJsrG",
@@ -1014,8 +1014,8 @@
       "profile": "sbt_rSkzz31CH0OY",
       "group": "NACA 6 series airfoils"
     },
-    "NACA64A210": {
-      "name": "NACA64A210",
+    "NACA 64A210 (naca64a210-il)": {
+      "name": "NACA 64A210 (naca64a210-il)",
       "curves": {
         "CL_1000000": "spl_DStrry9Vn1j5",
         "CL_500000": "spl_YlN3cjDUlQjx",
@@ -1036,8 +1036,8 @@
       "profile": "sbt_zA8PmY0mUHwb",
       "group": "NACA 6 series airfoils"
     },
-    "NACA64A010": {
-      "name": "NACA64A010",
+    "NACA 64A-010 10.0% (naca64a010-il)": {
+      "name": "NACA 64A-010 10.0% (naca64a010-il)",
       "curves": {
         "CL_1000000": "spl_u1L1ckhxtpzk",
         "CL_500000": "spl_qLuhatX29m0d",
@@ -1058,8 +1058,8 @@
       "profile": "sbt_HyJazUvxEjsW",
       "group": "NACA 6 series airfoils"
     },
-    "NACA644421": {
-      "name": "NACA644421",
+    "NACA 64(4)-421 (naca644421-il)": {
+      "name": "NACA 64(4)-421 (naca644421-il)",
       "curves": {
         "CL_1000000": "spl_RBSLjIYjvp77",
         "CL_500000": "spl_pbF2EjbLnK7W",
@@ -1080,8 +1080,8 @@
       "profile": "sbt_itgM8VT59YYw",
       "group": "NACA 6 series airfoils"
     },
-    "NACA644221": {
-      "name": "NACA644221",
+    "NACA 64(4)-221 (naca644221-il)": {
+      "name": "NACA 64(4)-221 (naca644221-il)",
       "curves": {
         "CL_1000000": "spl_I8Za9S0K6smz",
         "CL_500000": "spl_SameHzo9rokz",
@@ -1102,8 +1102,8 @@
       "profile": "sbt_bZyqNKBMNeje",
       "group": "NACA 6 series airfoils"
     },
-    "NACA643618": {
-      "name": "NACA643618",
+    "NACA 64(3)-618 (naca643618-il)": {
+      "name": "NACA 64(3)-618 (naca643618-il)",
       "curves": {
         "CL_1000000": "spl_mD9nRZ1CBqD3",
         "CL_500000": "spl_b1VIcSRhXk3W",
@@ -1124,8 +1124,8 @@
       "profile": "sbt_OaVqekCkoAQ4",
       "group": "NACA 6 series airfoils"
     },
-    "NACA643418": {
-      "name": "NACA643418",
+    "NACA 64(3)-418 (naca643418-il)": {
+      "name": "NACA 64(3)-418 (naca643418-il)",
       "curves": {
         "CL_1000000": "spl_btqwQJ5h3Kyp",
         "CL_500000": "spl_HdLLdhZLHwg8",
@@ -1146,8 +1146,8 @@
       "profile": "sbt_l2ppHtmdQIlV",
       "group": "NACA 6 series airfoils"
     },
-    "NACA643218": {
-      "name": "NACA643218",
+    "NACA 64(3)-218 (naca643218-il)": {
+      "name": "NACA 64(3)-218 (naca643218-il)",
       "curves": {
         "CL_1000000": "spl_jZtAvgAxnirP",
         "CL_500000": "spl_K7mlJ6cD7MBv",
@@ -1168,8 +1168,8 @@
       "profile": "sbt_aEoEzYROCnX5",
       "group": "NACA 6 series airfoils"
     },
-    "NACA642415": {
-      "name": "NACA642415",
+    "NACA 64(2)-415 (naca642415-il)": {
+      "name": "NACA 64(2)-415 (naca642415-il)",
       "curves": {
         "CL_1000000": "spl_V3etCEb5YxQ5",
         "CL_500000": "spl_RQBE18sUs7Gt",
@@ -1190,8 +1190,8 @@
       "profile": "sbt_O7GnqmZhAvJL",
       "group": "NACA 6 series airfoils"
     },
-    "NACA642215": {
-      "name": "NACA642215",
+    "NACA 64(2)-215 (naca642215-il)": {
+      "name": "NACA 64(2)-215 (naca642215-il)",
       "curves": {
         "CL_1000000": "spl_j3wSaLUxAWXq",
         "CL_500000": "spl_EITqbD95IDmK",
@@ -1212,8 +1212,8 @@
       "profile": "sbt_5JTrLgZW9aGj",
       "group": "NACA 6 series airfoils"
     },
-    "NACA64210": {
-      "name": "NACA64210",
+    "NACA 64-210 (naca64210-il)": {
+      "name": "NACA 64-210 (naca64210-il)",
       "curves": {
         "CL_1000000": "spl_qxRAb95xXrWV",
         "CL_500000": "spl_weAlleOkdLw5",
@@ -1234,8 +1234,8 @@
       "profile": "sbt_RX43zna8G8oJ",
       "group": "NACA 6 series airfoils"
     },
-    "NACA64209": {
-      "name": "NACA64209",
+    "NACA 64-209 (naca64209-il)": {
+      "name": "NACA 64-209 (naca64209-il)",
       "curves": {
         "CL_1000000": "spl_znGAfqgQrENk",
         "CL_500000": "spl_FFfewHQsg4wP",
@@ -1256,8 +1256,8 @@
       "profile": "sbt_m8HFN3wrmNYn",
       "group": "NACA 6 series airfoils"
     },
-    "NACA64208": {
-      "name": "NACA64208",
+    "NACA 64-208 (naca64208-il)": {
+      "name": "NACA 64-208 (naca64208-il)",
       "curves": {
         "CL_1000000": "spl_7uX0LeU7Cly4",
         "CL_500000": "spl_ScG2TMwS6ZGZ",
@@ -1278,8 +1278,8 @@
       "profile": "sbt_Bk8N5G316JIK",
       "group": "NACA 6 series airfoils"
     },
-    "NACA64206": {
-      "name": "NACA64206",
+    "NACA 64-206 (naca64206-il)": {
+      "name": "NACA 64-206 (naca64206-il)",
       "curves": {
         "CL_1000000": "spl_woMvQpYVUhU8",
         "CL_500000": "spl_BAEtoG4DdwNM",
@@ -1300,8 +1300,8 @@
       "profile": "sbt_C4eNWQBwj56G",
       "group": "NACA 6 series airfoils"
     },
-    "NACA641112": {
-      "name": "NACA641112",
+    "NACA 64(1)-112 (naca641112-il)": {
+      "name": "NACA 64(1)-112 (naca641112-il)",
       "curves": {
         "CL_1000000": "spl_laHscILDlj5m",
         "CL_500000": "spl_ltLfInElc4Qq",
@@ -1322,8 +1322,8 @@
       "profile": "sbt_qvrIBHAj8FG6",
       "group": "NACA 6 series airfoils"
     },
-    "NACA63A210": {
-      "name": "NACA63A210",
+    "NACA 63A210 (naca63a210-il)": {
+      "name": "NACA 63A210 (naca63a210-il)",
       "curves": {
         "CL_1000000": "spl_HPkECzlZHI81",
         "CL_500000": "spl_Gfz5KxRymxD5",
@@ -1344,8 +1344,8 @@
       "profile": "sbt_DxvmRH54uHTR",
       "group": "NACA 6 series airfoils"
     },
-    "NACA634421": {
-      "name": "NACA634421",
+    "NACA 63(4)-421 (naca634421-il)": {
+      "name": "NACA 63(4)-421 (naca634421-il)",
       "curves": {
         "CL_1000000": "spl_zeNnn8fQDrnH",
         "CL_500000": "spl_oZFY8Mu33inf",
@@ -1366,8 +1366,8 @@
       "profile": "sbt_vAg04KrhY2GM",
       "group": "NACA 6 series airfoils"
     },
-    "NACA634221": {
-      "name": "NACA634221",
+    "NACA 63(4)-221 (naca634221-il)": {
+      "name": "NACA 63(4)-221 (naca634221-il)",
       "curves": {
         "CL_1000000": "spl_dF1V7ZBd6Xl2",
         "CL_500000": "spl_4tChGoue9RCX",
@@ -1388,8 +1388,8 @@
       "profile": "sbt_aBFr2RsOFMja",
       "group": "NACA 6 series airfoils"
     },
-    "NACA633618": {
-      "name": "NACA633618",
+    "NACA 63(3)-618 (naca633618-il)": {
+      "name": "NACA 63(3)-618 (naca633618-il)",
       "curves": {
         "CL_1000000": "spl_B8gor7Juje3q",
         "CL_500000": "spl_cEBXtcqAnzKJ",
@@ -1410,8 +1410,8 @@
       "profile": "sbt_tfoIfOnjM63g",
       "group": "NACA 6 series airfoils"
     },
-    "NACA633418": {
-      "name": "NACA633418",
+    "NACA 63 (naca633418-il)": {
+      "name": "NACA 63 (naca633418-il)",
       "curves": {
         "CL_1000000": "spl_DFDLxtDfxsG7",
         "CL_500000": "spl_BtTuLaEXFiMX",
@@ -1432,8 +1432,8 @@
       "profile": "sbt_Vj4MP2JrpFuf",
       "group": "NACA 6 series airfoils"
     },
-    "NACA633218": {
-      "name": "NACA633218",
+    "NACA 63(3)-218 (naca633218-il)": {
+      "name": "NACA 63(3)-218 (naca633218-il)",
       "curves": {
         "CL_1000000": "spl_7IobQm5D2nNq",
         "CL_500000": "spl_RKNdcDCpLwl6",
@@ -1454,8 +1454,8 @@
       "profile": "sbt_eYSqWBtzmjvC",
       "group": "NACA 6 series airfoils"
     },
-    "NACA633018": {
-      "name": "NACA633018",
+    "NACA 63(3)-018 (naca633018-il)": {
+      "name": "NACA 63(3)-018 (naca633018-il)",
       "curves": {
         "CL_1000000": "spl_SWRwe7o72w68",
         "CL_500000": "spl_GL38pJj57j9U",
@@ -1476,8 +1476,8 @@
       "profile": "sbt_3Cmnf1LeGVAM",
       "group": "NACA 6 series airfoils"
     },
-    "NACA632A015": {
-      "name": "NACA632A015",
+    "NACA 63(2)A-015 (naca632a015-il)": {
+      "name": "NACA 63(2)A-015 (naca632a015-il)",
       "curves": {
         "CL_1000000": "spl_zXysxEDJOIqC",
         "CL_500000": "spl_cPWlcC6iFDRP",
@@ -1498,8 +1498,8 @@
       "profile": "sbt_XRb8fJDireg3",
       "group": "NACA 6 series airfoils"
     },
-    "NACA632615": {
-      "name": "NACA632615",
+    "NACA 63(2)-615 (naca632615-il)": {
+      "name": "NACA 63(2)-615 (naca632615-il)",
       "curves": {
         "CL_1000000": "spl_PIny8nqI8i0Y",
         "CL_500000": "spl_Fp6s3Dg2lBj0",
@@ -1520,8 +1520,8 @@
       "profile": "sbt_caSwMqQQupkr",
       "group": "NACA 6 series airfoils"
     },
-    "NACA63209": {
-      "name": "NACA63209",
+    "NACA 63-209 (naca63209-il)": {
+      "name": "NACA 63-209 (naca63209-il)",
       "curves": {
         "CL_1000000": "spl_lIMpv41aOZ14",
         "CL_500000": "spl_XSm0P76kOy5g",
@@ -1542,8 +1542,8 @@
       "profile": "sbt_hpLnQdWqmHMl",
       "group": "NACA 6 series airfoils"
     },
-    "NACA63206": {
-      "name": "NACA63206",
+    "NACA 63-206 (naca63206-il)": {
+      "name": "NACA 63-206 (naca63206-il)",
       "curves": {
         "CL_1000000": "spl_ZcGOpzuc58bq",
         "CL_500000": "spl_PDaC9SeFb0Fg",
@@ -1564,8 +1564,8 @@
       "profile": "sbt_Nkl2YYG8EQnh",
       "group": "NACA 6 series airfoils"
     },
-    "N66021": {
-      "name": "N66021",
+    "NACA 66-021 AIRFOIL (n66021-il)": {
+      "name": "NACA 66-021 AIRFOIL (n66021-il)",
       "curves": {
         "CL_1000000": "spl_2nM2wCHdPV3R",
         "CL_500000": "spl_OUEUUs9VBCwI",
@@ -1586,8 +1586,8 @@
       "profile": "sbt_nEWgYu17kYVm",
       "group": "NACA 6 series airfoils"
     },
-    "N64215": {
-      "name": "N64215",
+    "NACA 64-215 AIRFOIL (n64215-il)": {
+      "name": "NACA 64-215 AIRFOIL (n64215-il)",
       "curves": {
         "CL_1000000": "spl_5TuDzbL6Uemn",
         "CL_500000": "spl_PQe5ikE7SnfY",
@@ -1608,8 +1608,8 @@
       "profile": "sbt_BstBfpuScEUc",
       "group": "NACA 6 series airfoils"
     },
-    "N64212MB": {
-      "name": "N64212MB",
+    "NACA 64(1)-212 MOD B (n64212mb-il)": {
+      "name": "NACA 64(1)-212 MOD B (n64212mb-il)",
       "curves": {
         "CL_1000000": "spl_nVWN6NWb7itk",
         "CL_500000": "spl_iRBApCinCwd9",
@@ -1630,8 +1630,8 @@
       "profile": "sbt_aewJfWrYmfgZ",
       "group": "NACA 6 series airfoils"
     },
-    "N64212MA": {
-      "name": "N64212MA",
+    "NACA 64(1)-212 MOD A (n64212ma-il)": {
+      "name": "NACA 64(1)-212 MOD A (n64212ma-il)",
       "curves": {
         "CL_1000000": "spl_g1TDZisbLopW",
         "CL_500000": "spl_umzc14Op2ZU1",
@@ -1652,8 +1652,8 @@
       "profile": "sbt_tnZbUHv0uTGO",
       "group": "NACA 6 series airfoils"
     },
-    "N64212": {
-      "name": "N64212",
+    "NACA 64(1)-212 (n64212-il)": {
+      "name": "NACA 64(1)-212 (n64212-il)",
       "curves": {
         "CL_1000000": "spl_jd7xTQKc0IYP",
         "CL_500000": "spl_9vcRzntwEMk8",
@@ -1674,8 +1674,8 @@
       "profile": "sbt_x1jDosLEmEF6",
       "group": "NACA 6 series airfoils"
     },
-    "N64110": {
-      "name": "N64110",
+    "NACA 64-110 AIRFOIL (n64110-il)": {
+      "name": "NACA 64-110 AIRFOIL (n64110-il)",
       "curves": {
         "CL_1000000": "spl_ggDvEyNiYwpd",
         "CL_500000": "spl_iUtXXWSMTTiB",
@@ -1696,8 +1696,8 @@
       "profile": "sbt_J8zx2Nw8qLo8",
       "group": "NACA 6 series airfoils"
     },
-    "N64108": {
-      "name": "N64108",
+    "NACA 64-108 AIRFOIL (n64108-il)": {
+      "name": "NACA 64-108 AIRFOIL (n64108-il)",
       "curves": {
         "CL_1000000": "spl_Rn076eJGErhl",
         "CL_500000": "spl_wwqkxjS5LfPF",
@@ -1718,8 +1718,8 @@
       "profile": "sbt_SWAsgtWLLLJS",
       "group": "NACA 6 series airfoils"
     },
-    "N64015A": {
-      "name": "N64015A",
+    "NACA 642-015A AIRFOIL (n64015a-il)": {
+      "name": "NACA 642-015A AIRFOIL (n64015a-il)",
       "curves": {
         "CL_1000000": "spl_r3ZWu0LXxfYh",
         "CL_500000": "spl_coDoxakDGHRf",
@@ -1740,8 +1740,8 @@
       "profile": "sbt_hijx9rp8s2Xm",
       "group": "NACA 6 series airfoils"
     },
-    "N64015": {
-      "name": "N64015",
+    "NACA 642-015 AIRFOIL (n64015-il)": {
+      "name": "NACA 642-015 AIRFOIL (n64015-il)",
       "curves": {
         "CL_1000000": "spl_nZFhbigIj5NG",
         "CL_500000": "spl_0sRA7M4o2YTr",
@@ -1762,8 +1762,30 @@
       "profile": "sbt_A76x4ZFyb1w6",
       "group": "NACA 6 series airfoils"
     },
-    "N64012": {
-      "name": "N64012",
+    "NACA 64-012A AIRFOIL (n64012a-il)": {
+      "name": "NACA 64-012A AIRFOIL (n64012a-il)",
+      "curves": {
+        "CL_1000000": "spl_MDndUPHC1N92",
+        "CL_500000": "spl_CQEpv5HAF2uS",
+        "CL_200000": "spl_Ygk8L83f1L46",
+        "CL_100000": "spl_PC8Bq4SZpmeP",
+        "CL_50000": "spl_TuloV2CNsdeX",
+        "CD_1000000": "spl_yCU0X0CN0KkF",
+        "CD_500000": "spl_BBCGX42l7Qk4",
+        "CD_200000": "spl_kJf1zf9Bp2Hh",
+        "CD_100000": "spl_J3eVHDscAtwS",
+        "CD_50000": "spl_gwNHiGbUuVTs",
+        "CM_1000000": "spl_WP5KmXwef1eV",
+        "CM_500000": "spl_9Ls5qrnfwFMF",
+        "CM_200000": "spl_ccWvCX6ynV3j",
+        "CM_100000": "spl_niQh4LjnJSKE",
+        "CM_50000": "spl_h1gSpcxq9I55"
+      },
+      "profile": "sbt_s0fW5j5KBORc",
+      "group": "NACA 6 series airfoils"
+    },
+    "NASALANGLEY 64-012 AIRFOIL (n64012-il)": {
+      "name": "NASALANGLEY 64-012 AIRFOIL (n64012-il)",
       "curves": {
         "CL_1000000": "spl_Ph06R3K4afSS",
         "CL_500000": "spl_co0qS028Kk2u",
@@ -1784,8 +1806,8 @@
       "profile": "sbt_Eb4mFUcVGIY4",
       "group": "NACA 6 series airfoils"
     },
-    "N63415": {
-      "name": "N63415",
+    "NACA 63-415 AIRFOIL (n63415-il)": {
+      "name": "NACA 63-415 AIRFOIL (n63415-il)",
       "curves": {
         "CL_1000000": "spl_KOv59JZ6a3RA",
         "CL_500000": "spl_pIhMbhSrODHZ",
@@ -1806,8 +1828,8 @@
       "profile": "sbt_yrR7nvafOrwF",
       "group": "NACA 6 series airfoils"
     },
-    "N63412": {
-      "name": "N63412",
+    "NACA 63-412 AIRFOIL (n63412-il)": {
+      "name": "NACA 63-412 AIRFOIL (n63412-il)",
       "curves": {
         "CL_1000000": "spl_2rViHtqSxpDe",
         "CL_500000": "spl_UrUFpvcLqFxS",
@@ -1828,8 +1850,8 @@
       "profile": "sbt_VW6TLGhqMLRi",
       "group": "NACA 6 series airfoils"
     },
-    "N63215B": {
-      "name": "N63215B",
+    "NACA 63(2)-215 MOD B (n63215b-il)": {
+      "name": "NACA 63(2)-215 MOD B (n63215b-il)",
       "curves": {
         "CL_1000000": "spl_3Uc4bQnLxAWV",
         "CL_500000": "spl_jJsq2QyXr2h0",
@@ -1850,8 +1872,8 @@
       "profile": "sbt_kUOyCgyZvNNS",
       "group": "NACA 6 series airfoils"
     },
-    "N63215": {
-      "name": "N63215",
+    "NACA 63-215 AIRFOIL (n63215-il)": {
+      "name": "NACA 63-215 AIRFOIL (n63215-il)",
       "curves": {
         "CL_1000000": "spl_44IPOlWhJJpX",
         "CL_500000": "spl_QzEmNRIKHQOa",
@@ -1872,8 +1894,8 @@
       "profile": "sbt_9kZqZbFr6Nn9",
       "group": "NACA 6 series airfoils"
     },
-    "N63212": {
-      "name": "N63212",
+    "NACA 63-212 AIRFOIL (n63212-il)": {
+      "name": "NACA 63-212 AIRFOIL (n63212-il)",
       "curves": {
         "CL_1000000": "spl_zpc3vkaiWr7v",
         "CL_500000": "spl_fb1TczXgh5Sg",
@@ -1894,8 +1916,8 @@
       "profile": "sbt_MAOrWmErNZUa",
       "group": "NACA 6 series airfoils"
     },
-    "N63210": {
-      "name": "N63210",
+    "NACA 63-210 AIRFOIL (n63210-il)": {
+      "name": "NACA 63-210 AIRFOIL (n63210-il)",
       "curves": {
         "CL_1000000": "spl_FVSzkWrPtAbV",
         "CL_500000": "spl_90zkM3gQJ2lm",
@@ -1916,8 +1938,8 @@
       "profile": "sbt_AfnajnXWA7nj",
       "group": "NACA 6 series airfoils"
     },
-    "N63015A": {
-      "name": "N63015A",
+    "NACA 63-015A AIRFOIL (n63015a-il)": {
+      "name": "NACA 63-015A AIRFOIL (n63015a-il)",
       "curves": {
         "CL_1000000": "spl_bA7UqKUhRcmI",
         "CL_500000": "spl_A39HepsjA6Jb",
@@ -1937,211 +1959,77 @@
       },
       "profile": "sbt_pmmO4hOfCM5C",
       "group": "NACA 6 series airfoils"
-    }
-  },
-  "NACA 5 digit airfoils": {
-    "NACA25112": {
-      "name": "NACA25112",
-      "curves": {
-        "CL_1000000": "spl_zAFGrY1FYcjj",
-        "CL_500000": "spl_Zg4lNIEJB7Fg",
-        "CL_200000": "spl_9innbyxZNsWY",
-        "CL_100000": "spl_t3SNZ46GTsvq",
-        "CL_50000": "spl_FGt4ls9uS0ql",
-        "CD_1000000": "spl_yHo5prLgEWAF",
-        "CD_500000": "spl_85pTANjS6MWx",
-        "CD_200000": "spl_o6gyGgiAt539",
-        "CD_100000": "spl_Se0xBk52t3Dx",
-        "CD_50000": "spl_dBiPTBPvvc6z",
-        "CM_1000000": "spl_ePynEQkNYrNj",
-        "CM_500000": "spl_eAEesr3AJaHE",
-        "CM_200000": "spl_pgz5b55p9ekV",
-        "CM_100000": "spl_MqPy3VvD60os",
-        "CM_50000": "spl_wbZLoRb3OFAw"
-      },
-      "profile": "sbt_xXYzM0YMc8i8",
-      "group": "NACA 5 digit airfoils"
     },
-    "NACA24112": {
-      "name": "NACA24112",
+    "NACA 63012A AIRFOIL (n63012a-il)": {
+      "name": "NACA 63012A AIRFOIL (n63012a-il)",
       "curves": {
-        "CL_1000000": "spl_iaKobZ9ijsF7",
-        "CL_500000": "spl_or16tfr2N5vq",
-        "CL_200000": "spl_OvQUatraQ6Gr",
-        "CL_100000": "spl_2pAk0NxNkRnN",
-        "CL_50000": "spl_ylGhL4vHHnCa",
-        "CD_1000000": "spl_IjodkxlR11iy",
-        "CD_500000": "spl_vwaWhzHgV2Gl",
-        "CD_200000": "spl_ia7YiddY4u5x",
-        "CD_100000": "spl_tOhsDvpMLDQg",
-        "CD_50000": "spl_U1pwPO30Aj2G",
-        "CM_1000000": "spl_q9BUuIdRoBN3",
-        "CM_500000": "spl_ckC1jotrHAZX",
-        "CM_200000": "spl_TeziZ1zgQTNT",
-        "CM_100000": "spl_dCQ0vpcCb1wn",
-        "CM_50000": "spl_ENd0ZzmiP6Dz"
+        "CL_1000000": "spl_Aj2ZkQLchCaD",
+        "CL_500000": "spl_aNrKfMr6Tx6o",
+        "CL_200000": "spl_WtFZEioLvsu2",
+        "CL_100000": "spl_horss1xguDl3",
+        "CL_50000": "spl_yAfR14LSusCT",
+        "CD_1000000": "spl_k3A8cswWR0Yf",
+        "CD_500000": "spl_tjmIhBbegjQd",
+        "CD_200000": "spl_bNy31JMOYKJ4",
+        "CD_100000": "spl_Bk8AbJEZQfN3",
+        "CD_50000": "spl_BCotrCq20fNh",
+        "CM_50000": "spl_4fBUqvdtdOHs",
+        "CM_1000000": "spl_OMN2rsGoOmEI",
+        "CM_500000": "spl_dJXaZBpiWhXZ",
+        "CM_200000": "spl_HV5IyU5P9qnu",
+        "CM_100000": "spl_m767bL2HsanB"
       },
-      "profile": "sbt_Jg3Ws1u6riop",
-      "group": "NACA 5 digit airfoils"
+      "profile": "sbt_IQidxwu74mJk",
+      "group": "NACA 6 series airfoils"
     },
-    "NACA23112": {
-      "name": "NACA23112",
+    "NACA 63A010 AIRFOIL (n63010a-il)": {
+      "name": "NACA 63A010 AIRFOIL (n63010a-il)",
       "curves": {
-        "CL_1000000": "spl_D0HaAOXpFvA2",
-        "CL_500000": "spl_uZ7sHBCNpaHq",
-        "CL_200000": "spl_hzY7tqcd41vc",
-        "CL_100000": "spl_ZV6dwBOog37X",
-        "CL_50000": "spl_GZu68M34SAom",
-        "CD_1000000": "spl_XKLpWYAmn8mV",
-        "CD_500000": "spl_o7FcmGeFqQ1o",
-        "CD_200000": "spl_oDLMISuLL3E0",
-        "CD_100000": "spl_bUCOPmvP61jj",
-        "CD_50000": "spl_QROvZPegbgJn",
-        "CM_1000000": "spl_ILb80lGYev00",
-        "CM_500000": "spl_1z3QEL8ozyM4",
-        "CM_200000": "spl_V9FGYVNA2f7m",
-        "CM_100000": "spl_LefRTPTbHdpm",
-        "CM_50000": "spl_X1lkd9xYaxFZ"
+        "CL_1000000": "spl_Lh29gMrgEncy",
+        "CL_500000": "spl_ILvBtgzVLKN9",
+        "CL_200000": "spl_zAiQlmseJ6zf",
+        "CL_100000": "spl_4Qs4kwVksfBS",
+        "CL_50000": "spl_BpjX0HVzuvtR",
+        "CD_1000000": "spl_i7hIbPADkrdv",
+        "CD_500000": "spl_8gSFL34NRPxt",
+        "CD_200000": "spl_fC7YvzlxNgf8",
+        "CD_100000": "spl_7kKWRZ0u23nQ",
+        "CD_50000": "spl_xQLAOIuOGiCc",
+        "CM_1000000": "spl_mjFGpsMXkQBx",
+        "CM_500000": "spl_ZcrAf3UAarv1",
+        "CM_200000": "spl_MNfzDz0AbgoD",
+        "CM_100000": "spl_lxZMioylbZb5",
+        "CM_50000": "spl_k7QpjYEXvVCM"
       },
-      "profile": "sbt_ZtRtsdn8KMeC",
-      "group": "NACA 5 digit airfoils"
-    },
-    "NACA23024": {
-      "name": "NACA23024",
-      "curves": {
-        "CL_1000000": "spl_shnw84xlmkVE",
-        "CL_500000": "spl_XGw6JM2fHGpf",
-        "CL_200000": "spl_kTUwzIYxfSF8",
-        "CL_100000": "spl_85rgNwRspZgm",
-        "CL_50000": "spl_EAEkie7SweUI",
-        "CD_1000000": "spl_9TsxJJBRCcQF",
-        "CD_500000": "spl_vADnTKIJvFTx",
-        "CD_200000": "spl_6K1GcYcPQsAh",
-        "CD_100000": "spl_HXqJzsIDLp3F",
-        "CD_50000": "spl_Fsdh5RGwYtsp",
-        "CM_1000000": "spl_9Xf1dQqMlXYp",
-        "CM_500000": "spl_B8Zmt83ukFzC",
-        "CM_200000": "spl_D9ncWtdqn37N",
-        "CM_100000": "spl_3Dr1obspsWws",
-        "CM_50000": "spl_BZiLAqXuaxZj"
-      },
-      "profile": "sbt_2O2ophr1vvGH",
-      "group": "NACA 5 digit airfoils"
-    },
-    "NACA23021": {
-      "name": "NACA23021",
-      "curves": {
-        "CL_1000000": "spl_kQAF5xBUPGrD",
-        "CL_500000": "spl_IJ0Ok62AVQEL",
-        "CL_200000": "spl_ac0qzith9Qh0",
-        "CL_100000": "spl_jzsD7aN5HnFP",
-        "CL_50000": "spl_uE2cpZvWUZM9",
-        "CD_1000000": "spl_vIUDphPCpqbo",
-        "CD_500000": "spl_p3pyUXd3pCM7",
-        "CD_200000": "spl_L0FQh6a8Y7Q3",
-        "CD_100000": "spl_j2aaB79tEYuI",
-        "CD_50000": "spl_0HgvQis0RqAU",
-        "CM_1000000": "spl_8nZ5y4eO1bgV",
-        "CM_500000": "spl_vuYXlk1vDmO8",
-        "CM_200000": "spl_172AXKSTJNOs",
-        "CM_100000": "spl_rgpM6PbU1hLu",
-        "CM_50000": "spl_GAF2kP6QADcg"
-      },
-      "profile": "sbt_JyGU9lLoYzfy",
-      "group": "NACA 5 digit airfoils"
-    },
-    "NACA23018": {
-      "name": "NACA23018",
-      "curves": {
-        "CL_1000000": "spl_RBWLCDNUHqDI",
-        "CL_500000": "spl_VsWrtMikggwl",
-        "CL_200000": "spl_2rOY04DWJSAT",
-        "CL_100000": "spl_6CN3TswG5mbW",
-        "CL_50000": "spl_ki8LzRCJUOp7",
-        "CD_1000000": "spl_kQnKGJLzJSyW",
-        "CD_500000": "spl_i428lnaa0eLB",
-        "CD_200000": "spl_kToGTdiO9d73",
-        "CD_100000": "spl_HPuFTdrpodb1",
-        "CD_50000": "spl_6QQ7ffhhA5up",
-        "CM_1000000": "spl_ew1Ki7havDjY",
-        "CM_500000": "spl_UlBxnQaP4nkU",
-        "CM_200000": "spl_BEkzXhOBWNYY",
-        "CM_100000": "spl_KTLiUzXaDQfg",
-        "CM_50000": "spl_bLgCJ1Ywji2R"
-      },
-      "profile": "sbt_hZ4BnMY3c2LU",
-      "group": "NACA 5 digit airfoils"
-    },
-    "NACA23015": {
-      "name": "NACA23015",
-      "curves": {
-        "CL_1000000": "spl_hct3Chsudaf9",
-        "CL_500000": "spl_9EGj3v9lslEq",
-        "CL_200000": "spl_6cycNn5jh1zP",
-        "CL_100000": "spl_eQBnCf4EZvT6",
-        "CL_50000": "spl_yV1bvSy41pYX",
-        "CD_1000000": "spl_uwlvRlejDF0j",
-        "CD_500000": "spl_3nFoJ1R4KU61",
-        "CD_200000": "spl_E8DA80HF0rJl",
-        "CD_100000": "spl_I0UlK4AE8ABr",
-        "CD_50000": "spl_4L4HOGtNp88W",
-        "CM_1000000": "spl_j9BcG1QjrH3H",
-        "CM_500000": "spl_rwBan4d4sM0t",
-        "CM_200000": "spl_15Av1nB3f3eW",
-        "CM_100000": "spl_2Y5OzCoLICo9",
-        "CM_50000": "spl_QrYnyEjQeYou"
-      },
-      "profile": "sbt_9X9MRjBRpO0a",
-      "group": "NACA 5 digit airfoils"
-    },
-    "NACA23012": {
-      "name": "NACA23012",
-      "curves": {
-        "CL_1000000": "spl_alpcMdjsggXp",
-        "CL_500000": "spl_DPAzB3XV6uIN",
-        "CL_200000": "spl_6bMg2JIA0di1",
-        "CL_100000": "spl_cGqfIUEDKD19",
-        "CL_50000": "spl_LYfPcNnS7Uzh",
-        "CD_1000000": "spl_teyvW3Thr1Dv",
-        "CD_500000": "spl_IRawyo6xldCM",
-        "CD_200000": "spl_tPFsDdwu0gzV",
-        "CD_100000": "spl_rgbVZYC3XDa3",
-        "CD_50000": "spl_kpboMwe1WSZs",
-        "CM_1000000": "spl_eIkx4ecA5onT",
-        "CM_500000": "spl_JIWex6LmN303",
-        "CM_200000": "spl_JigD3Req3aOZ",
-        "CM_100000": "spl_Q3bmVTxxeZPB",
-        "CM_50000": "spl_L0Qgvg9MVO0b"
-      },
-      "profile": "sbt_iPJ3jL91RK1Q",
-      "group": "NACA 5 digit airfoils"
-    },
-    "NACA22112": {
-      "name": "NACA22112",
-      "curves": {
-        "CL_1000000": "spl_E1gwZjacT6fO",
-        "CL_500000": "spl_Qqr6LTU3Qf5f",
-        "CL_200000": "spl_eO0nVBZk5Nhu",
-        "CL_100000": "spl_2pLraseSa1W6",
-        "CL_50000": "spl_SoTz8USgMO2G",
-        "CD_1000000": "spl_roWpofxMSu4Y",
-        "CD_500000": "spl_VVqQY3aSKM75",
-        "CD_200000": "spl_A56psL5fXNxD",
-        "CD_100000": "spl_fHgm8djoX5qv",
-        "CD_50000": "spl_QQUYLyJa94OS",
-        "CM_1000000": "spl_hacwdCilgUsX",
-        "CM_500000": "spl_ZB539HzMhXtS",
-        "CM_200000": "spl_pYgf4sMSbKQl",
-        "CM_100000": "spl_zwBA4t8lLuAT",
-        "CM_50000": "spl_fp1aPl1cY9mC"
-      },
-      "profile": "sbt_hnE3Dws5hupK",
-      "group": "NACA 5 digit airfoils"
+      "profile": "sbt_WkjjhA7Ydfqc",
+      "group": "NACA 6 series airfoils"
     }
   },
   "NACA 4 digit airfoils": {
-    "NACA4415": {
-      "name": "NACA4415",
+    "NACA0012H for VAWT from Sandia report SAND80-2114 (naca0012h-sa)": {
+      "name": "NACA0012H for VAWT from Sandia report SAND80-2114 (naca0012h-sa)",
+      "curves": {
+        "CL_1000000": "spl_qWrVdf2LBGfs",
+        "CL_500000": "spl_44L8XfDbURQJ",
+        "CL_200000": "spl_0ZXbpVIbnt8i",
+        "CL_100000": "spl_Ck1nzwQSy2vy",
+        "CL_50000": "spl_B5NFOK7W9eKH",
+        "CD_1000000": "spl_Zjhr1BJTtFgN",
+        "CD_500000": "spl_k5hkglqTDdzn",
+        "CD_200000": "spl_W7uBWoIDOutQ",
+        "CD_100000": "spl_p6fLjBmOCcPe",
+        "CD_50000": "spl_ztSnHOm2Nejl",
+        "CM_1000000": "spl_exRC9HdcS24r",
+        "CM_500000": "spl_syl7ZGkZucL0",
+        "CM_200000": "spl_SuLNHXE176O2",
+        "CM_100000": "spl_oal31FfFqheO",
+        "CM_50000": "spl_PZ8zIkvQlsqP"
+      },
+      "profile": "sbt_iMBBheWIfE4p",
+      "group": "NACA 4 digit airfoils"
+    },
+    "NACA 4415 (naca4415-il)": {
+      "name": "NACA 4415 (naca4415-il)",
       "curves": {
         "CL_1000000": "spl_DjgBLyBf0h3a",
         "CL_500000": "spl_Td0ZQHfKLv9H",
@@ -2162,8 +2050,8 @@
       "profile": "sbt_zGYy02CchXSD",
       "group": "NACA 4 digit airfoils"
     },
-    "NACA4412": {
-      "name": "NACA4412",
+    "NACA 4412 (naca4412-il)": {
+      "name": "NACA 4412 (naca4412-il)",
       "curves": {
         "CL_1000000": "spl_5MJnqWp8tFjk",
         "CL_500000": "spl_cTj0LM7UbRHv",
@@ -2184,8 +2072,8 @@
       "profile": "sbt_V42a8R5YYwpR",
       "group": "NACA 4 digit airfoils"
     },
-    "NACA2424": {
-      "name": "NACA2424",
+    "NACA 2424 (naca2424-il)": {
+      "name": "NACA 2424 (naca2424-il)",
       "curves": {
         "CL_1000000": "spl_34mtYmTF3GrT",
         "CL_500000": "spl_kXBbwrs4gEo7",
@@ -2206,8 +2094,8 @@
       "profile": "sbt_UGRALQJ4b8Fg",
       "group": "NACA 4 digit airfoils"
     },
-    "NACA2421": {
-      "name": "NACA2421",
+    "NACA 2421 (naca2421-il)": {
+      "name": "NACA 2421 (naca2421-il)",
       "curves": {
         "CL_1000000": "spl_uBRX9gkzZxao",
         "CL_500000": "spl_lR07AgwS5B7x",
@@ -2228,8 +2116,8 @@
       "profile": "sbt_etv4n7RWrjRW",
       "group": "NACA 4 digit airfoils"
     },
-    "NACA2418": {
-      "name": "NACA2418",
+    "NACA 2418 (naca2418-il)": {
+      "name": "NACA 2418 (naca2418-il)",
       "curves": {
         "CL_1000000": "spl_xgXUiYFrG1SP",
         "CL_500000": "spl_cph5DLUhPlvu",
@@ -2250,8 +2138,8 @@
       "profile": "sbt_4aJ6sXflQ8An",
       "group": "NACA 4 digit airfoils"
     },
-    "NACA6412": {
-      "name": "NACA6412",
+    "NACA 6412 (naca6412-il)": {
+      "name": "NACA 6412 (naca6412-il)",
       "curves": {
         "CL_1000000": "spl_AwKGBXt5NltU",
         "CL_500000": "spl_OvY172tNbchB",
@@ -2272,8 +2160,8 @@
       "profile": "sbt_2klrqTK3s1wP",
       "group": "NACA 4 digit airfoils"
     },
-    "NACA4424": {
-      "name": "NACA4424",
+    "NACA 4424 (naca4424-il)": {
+      "name": "NACA 4424 (naca4424-il)",
       "curves": {
         "CL_1000000": "spl_hIU0b1lXCL41",
         "CL_500000": "spl_kuIyShGYMOAG",
@@ -2294,8 +2182,8 @@
       "profile": "sbt_mwTQQKk7FwGV",
       "group": "NACA 4 digit airfoils"
     },
-    "NACA4421": {
-      "name": "NACA4421",
+    "NACA 4421 (naca4421-il)": {
+      "name": "NACA 4421 (naca4421-il)",
       "curves": {
         "CL_1000000": "spl_stHUWQcgFxXz",
         "CL_500000": "spl_rzVwufMc4EON",
@@ -2316,8 +2204,8 @@
       "profile": "sbt_kCK8wamGHufO",
       "group": "NACA 4 digit airfoils"
     },
-    "NACA4418": {
-      "name": "NACA4418",
+    "NACA 4418 (naca4418-il)": {
+      "name": "NACA 4418 (naca4418-il)",
       "curves": {
         "CL_1000000": "spl_WKY1x3rhB1nQ",
         "CL_500000": "spl_ntYLyIStzsL7",
@@ -2338,8 +2226,8 @@
       "profile": "sbt_xLnokqzekosk",
       "group": "NACA 4 digit airfoils"
     },
-    "NACA2412": {
-      "name": "NACA2412",
+    "NACA 2412 (naca2412-il)": {
+      "name": "NACA 2412 (naca2412-il)",
       "curves": {
         "CL_1000000": "spl_LGvRB54rkWrh",
         "CL_500000": "spl_Z1204OgA9EBU",
@@ -2360,8 +2248,8 @@
       "profile": "sbt_Z0oxbaKKzjkQ",
       "group": "NACA 4 digit airfoils"
     },
-    "NACA2411": {
-      "name": "NACA2411",
+    "NACA 2.5411 (naca2411-il)": {
+      "name": "NACA 2.5411 (naca2411-il)",
       "curves": {
         "CL_1000000": "spl_jDNAjSIu5sSq",
         "CL_500000": "spl_ECHBSbaII4C8",
@@ -2382,8 +2270,8 @@
       "profile": "sbt_KwYb1sxdiDzL",
       "group": "NACA 4 digit airfoils"
     },
-    "NACA2410": {
-      "name": "NACA2410",
+    "NACA 2410 (naca2410-il)": {
+      "name": "NACA 2410 (naca2410-il)",
       "curves": {
         "CL_1000000": "spl_8jof5bmQxzKQ",
         "CL_500000": "spl_a3M6UGVIyOU5",
@@ -2404,8 +2292,8 @@
       "profile": "sbt_kuMNPpAKM23K",
       "group": "NACA 4 digit airfoils"
     },
-    "NACA2408": {
-      "name": "NACA2408",
+    "NACA 2408 (naca2408-il)": {
+      "name": "NACA 2408 (naca2408-il)",
       "curves": {
         "CL_1000000": "spl_hgUlOjkYpIAj",
         "CL_500000": "spl_lgv90Z4SK1xj",
@@ -2426,8 +2314,8 @@
       "profile": "sbt_oll9JwctqjUx",
       "group": "NACA 4 digit airfoils"
     },
-    "NACA1412": {
-      "name": "NACA1412",
+    "NACA 1412 (naca1412-il)": {
+      "name": "NACA 1412 (naca1412-il)",
       "curves": {
         "CL_1000000": "spl_ws8Or14BL8D0",
         "CL_500000": "spl_dmtqlpVyR6c9",
@@ -2448,8 +2336,8 @@
       "profile": "sbt_85QKliXZEcj9",
       "group": "NACA 4 digit airfoils"
     },
-    "NACA1410": {
-      "name": "NACA1410",
+    "NACA 1410 (naca1410-il)": {
+      "name": "NACA 1410 (naca1410-il)",
       "curves": {
         "CL_1000000": "spl_2mITczqsBi9Z",
         "CL_500000": "spl_iYQPJNrbt3bf",
@@ -2470,8 +2358,8 @@
       "profile": "sbt_LKi1dDlosKVc",
       "group": "NACA 4 digit airfoils"
     },
-    "NACA1408": {
-      "name": "NACA1408",
+    "NACA 1408 (naca1408-il)": {
+      "name": "NACA 1408 (naca1408-il)",
       "curves": {
         "CL_1000000": "spl_GSHVJHedxsiL",
         "CL_500000": "spl_qBiE1wyefjPN",
@@ -2492,8 +2380,8 @@
       "profile": "sbt_49lpFNHX2K2w",
       "group": "NACA 4 digit airfoils"
     },
-    "NACA0024": {
-      "name": "NACA0024",
+    "NACA 0024 (naca0024-il)": {
+      "name": "NACA 0024 (naca0024-il)",
       "curves": {
         "CL_1000000": "spl_W48ObliMLAok",
         "CL_500000": "spl_rcCmoDsANtRU",
@@ -2514,8 +2402,8 @@
       "profile": "sbt_wEtISlAqfObT",
       "group": "NACA 4 digit airfoils"
     },
-    "NACA0021": {
-      "name": "NACA0021",
+    "NACA 0021 (naca0021-il)": {
+      "name": "NACA 0021 (naca0021-il)",
       "curves": {
         "CL_1000000": "spl_89SRgVVfOn5T",
         "CL_500000": "spl_GhRN3N7ldZcR",
@@ -2536,8 +2424,8 @@
       "profile": "sbt_rbYH3Wd7HMXJ",
       "group": "NACA 4 digit airfoils"
     },
-    "NACA0018": {
-      "name": "NACA0018",
+    "NACA 0018 (naca0018-il)": {
+      "name": "NACA 0018 (naca0018-il)",
       "curves": {
         "CL_1000000": "spl_54qMXA2Y6ToW",
         "CL_500000": "spl_UdLwk4jJf3mZ",
@@ -2558,8 +2446,8 @@
       "profile": "sbt_LarevCchQa8W",
       "group": "NACA 4 digit airfoils"
     },
-    "NACA0015": {
-      "name": "NACA0015",
+    "NACA 0015 (naca0015-il)": {
+      "name": "NACA 0015 (naca0015-il)",
       "curves": {
         "CL_1000000": "spl_UydXBEBXBZ4O",
         "CL_500000": "spl_yCcnm2Z1D0EG",
@@ -2580,8 +2468,8 @@
       "profile": "sbt_rR0VWJCJlCeq",
       "group": "NACA 4 digit airfoils"
     },
-    "NACA0010": {
-      "name": "NACA0010",
+    "NACA 0010 (naca0010-il)": {
+      "name": "NACA 0010 (naca0010-il)",
       "curves": {
         "CL_1000000": "spl_F4CQVirDUtrN",
         "CL_500000": "spl_YwViyIxGczPf",
@@ -2602,8 +2490,8 @@
       "profile": "sbt_T0NSEZbRax9o",
       "group": "NACA 4 digit airfoils"
     },
-    "NACA0008": {
-      "name": "NACA0008",
+    "NACA 0008 (naca0008-il)": {
+      "name": "NACA 0008 (naca0008-il)",
       "curves": {
         "CL_1000000": "spl_X6Ht4PuPIFCq",
         "CL_500000": "spl_GGreGjrUGMpG",
@@ -2624,8 +2512,8 @@
       "profile": "sbt_u2XH2FWUX324",
       "group": "NACA 4 digit airfoils"
     },
-    "N6409": {
-      "name": "N6409",
+    "NACA 6409 9% (n6409-il)": {
+      "name": "NACA 6409 9% (n6409-il)",
       "curves": {
         "CL_1000000": "spl_ei4AYYRWDbf7",
         "CL_500000": "spl_ECAzQ6U3ZZZV",
@@ -2646,8 +2534,8 @@
       "profile": "sbt_soCLP72FP55X",
       "group": "NACA 4 digit airfoils"
     },
-    "N2415": {
-      "name": "N2415",
+    "NACA 2415 (n2415-il)": {
+      "name": "NACA 2415 (n2415-il)",
       "curves": {
         "CL_1000000": "spl_c7pIQoSnBdij",
         "CL_500000": "spl_27cU0D4cCtkC",
@@ -2668,8 +2556,8 @@
       "profile": "sbt_qyg2XhaB9awv",
       "group": "NACA 4 digit airfoils"
     },
-    "N2414": {
-      "name": "N2414",
+    "NACA 2414 (n2414-il)": {
+      "name": "NACA 2414 (n2414-il)",
       "curves": {
         "CL_1000000": "spl_0ItHgWC3ESI2",
         "CL_500000": "spl_lpPkfhnTwXCk",
@@ -2690,8 +2578,8 @@
       "profile": "sbt_iiWJ380as5DK",
       "group": "NACA 4 digit airfoils"
     },
-    "N0012": {
-      "name": "N0012",
+    "NACA 0012 (n0012-il)": {
+      "name": "NACA 0012 (n0012-il)",
       "curves": {
         "CL_1000000": "spl_g4ZnLyQzjc3e",
         "CL_500000": "spl_vFGg2DdiI7vK",
@@ -2712,8 +2600,8 @@
       "profile": "sbt_MfimSRAak7SO",
       "group": "NACA 4 digit airfoils"
     },
-    "N0009SM": {
-      "name": "N0009SM",
+    "NACA 0009 9.0% smoothed (n0009sm-il)": {
+      "name": "NACA 0009 9.0% smoothed (n0009sm-il)",
       "curves": {
         "CL_1000000": "spl_t0GgmHfe1cYl",
         "CL_500000": "spl_hbV7zn4Q8CmH",
@@ -2736,8 +2624,30 @@
     }
   },
   "Symmetrical airfoils database": {
-    "BQM34": {
-      "name": "BQM34",
+    "NACA 64-008A AIRFOIL (n64008a-il)": {
+      "name": "NACA 64-008A AIRFOIL (n64008a-il)",
+      "curves": {
+        "CL_1000000": "spl_H1u9xD84bb1K",
+        "CL_500000": "spl_qEdwiIlU0s3B",
+        "CL_200000": "spl_t08BU3dxvhid",
+        "CL_100000": "spl_F8O2ES3teaRX",
+        "CL_50000": "spl_5vJHu8eovwEm",
+        "CD_1000000": "spl_x2wKnFMz5V2c",
+        "CD_500000": "spl_d0byciRbze5q",
+        "CD_200000": "spl_c68Fa9eNRo7T",
+        "CD_100000": "spl_UYl3PleCtAfC",
+        "CD_50000": "spl_WebJCqOTC6jj",
+        "CM_1000000": "spl_K3gZHDKecl2h",
+        "CM_500000": "spl_BJ7skCaLFmib",
+        "CM_200000": "spl_r9xYb6Jj8HVi",
+        "CM_100000": "spl_0pgkVro3yLIs",
+        "CM_50000": "spl_BWoGfPUJlrhJ"
+      },
+      "profile": "sbt_FN7Jm4HZjKjK",
+      "group": "Symmetrical airfoils database"
+    },
+    "RYAN BQM-34 FIREBEE WING AIRFOIL (bqm34-il)": {
+      "name": "RYAN BQM-34 FIREBEE WING AIRFOIL (bqm34-il)",
       "curves": {
         "CL_1000000": "spl_JBJAPfIfYo7h",
         "CL_500000": "spl_ciIf03bgQbTi",
@@ -2758,8 +2668,8 @@
       "profile": "sbt_vM2aO0G6mBDv",
       "group": "Symmetrical airfoils database"
     },
-    "E863": {
-      "name": "E863",
+    "EPPLER 863 STRUT AIRFOIL (e863-il)": {
+      "name": "EPPLER 863 STRUT AIRFOIL (e863-il)",
       "curves": {
         "CL_1000000": "spl_p79BHwrv3Yz5",
         "CL_500000": "spl_KMNBWz0LFIuU",
@@ -2780,8 +2690,8 @@
       "profile": "sbt_NPLktNxDm7rj",
       "group": "Symmetrical airfoils database"
     },
-    "E862": {
-      "name": "E862",
+    "EPPLER 862 STRUT AIRFOIL (e862-il)": {
+      "name": "EPPLER 862 STRUT AIRFOIL (e862-il)",
       "curves": {
         "CL_1000000": "spl_JJz4XviyWHpI",
         "CL_500000": "spl_WPTrVohFE3LI",
@@ -2802,8 +2712,8 @@
       "profile": "sbt_YloYZiKzH0u0",
       "group": "Symmetrical airfoils database"
     },
-    "GOE776": {
-      "name": "GOE776",
+    "GOE 776 AIRFOIL (goe776-il)": {
+      "name": "GOE 776 AIRFOIL (goe776-il)",
       "curves": {
         "CL_1000000": "spl_ALJl9vRkRBMQ",
         "CL_500000": "spl_sSXHiEnRRYXK",
@@ -2824,8 +2734,8 @@
       "profile": "sbt_OQes2Ov0NCfC",
       "group": "Symmetrical airfoils database"
     },
-    "GOE775": {
-      "name": "GOE775",
+    "GOE 775 AIRFOIL (goe775-il)": {
+      "name": "GOE 775 AIRFOIL (goe775-il)",
       "curves": {
         "CL_1000000": "spl_gd210ZX9sFDK",
         "CL_500000": "spl_c77sTvlSXB7T",
@@ -2846,8 +2756,8 @@
       "profile": "sbt_K0p4U0Fq04VY",
       "group": "Symmetrical airfoils database"
     },
-    "GOE460": {
-      "name": "GOE460",
+    "GOE 460 AIRFOIL (goe460-il)": {
+      "name": "GOE 460 AIRFOIL (goe460-il)",
       "curves": {
         "CL_1000000": "spl_DM1i8Eq2E7uS",
         "CL_500000": "spl_9Ob6yCfpVlEN",
@@ -2868,8 +2778,8 @@
       "profile": "sbt_7Gy1UFofilxF",
       "group": "Symmetrical airfoils database"
     },
-    "E838": {
-      "name": "E838",
+    "EPPLER E838 HYDROFOIL AIRFOIL (e838-il)": {
+      "name": "EPPLER E838 HYDROFOIL AIRFOIL (e838-il)",
       "curves": {
         "CL_1000000": "spl_31MuwMitQJSY",
         "CL_500000": "spl_HNDvIChaIgR6",
@@ -2890,8 +2800,8 @@
       "profile": "sbt_iLEKaAiBM5Yp",
       "group": "Symmetrical airfoils database"
     },
-    "US1000ROOT": {
-      "name": "US1000ROOT",
+    "US1000ROOT (us1000root-il)": {
+      "name": "US1000ROOT (us1000root-il)",
       "curves": {
         "CL_1000000": "spl_4DMHALeyyxfo",
         "CL_500000": "spl_uGIASkbpvBhd",
@@ -2912,8 +2822,8 @@
       "profile": "sbt_seOwm9WkfS82",
       "group": "Symmetrical airfoils database"
     },
-    "GRIFFITH30SYMSUCTION": {
-      "name": "GRIFFITH30SYMSUCTION",
+    "Griffith 30% Suction Airfoil (griffith30symsuction-il)": {
+      "name": "Griffith 30% Suction Airfoil (griffith30symsuction-il)",
       "curves": {
         "CL_1000000": "spl_pt2l4fN4TD3a",
         "CL_500000": "spl_AFHzvs3kWmS1",
@@ -2934,8 +2844,8 @@
       "profile": "sbt_RLYXbWO7zJPX",
       "group": "Symmetrical airfoils database"
     },
-    "NACA16021": {
-      "name": "NACA16021",
+    "NACA 16-021 (naca16021-il)": {
+      "name": "NACA 16-021 (naca16021-il)",
       "curves": {
         "CL_1000000": "spl_3jbieKCmPmac",
         "CL_500000": "spl_g4RJJmJ5vW8A",
@@ -2956,8 +2866,8 @@
       "profile": "sbt_TbcPlvXdwLCK",
       "group": "Symmetrical airfoils database"
     },
-    "JOUKOWSK0021": {
-      "name": "JOUKOWSK0021",
+    "Joukovsky f=0% t=21% (joukowsk0021-jf)": {
+      "name": "Joukovsky f=0% t=21% (joukowsk0021-jf)",
       "curves": {
         "CL_1000000": "spl_fq2g42nykV4F",
         "CL_500000": "spl_2ebVwGYFb9ju",
@@ -2978,8 +2888,8 @@
       "profile": "sbt_j7YL3QkQMGhM",
       "group": "Symmetrical airfoils database"
     },
-    "JOUKOWSK0018": {
-      "name": "JOUKOWSK0018",
+    "Joukovsky f=0% t=18% (joukowsk0018-jf)": {
+      "name": "Joukovsky f=0% t=18% (joukowsk0018-jf)",
       "curves": {
         "CL_1000000": "spl_zpFePQb33iOg",
         "CL_500000": "spl_OFl9xPuIYGPP",
@@ -3000,8 +2910,8 @@
       "profile": "sbt_yWon72ilUS2H",
       "group": "Symmetrical airfoils database"
     },
-    "NACA16018": {
-      "name": "NACA16018",
+    "NACA 16-018 (naca16018-il)": {
+      "name": "NACA 16-018 (naca16018-il)",
       "curves": {
         "CL_1000000": "spl_XHWYGP4EFYub",
         "CL_500000": "spl_czuwaAZlsReW",
@@ -3022,8 +2932,8 @@
       "profile": "sbt_udJ4YHkizGSZ",
       "group": "Symmetrical airfoils database"
     },
-    "S1016": {
-      "name": "S1016",
+    "S1016 (s1016-il)": {
+      "name": "S1016 (s1016-il)",
       "curves": {
         "CL_1000000": "spl_TP9frOJfMMty",
         "CL_500000": "spl_b2jUVG0gJHxo",
@@ -3044,8 +2954,8 @@
       "profile": "sbt_9P2D84xZ7tmL",
       "group": "Symmetrical airfoils database"
     },
-    "S1046": {
-      "name": "S1046",
+    "S1046 17% (Danny Howell) (s1046-il)": {
+      "name": "S1046 17% (Danny Howell) (s1046-il)",
       "curves": {
         "CL_1000000": "spl_7ECnQ4bTDVcl",
         "CL_500000": "spl_qy1Q1kdeHuO4",
@@ -3066,8 +2976,8 @@
       "profile": "sbt_D6iMSxv3TJ5S",
       "group": "Symmetrical airfoils database"
     },
-    "E479": {
-      "name": "E479",
+    "EPPLER 479 AIRFOIL (e479-il)": {
+      "name": "EPPLER 479 AIRFOIL (e479-il)",
       "curves": {
         "CL_1000000": "spl_h7hi37IjpvXc",
         "CL_500000": "spl_a2MZPDsr1qd1",
@@ -3088,8 +2998,8 @@
       "profile": "sbt_orgX6MEP6Hdz",
       "group": "Symmetrical airfoils database"
     },
-    "S1014": {
-      "name": "S1014",
+    "S1014 (s1014-il)": {
+      "name": "S1014 (s1014-il)",
       "curves": {
         "CL_1000000": "spl_oyCZhXgb5pEf",
         "CL_500000": "spl_EAoISnUWUuK0",
@@ -3110,8 +3020,8 @@
       "profile": "sbt_uDn0SswSSNj2",
       "group": "Symmetrical airfoils database"
     },
-    "E473": {
-      "name": "E473",
+    "EPPLER 473 AIRFOIL (e473-il)": {
+      "name": "EPPLER 473 AIRFOIL (e473-il)",
       "curves": {
         "CL_1000000": "spl_mKZ779uZgS1q",
         "CL_500000": "spl_20Cq2q2dy6l5",
@@ -3132,8 +3042,8 @@
       "profile": "sbt_x0mDF6GHgAgH",
       "group": "Symmetrical airfoils database"
     },
-    "GOE410": {
-      "name": "GOE410",
+    "GOE 410 AIRFOIL (goe410-il)": {
+      "name": "GOE 410 AIRFOIL (goe410-il)",
       "curves": {
         "CL_1000000": "spl_ExzhPj8xuo8H",
         "CL_500000": "spl_FA4Hi8OTvgIH",
@@ -3154,8 +3064,8 @@
       "profile": "sbt_hG1ni7vdNd2x",
       "group": "Symmetrical airfoils database"
     },
-    "E837": {
-      "name": "E837",
+    "EPPLER E837 HYDROFOIL AIRFOIL (e837-il)": {
+      "name": "EPPLER E837 HYDROFOIL AIRFOIL (e837-il)",
       "curves": {
         "CL_1000000": "spl_LpVWNTQoloJR",
         "CL_500000": "spl_74pntaJwfWIL",
@@ -3176,8 +3086,8 @@
       "profile": "sbt_KUCXwxlxpE1L",
       "group": "Symmetrical airfoils database"
     },
-    "FXLV152": {
-      "name": "FXLV152",
+    "WORTMANN FX L V-152 AIRFOIL (fxlv152-il)": {
+      "name": "WORTMANN FX L V-152 AIRFOIL (fxlv152-il)",
       "curves": {
         "CL_1000000": "spl_fDSbYBm4mpY7",
         "CL_500000": "spl_R08g5Uv65eJV",
@@ -3198,8 +3108,8 @@
       "profile": "sbt_Vu9m14lQDDOR",
       "group": "Symmetrical airfoils database"
     },
-    "FX71L150": {
-      "name": "FX71L150",
+    "FX 71-L-150_30 AIRFOIL (fx71l150-il)": {
+      "name": "FX 71-L-150_30 AIRFOIL (fx71l150-il)",
       "curves": {
         "CL_1000000": "spl_tuUh2OHvEvcn",
         "CL_500000": "spl_KTEp5Grz9Rxh",
@@ -3220,8 +3130,8 @@
       "profile": "sbt_cXL35y5KbnQS",
       "group": "Symmetrical airfoils database"
     },
-    "LWK80150K25": {
-      "name": "LWK80150K25",
+    "LWK 80-150K25 (lwk80150k25-il)": {
+      "name": "LWK 80-150K25 (lwk80150k25-il)",
       "curves": {
         "CL_1000000": "spl_BojejmYb6Z3u",
         "CL_500000": "spl_tBI5CoKnH8ne",
@@ -3242,8 +3152,8 @@
       "profile": "sbt_ZXSqlbMmC5RW",
       "group": "Symmetrical airfoils database"
     },
-    "FX711530": {
-      "name": "FX711530",
+    "FX 71-L-150_30 AIRFOIL (fx711530-il)": {
+      "name": "FX 71-L-150_30 AIRFOIL (fx711530-il)",
       "curves": {
         "CL_1000000": "spl_ivdyZL6QjiCr",
         "CL_500000": "spl_qKuKqRECzO5c",
@@ -3264,8 +3174,8 @@
       "profile": "sbt_S2LHzFrLz0Ts",
       "group": "Symmetrical airfoils database"
     },
-    "FX711525": {
-      "name": "FX711525",
+    "FX 71-L-150_25 AIRFOIL (fx711525-il)": {
+      "name": "FX 71-L-150_25 AIRFOIL (fx711525-il)",
       "curves": {
         "CL_1000000": "spl_MqdKXG1bGPqT",
         "CL_500000": "spl_nwtfDbBRiSJ3",
@@ -3286,8 +3196,8 @@
       "profile": "sbt_aPBN260b0VbD",
       "group": "Symmetrical airfoils database"
     },
-    "FX711520": {
-      "name": "FX711520",
+    "FX 71-L-150_20 AIRFOIL (fx711520-il)": {
+      "name": "FX 71-L-150_20 AIRFOIL (fx711520-il)",
       "curves": {
         "CL_1000000": "spl_WS4Xh6ei2BmA",
         "CL_500000": "spl_9TAlMrGxxWxW",
@@ -3308,8 +3218,8 @@
       "profile": "sbt_7FZ2HuYBHkw6",
       "group": "Symmetrical airfoils database"
     },
-    "JOUKOWSK0015": {
-      "name": "JOUKOWSK0015",
+    "Joukovsky f=0% t=15% (joukowsk0015-jf)": {
+      "name": "Joukovsky f=0% t=15% (joukowsk0015-jf)",
       "curves": {
         "CL_1000000": "spl_ICUxoVDn97zX",
         "CL_500000": "spl_Jr3qFVrE1O6K",
@@ -3330,8 +3240,8 @@
       "profile": "sbt_OjwvcFpluP9O",
       "group": "Symmetrical airfoils database"
     },
-    "E475": {
-      "name": "E475",
+    "E475 (15.01%) (e475-il)": {
+      "name": "E475 (15.01%) (e475-il)",
       "curves": {
         "CL_1000000": "spl_h5fQAnysP5US",
         "CL_500000": "spl_pJlqG1KF55zf",
@@ -3352,8 +3262,8 @@
       "profile": "sbt_49Sge5SfMNAO",
       "group": "Symmetrical airfoils database"
     },
-    "E520": {
-      "name": "E520",
+    "EPPLER 520 AIRFOIL (e520-il)": {
+      "name": "EPPLER 520 AIRFOIL (e520-il)",
       "curves": {
         "CL_1000000": "spl_M6rarI7SaD1K",
         "CL_500000": "spl_Gdx1PBWXVfZI",
@@ -3374,8 +3284,8 @@
       "profile": "sbt_syJHXMKNhxHd",
       "group": "Symmetrical airfoils database"
     },
-    "NACA16015": {
-      "name": "NACA16015",
+    "NACA 16-015 (naca16015-il)": {
+      "name": "NACA 16-015 (naca16015-il)",
       "curves": {
         "CL_1000000": "spl_7cS4tRM4BYlN",
         "CL_500000": "spl_YUf2nqBIerEo",
@@ -3396,8 +3306,8 @@
       "profile": "sbt_VRknDIFQytBj",
       "group": "Symmetrical airfoils database"
     },
-    "E169": {
-      "name": "E169",
+    "E169 (14.4%) (e169-il)": {
+      "name": "E169 (14.4%) (e169-il)",
       "curves": {
         "CL_1000000": "spl_lvvQz40Bu6m5",
         "CL_500000": "spl_J3xqeB2tTD7B",
@@ -3418,8 +3328,8 @@
       "profile": "sbt_A2M49GtIuqbg",
       "group": "Symmetrical airfoils database"
     },
-    "FXL142K": {
-      "name": "FXL142K",
+    "FX LIII-142 K 25 AIRFOIL (fxl142k-il)": {
+      "name": "FX LIII-142 K 25 AIRFOIL (fxl142k-il)",
       "curves": {
         "CL_1000000": "spl_paFJzpZ6uTQ2",
         "CL_500000": "spl_7MUrKuKYIygb",
@@ -3440,8 +3350,8 @@
       "profile": "sbt_kHKj1LNnaP1a",
       "group": "Symmetrical airfoils database"
     },
-    "E474": {
-      "name": "E474",
+    "E474 (14.09%) (e474-il)": {
+      "name": "E474 (14.09%) (e474-il)",
       "curves": {
         "CL_1000000": "spl_7oz1FlUsEImx",
         "CL_500000": "spl_Kbm3HBb3KFKD",
@@ -3462,8 +3372,8 @@
       "profile": "sbt_jm84iVVXwySY",
       "group": "Symmetrical airfoils database"
     },
-    "S1048": {
-      "name": "S1048",
+    "S1048 14% (Danny Howell) (s1048-il)": {
+      "name": "S1048 14% (Danny Howell) (s1048-il)",
       "curves": {
         "CL_1000000": "spl_KaytuGPzkrN2",
         "CL_500000": "spl_3mjooDAOcq5C",
@@ -3484,8 +3394,8 @@
       "profile": "sbt_eJZnydVCTnnl",
       "group": "Symmetrical airfoils database"
     },
-    "S8035": {
-      "name": "S8035",
+    "S8035 for RC aerobatic 14% thick (s8035-il)": {
+      "name": "S8035 for RC aerobatic 14% thick (s8035-il)",
       "curves": {
         "CL_1000000": "spl_qp5rTFN4Y8oQ",
         "CL_500000": "spl_hWRPGtC1SNbK",
@@ -3506,8 +3416,8 @@
       "profile": "sbt_xA0GFoxFWcIb",
       "group": "Symmetrical airfoils database"
     },
-    "E521": {
-      "name": "E521",
+    "EPPLER 521 AIRFOIL (e521-il)": {
+      "name": "EPPLER 521 AIRFOIL (e521-il)",
       "curves": {
         "CL_1000000": "spl_XjYx3KYxHUEn",
         "CL_500000": "spl_bQys7Z5Fcjeq",
@@ -3528,8 +3438,8 @@
       "profile": "sbt_rNs6iuoLs56O",
       "group": "Symmetrical airfoils database"
     },
-    "OAF139": {
-      "name": "OAF139",
+    "OAF139 AIRFOIL (oaf139-il)": {
+      "name": "OAF139 AIRFOIL (oaf139-il)",
       "curves": {
         "CL_1000000": "spl_6F2Wm2PJNxUY",
         "CL_500000": "spl_40YXgMN9doBt",
@@ -3550,8 +3460,8 @@
       "profile": "sbt_3AObq5eqSL9j",
       "group": "Symmetrical airfoils database"
     },
-    "STCYR172": {
-      "name": "STCYR172",
+    "St. CYR 172 (Royer) (stcyr172-il)": {
+      "name": "St. CYR 172 (Royer) (stcyr172-il)",
       "curves": {
         "CL_1000000": "spl_xjBb4bVkqn8T",
         "CL_500000": "spl_91wEGnQPLHiH",
@@ -3572,8 +3482,8 @@
       "profile": "sbt_IuhjCK9WL3jO",
       "group": "Symmetrical airfoils database"
     },
-    "GOE411": {
-      "name": "GOE411",
+    "GOE 411 AIRFOIL (goe411-il)": {
+      "name": "GOE 411 AIRFOIL (goe411-il)",
       "curves": {
         "CL_1000000": "spl_w3mfewHChqFA",
         "CL_500000": "spl_0h67nSx44b4g",
@@ -3594,8 +3504,8 @@
       "profile": "sbt_s3dprx9UNRh3",
       "group": "Symmetrical airfoils database"
     },
-    "LS013": {
-      "name": "LS013",
+    "NASA-LANGLEY LS(1)-0013 AIRFOIL (ls013-il)": {
+      "name": "NASA-LANGLEY LS(1)-0013 AIRFOIL (ls013-il)",
       "curves": {
         "CL_1000000": "spl_ccaVSSQUDikV",
         "CL_500000": "spl_U0uKkgOMNOCJ",
@@ -3616,8 +3526,8 @@
       "profile": "sbt_cgIAqd9Uqqiz",
       "group": "Symmetrical airfoils database"
     },
-    "ULTIMATE": {
-      "name": "ULTIMATE",
+    "ULTIMATE (ultimate-il)": {
+      "name": "ULTIMATE (ultimate-il)",
       "curves": {
         "CL_1000000": "spl_CKJDaCFce7gm",
         "CL_500000": "spl_L4fbrP1c5ulS",
@@ -3638,8 +3548,8 @@
       "profile": "sbt_AfhR75mZcIm6",
       "group": "Symmetrical airfoils database"
     },
-    "GOE459": {
-      "name": "GOE459",
+    "GOE 459 AIRFOIL (goe459-il)": {
+      "name": "GOE 459 AIRFOIL (goe459-il)",
       "curves": {
         "CL_1000000": "spl_XQVlm5OG2BHB",
         "CL_500000": "spl_2lVBiUZopXfH",
@@ -3660,8 +3570,8 @@
       "profile": "sbt_RWtQfrnSvrLV",
       "group": "Symmetrical airfoils database"
     },
-    "GOE409": {
-      "name": "GOE409",
+    "GOE 409 AIRFOIL (goe409-il)": {
+      "name": "GOE 409 AIRFOIL (goe409-il)",
       "curves": {
         "CL_1000000": "spl_E1QDFYWtFFwX",
         "CL_500000": "spl_ce2D3wJhDwJk",
@@ -3682,8 +3592,8 @@
       "profile": "sbt_Qn76H6jNXHUj",
       "group": "Symmetrical airfoils database"
     },
-    "RAF30": {
-      "name": "RAF30",
+    "RAF 30 AIRFOIL (raf30-il)": {
+      "name": "RAF 30 AIRFOIL (raf30-il)",
       "curves": {
         "CL_1000000": "spl_LALr05vN2zAB",
         "CL_500000": "spl_zkUdS9KXoFAN",
@@ -3704,8 +3614,8 @@
       "profile": "sbt_SvwjIlFW1J8i",
       "group": "Symmetrical airfoils database"
     },
-    "E836": {
-      "name": "E836",
+    "EPPLER E836 HYDROFOIL AIRFOIL (e836-il)": {
+      "name": "EPPLER E836 HYDROFOIL AIRFOIL (e836-il)",
       "curves": {
         "CL_1000000": "spl_9cumaqBrAOHR",
         "CL_500000": "spl_W4G4DiiZ4bMh",
@@ -3726,8 +3636,8 @@
       "profile": "sbt_JtnbE826yz23",
       "group": "Symmetrical airfoils database"
     },
-    "E168": {
-      "name": "E168",
+    "E168 (12.45%) (e168-il)": {
+      "name": "E168 (12.45%) (e168-il)",
       "curves": {
         "CL_1000000": "spl_AFydULdi5God",
         "CL_500000": "spl_ZamwUxRzbKV9",
@@ -3748,8 +3658,8 @@
       "profile": "sbt_DFVgdqACAXKh",
       "group": "Symmetrical airfoils database"
     },
-    "E171": {
-      "name": "E171",
+    "Dicke 12.28% (e171-il)": {
+      "name": "Dicke 12.28% (e171-il)",
       "curves": {
         "CL_1000000": "spl_bia8l3nLBNZR",
         "CL_500000": "spl_MmRQwZhaA7bO",
@@ -3770,8 +3680,8 @@
       "profile": "sbt_sK08YoG0NPxr",
       "group": "Symmetrical airfoils database"
     },
-    "S1012": {
-      "name": "S1012",
+    "S1012 (s1012-il)": {
+      "name": "S1012 (s1012-il)",
       "curves": {
         "CL_1000000": "spl_GVTZa3Ty0Okb",
         "CL_500000": "spl_uJUYRqn4R1Ua",
@@ -3792,8 +3702,8 @@
       "profile": "sbt_giDtMwZYCpUq",
       "group": "Symmetrical airfoils database"
     },
-    "LWK80120K25": {
-      "name": "LWK80120K25",
+    "LWK 80-120K25 (lwk80120k25-il)": {
+      "name": "LWK 80-120K25 (lwk80120k25-il)",
       "curves": {
         "CL_1000000": "spl_7ubjNV2UfHTU",
         "CL_500000": "spl_xgg66ZQqOTqv",
@@ -3814,8 +3724,8 @@
       "profile": "sbt_8qRZOS8UAiFy",
       "group": "Symmetrical airfoils database"
     },
-    "E472": {
-      "name": "E472",
+    "EPPLER 472 AIRFOIL (e472-il)": {
+      "name": "EPPLER 472 AIRFOIL (e472-il)",
       "curves": {
         "CL_1000000": "spl_CM3NN6EKtMoq",
         "CL_500000": "spl_4dIoBcX6sQgR",
@@ -3836,8 +3746,8 @@
       "profile": "sbt_48cHddpDqFZw",
       "group": "Symmetrical airfoils database"
     },
-    "FX76120": {
-      "name": "FX76120",
+    "WORTMANN FX 76-120 (fx76120-il)": {
+      "name": "WORTMANN FX 76-120 (fx76120-il)",
       "curves": {
         "CL_1000000": "spl_zqkR5qFm7ecA",
         "CL_500000": "spl_m0Ns6OfdheZP",
@@ -3858,8 +3768,8 @@
       "profile": "sbt_v8layK2xRgKB",
       "group": "Symmetrical airfoils database"
     },
-    "FX79L120": {
-      "name": "FX79L120",
+    "FX 79-L-120 (fx79l120-il)": {
+      "name": "FX 79-L-120 (fx79l120-il)",
       "curves": {
         "CL_1000000": "spl_5Ivab3RBSyff",
         "CL_500000": "spl_0tXZnYcbgHZO",
@@ -3880,8 +3790,8 @@
       "profile": "sbt_GfLzWi2C1zBt",
       "group": "Symmetrical airfoils database"
     },
-    "EA61012": {
-      "name": "EA61012",
+    "EPPLER EA 6(-1)-012 AIRFOIL (ea61012-il)": {
+      "name": "EPPLER EA 6(-1)-012 AIRFOIL (ea61012-il)",
       "curves": {
         "CL_1000000": "spl_JTGUyhQVoG66",
         "CL_500000": "spl_CHqaBOozxhqP",
@@ -3902,8 +3812,8 @@
       "profile": "sbt_O1VQ4bqcoxRU",
       "group": "Symmetrical airfoils database"
     },
-    "NACA16012": {
-      "name": "NACA16012",
+    "NACA 16-012 (naca16012-il)": {
+      "name": "NACA 16-012 (naca16012-il)",
       "curves": {
         "CL_1000000": "spl_38Wu2SYbJaoQ",
         "CL_500000": "spl_ugyolJK6jGkx",
@@ -3924,8 +3834,8 @@
       "profile": "sbt_awnCz4GPv8W7",
       "group": "Symmetrical airfoils database"
     },
-    "J5012": {
-      "name": "J5012",
+    "J5012 12% (j5012-il)": {
+      "name": "J5012 12% (j5012-il)",
       "curves": {
         "CL_1000000": "spl_uXA2lMfD5xoU",
         "CL_500000": "spl_7iFbgY1jdETS",
@@ -3946,8 +3856,8 @@
       "profile": "sbt_SVNVDZOA1OZY",
       "group": "Symmetrical airfoils database"
     },
-    "SC20012": {
-      "name": "SC20012",
+    "NASA SC(2)-0012 AIRFOIL (sc20012-il)": {
+      "name": "NASA SC(2)-0012 AIRFOIL (sc20012-il)",
       "curves": {
         "CL_1000000": "spl_LyYpBhl2vQ8T",
         "CL_500000": "spl_BkkWblHOeZ5K",
@@ -3968,8 +3878,8 @@
       "profile": "sbt_8FruLAwN26lX",
       "group": "Symmetrical airfoils database"
     },
-    "NACA001264": {
-      "name": "NACA001264",
+    "NACA 0012-64 (naca001264-il)": {
+      "name": "NACA 0012-64 (naca001264-il)",
       "curves": {
         "CL_1000000": "spl_tqe9CeO9rbGV",
         "CL_500000": "spl_pWNge5gJ5cYa",
@@ -3990,8 +3900,8 @@
       "profile": "sbt_XCyVcN1g0WWS",
       "group": "Symmetrical airfoils database"
     },
-    "NACA001234": {
-      "name": "NACA001234",
+    "NACA 0012-34 (naca001234-il)": {
+      "name": "NACA 0012-34 (naca001234-il)",
       "curves": {
         "CL_1000000": "spl_KMFG7VZDoKGU",
         "CL_500000": "spl_l0DifORqkQey",
@@ -4012,8 +3922,8 @@
       "profile": "sbt_ND0VoSMSrgfX",
       "group": "Symmetrical airfoils database"
     },
-    "FX71120": {
-      "name": "FX71120",
+    "WORTMANN FX 71-120 AIRFOIL (fx71120-il)": {
+      "name": "WORTMANN FX 71-120 AIRFOIL (fx71120-il)",
       "curves": {
         "CL_1000000": "spl_vIzaAxdN1vhM",
         "CL_500000": "spl_3vnNcb9qdkSt",
@@ -4034,8 +3944,8 @@
       "profile": "sbt_agG9IsQPptYU",
       "group": "Symmetrical airfoils database"
     },
-    "NACAM3": {
-      "name": "NACAM3",
+    "NACA M3 AIRFOIL (m3-il)": {
+      "name": "NACA M3 AIRFOIL (m3-il)",
       "curves": {
         "CL_1000000": "spl_niCWFqQ0fkut",
         "CL_500000": "spl_XJgZQC6CURtz",
@@ -4056,8 +3966,8 @@
       "profile": "sbt_9b46ed0RmEX5",
       "group": "Symmetrical airfoils database"
     },
-    "JOUKOWSK": {
-      "name": "JOUKOWSK",
+    "12% JOUKOWSKI AIRFOIL (joukowsk-il)": {
+      "name": "12% JOUKOWSKI AIRFOIL (joukowsk-il)",
       "curves": {
         "CL_1000000": "spl_p3PwnzeAJsKk",
         "CL_500000": "spl_P4hAVn9DlwUO",
@@ -4078,8 +3988,8 @@
       "profile": "sbt_WZ8lTXO66dSO",
       "group": "Symmetrical airfoils database"
     },
-    "E297": {
-      "name": "E297",
+    "EPPLER 297 AIRFOIL (e297-il)": {
+      "name": "EPPLER 297 AIRFOIL (e297-il)",
       "curves": {
         "CL_1000000": "spl_2srEusUu7P7B",
         "CL_500000": "spl_vepAgIWOt88p",
@@ -4100,8 +4010,8 @@
       "profile": "sbt_scNw6dnIXDXJ",
       "group": "Symmetrical airfoils database"
     },
-    "N0011SC": {
-      "name": "N0011SC",
+    "NACA-LANGLEY SYMMETRICAL (n0011sc-il)": {
+      "name": "NACA-LANGLEY SYMMETRICAL (n0011sc-il)",
       "curves": {
         "CL_1000000": "spl_0io9k7T3FQPp",
         "CL_500000": "spl_XNXnq9MKw3kx",
@@ -4122,8 +4032,8 @@
       "profile": "sbt_RunehoSw7xPk",
       "group": "Symmetrical airfoils database"
     },
-    "FX76100": {
-      "name": "FX76100",
+    "WORTMANN FX 76-100 (fx76100-il)": {
+      "name": "WORTMANN FX 76-100 (fx76100-il)",
       "curves": {
         "CL_1000000": "spl_1oN5wYxSpQFe",
         "CL_500000": "spl_V84ZiVeh2jgN",
@@ -4144,8 +4054,8 @@
       "profile": "sbt_5uiqDeC8uuIm",
       "group": "Symmetrical airfoils database"
     },
-    "FX79L100": {
-      "name": "FX79L100",
+    "FX 79-L-100 (fx79l100-il)": {
+      "name": "FX 79-L-100 (fx79l100-il)",
       "curves": {
         "CL_1000000": "spl_hZquIT7x4VaC",
         "CL_500000": "spl_jzJ0R1etGfa9",
@@ -4166,8 +4076,8 @@
       "profile": "sbt_9G0B11b3CyiD",
       "group": "Symmetrical airfoils database"
     },
-    "LWK80100": {
-      "name": "LWK80100",
+    "LWK 80-100 (lwk80100-il)": {
+      "name": "LWK 80-100 (lwk80100-il)",
       "curves": {
         "CL_1000000": "spl_4jV09X6F53e4",
         "CL_500000": "spl_MPKNLRx8hNoy",
@@ -4188,8 +4098,8 @@
       "profile": "sbt_n42xC6GDsqSU",
       "group": "Symmetrical airfoils database"
     },
-    "SD8020": {
-      "name": "SD8020",
+    "SD8020-010-88 (sd8020-il)": {
+      "name": "SD8020-010-88 (sd8020-il)",
       "curves": {
         "CL_1000000": "spl_X18v2Lqce8kI",
         "CL_500000": "spl_uFFaV8aGDGfI",
@@ -4210,8 +4120,8 @@
       "profile": "sbt_VGST8y21iNI4",
       "group": "Symmetrical airfoils database"
     },
-    "E230": {
-      "name": "E230",
+    "E230 (9.96%) (e230-il)": {
+      "name": "E230 (9.96%) (e230-il)",
       "curves": {
         "CL_1000000": "spl_yvDY6uA2sokO",
         "CL_500000": "spl_PW8eStMHXYYM",
@@ -4232,8 +4142,8 @@
       "profile": "sbt_jD5ACf4pxC4X",
       "group": "Symmetrical airfoils database"
     },
-    "HQ010": {
-      "name": "HQ010",
+    "HQ 010 AIRFOIL (hq010-il)": {
+      "name": "HQ 010 AIRFOIL (hq010-il)",
       "curves": {
         "CL_1000000": "spl_4FEDCJRVNmpG",
         "CL_500000": "spl_h63nNevrI55L",
@@ -4254,8 +4164,8 @@
       "profile": "sbt_c3HBGUbJttEh",
       "group": "Symmetrical airfoils database"
     },
-    "LWK79100": {
-      "name": "LWK79100",
+    "LWK 79-100 (lwk79100-il)": {
+      "name": "LWK 79-100 (lwk79100-il)",
       "curves": {
         "CL_1000000": "spl_mNE99DnyB3bf",
         "CL_500000": "spl_ptRURjyUzJ8K",
@@ -4276,8 +4186,8 @@
       "profile": "sbt_1YaKX9gSNNA4",
       "group": "Symmetrical airfoils database"
     },
-    "NACA001065": {
-      "name": "NACA001065",
+    "NACA 0010-65 (naca001065-il)": {
+      "name": "NACA 0010-65 (naca001065-il)",
       "curves": {
         "CL_1000000": "spl_LKZTHgWQPQfE",
         "CL_500000": "spl_TpdKFFf5miVg",
@@ -4298,8 +4208,8 @@
       "profile": "sbt_pnaUQg9NZbSd",
       "group": "Symmetrical airfoils database"
     },
-    "NACA001034": {
-      "name": "NACA001034",
+    "NACA 0010-34 (naca001034-il)": {
+      "name": "NACA 0010-34 (naca001034-il)",
       "curves": {
         "CL_1000000": "spl_wkJSNj8ctNK5",
         "CL_500000": "spl_tGnHgXKydHAo",
@@ -4320,8 +4230,8 @@
       "profile": "sbt_b2P7vvXRAgv3",
       "group": "Symmetrical airfoils database"
     },
-    "NACA001066": {
-      "name": "NACA001066",
+    "NACA 0010-66 (naca001066-il)": {
+      "name": "NACA 0010-66 (naca001066-il)",
       "curves": {
         "CL_1000000": "spl_NJqlJDWymxYd",
         "CL_500000": "spl_uXyRvRBn9jeb",
@@ -4342,8 +4252,8 @@
       "profile": "sbt_5o7aLp0dULyU",
       "group": "Symmetrical airfoils database"
     },
-    "NACA001035": {
-      "name": "NACA001035",
+    "NACA 0010-35 (naca001035-il)": {
+      "name": "NACA 0010-35 (naca001035-il)",
       "curves": {
         "CL_1000000": "spl_6IQXMdOihz8k",
         "CL_500000": "spl_eY3duCD3pPpE",
@@ -4364,8 +4274,8 @@
       "profile": "sbt_QCz2XXbDV1Wu",
       "group": "Symmetrical airfoils database"
     },
-    "NACA001064": {
-      "name": "NACA001064",
+    "NACA 0010-64 (naca001064-il)": {
+      "name": "NACA 0010-64 (naca001064-il)",
       "curves": {
         "CL_1000000": "spl_v0Q9T99BjwXH",
         "CL_500000": "spl_GEwZfHjNB497",
@@ -4386,8 +4296,8 @@
       "profile": "sbt_od0MkVD1vElv",
       "group": "Symmetrical airfoils database"
     },
-    "RAE100": {
-      "name": "RAE100",
+    "RAE 100 AIRFOIL (rae100-il)": {
+      "name": "RAE 100 AIRFOIL (rae100-il)",
       "curves": {
         "CL_1000000": "spl_WRyiGJvLHFfm",
         "CL_500000": "spl_IHKnTTWScSxL",
@@ -4408,8 +4318,8 @@
       "profile": "sbt_8xaC6cTZ4Lrv",
       "group": "Symmetrical airfoils database"
     },
-    "RAE101": {
-      "name": "RAE101",
+    "RAE 101 AIRFOIL (rae101-il)": {
+      "name": "RAE 101 AIRFOIL (rae101-il)",
       "curves": {
         "CL_1000000": "spl_dTFFouGHctSZ",
         "CL_500000": "spl_ErzuitWCcvZO",
@@ -4430,8 +4340,8 @@
       "profile": "sbt_dIRF0cjIPvt5",
       "group": "Symmetrical airfoils database"
     },
-    "RAE102": {
-      "name": "RAE102",
+    "RAE 102 AIRFOIL (rae102-il)": {
+      "name": "RAE 102 AIRFOIL (rae102-il)",
       "curves": {
         "CL_1000000": "spl_zYpkR0ZHVhL1",
         "CL_500000": "spl_sXbdcKdDDeqr",
@@ -4452,8 +4362,8 @@
       "profile": "sbt_s8jyTnKCcHMp",
       "group": "Symmetrical airfoils database"
     },
-    "RAE103": {
-      "name": "RAE103",
+    "RAE 103 AIRFOIL (rae103-il)": {
+      "name": "RAE 103 AIRFOIL (rae103-il)",
       "curves": {
         "CL_1000000": "spl_UBeFLAJ7igSt",
         "CL_500000": "spl_qiS8bizWbaJ4",
@@ -4474,8 +4384,8 @@
       "profile": "sbt_jMYwoasiL7i9",
       "group": "Symmetrical airfoils database"
     },
-    "RAE104": {
-      "name": "RAE104",
+    "RAE 104 AIRFOIL (rae104-il)": {
+      "name": "RAE 104 AIRFOIL (rae104-il)",
       "curves": {
         "CL_1000000": "spl_mQvWZWAneX9T",
         "CL_500000": "spl_JhclfFCnUOZw",
@@ -4496,8 +4406,8 @@
       "profile": "sbt_VE2H8rOanzhh",
       "group": "Symmetrical airfoils database"
     },
-    "SC20010": {
-      "name": "SC20010",
+    "NASA SC(2)-0010 AIRFOIL (sc20010-il)": {
+      "name": "NASA SC(2)-0010 AIRFOIL (sc20010-il)",
       "curves": {
         "CL_1000000": "spl_VZBu7v8w24LD",
         "CL_500000": "spl_XDoHz7oq3pLk",
@@ -4518,8 +4428,8 @@
       "profile": "sbt_5HhhCexGtH4P",
       "group": "Symmetrical airfoils database"
     },
-    "RAF27": {
-      "name": "RAF27",
+    "RAF 27 AIRFOIL (raf27-il)": {
+      "name": "RAF 27 AIRFOIL (raf27-il)",
       "curves": {
         "CL_1000000": "spl_t3xd1IbZ9HOB",
         "CL_500000": "spl_Cni6jSQqmMbA",
@@ -4540,8 +4450,8 @@
       "profile": "sbt_ZgjR29b0mQpH",
       "group": "Symmetrical airfoils database"
     },
-    "B540OLS": {
-      "name": "B540OLS",
+    "BELL 540 AIRFOIL (MODIFIED NACA 0012) (b540ols-il)": {
+      "name": "BELL 540 AIRFOIL (MODIFIED NACA 0012) (b540ols-il)",
       "curves": {
         "CL_1000000": "spl_q3NWedL8mb8Q",
         "CL_500000": "spl_s46PTaAU5pE0",
@@ -4562,8 +4472,30 @@
       "profile": "sbt_8Nlli63uQb6H",
       "group": "Symmetrical airfoils database"
     },
-    "S9026": {
-      "name": "S9026",
+    "Prandtl-D tip - NASA Preliminary Research Aerodynamic Design To Lower Drag (prandtl-d-tip-ns)": {
+      "name": "Prandtl-D tip - NASA Preliminary Research Aerodynamic Design To Lower Drag (prandtl-d-tip-ns)",
+      "curves": {
+        "CL_1000000": "spl_yY5fyqWO6seg",
+        "CL_500000": "spl_HpvFcCNb9hhx",
+        "CL_200000": "spl_2FdNS2hdNLWk",
+        "CL_100000": "spl_yYadGYAmRhVa",
+        "CL_50000": "spl_wzIyXKacXCXw",
+        "CD_1000000": "spl_g1V4uU8uQOzt",
+        "CD_500000": "spl_KSyOV7DoSvsE",
+        "CD_200000": "spl_zSLukS2m4CM3",
+        "CD_100000": "spl_sxbJl2R5e2HC",
+        "CD_50000": "spl_734iTPeNnStf",
+        "CM_1000000": "spl_lTjUIu4GLpXQ",
+        "CM_500000": "spl_auKYRZGzW2Ql",
+        "CM_200000": "spl_STbYXOfdGLIO",
+        "CM_100000": "spl_J1uVp8Y4FtuZ",
+        "CM_50000": "spl_Fx1xVYpGZIym"
+      },
+      "profile": "sbt_5telbdmiZKx9",
+      "group": "Symmetrical airfoils database"
+    },
+    "S9026 (9.5%) (s9026-il)": {
+      "name": "S9026 (9.5%) (s9026-il)",
       "curves": {
         "CL_1000000": "spl_f7UDwQ5KiwLK",
         "CL_500000": "spl_CbkagYd962oA",
@@ -4584,8 +4516,8 @@
       "profile": "sbt_QjPROjedIJGS",
       "group": "Symmetrical airfoils database"
     },
-    "EH0009": {
-      "name": "EH0009",
+    "EH 0.0 9.0 (eh0009-il)": {
+      "name": "EH 0.0 9.0 (eh0009-il)",
       "curves": {
         "CL_1000000": "spl_4CSbwTXqdZEm",
         "CL_500000": "spl_EntIT0hQKqJf",
@@ -4606,8 +4538,8 @@
       "profile": "sbt_HEqgJyO0usSg",
       "group": "Symmetrical airfoils database"
     },
-    "S9032": {
-      "name": "S9032",
+    "S9032 (9%) (s9032-il)": {
+      "name": "S9032 (9%) (s9032-il)",
       "curves": {
         "CL_1000000": "spl_JEx8SWRAmk61",
         "CL_500000": "spl_j4XSY4bqJoJ7",
@@ -4628,8 +4560,8 @@
       "profile": "sbt_irtmuQWbrWOd",
       "group": "Symmetrical airfoils database"
     },
-    "NACA16009": {
-      "name": "NACA16009",
+    "NACA 16009 (naca16009-il)": {
+      "name": "NACA 16009 (naca16009-il)",
       "curves": {
         "CL_1000000": "spl_avMGbk51sDjo",
         "CL_500000": "spl_AjbRTcJJR6oJ",
@@ -4650,8 +4582,8 @@
       "profile": "sbt_f0L66YiXowWx",
       "group": "Symmetrical airfoils database"
     },
-    "YS900": {
-      "name": "YS900",
+    "YS-900 (ys900-il)": {
+      "name": "YS-900 (ys900-il)",
       "curves": {
         "CL_1000000": "spl_nAzi9oB4Sq1v",
         "CL_500000": "spl_YpMjPSfZyUcy",
@@ -4672,8 +4604,8 @@
       "profile": "sbt_qq9Chj8Spvmv",
       "group": "Symmetrical airfoils database"
     },
-    "EA61009": {
-      "name": "EA61009",
+    "EPPLER EA 6(-1)-009 AIRFOIL (ea61009-il)": {
+      "name": "EPPLER EA 6(-1)-009 AIRFOIL (ea61009-il)",
       "curves": {
         "CL_1000000": "spl_gao1JkQf90yf",
         "CL_500000": "spl_YldkA5rg0ELf",
@@ -4694,8 +4626,8 @@
       "profile": "sbt_PPMiOsN86urg",
       "group": "Symmetrical airfoils database"
     },
-    "JOUKOWSK0009": {
-      "name": "JOUKOWSK0009",
+    "Joukovsky f=0% t=9% (joukowsk0009-jf)": {
+      "name": "Joukovsky f=0% t=9% (joukowsk0009-jf)",
       "curves": {
         "CL_1000000": "spl_HB4m0StVVtV5",
         "CL_500000": "spl_FC0fr92vTTq9",
@@ -4716,8 +4648,8 @@
       "profile": "sbt_ABegUYPXlDz4",
       "group": "Symmetrical airfoils database"
     },
-    "FX71089A": {
-      "name": "FX71089A",
+    "WORTMANN FX 71-089A AIRFOIL (fx71089a-il)": {
+      "name": "WORTMANN FX 71-089A AIRFOIL (fx71089a-il)",
       "curves": {
         "CL_1000000": "spl_RWFXUIhJU0px",
         "CL_500000": "spl_S0FR1n5lFT4o",
@@ -4738,8 +4670,8 @@
       "profile": "sbt_7r4qYgjQ04Ku",
       "group": "Symmetrical airfoils database"
     },
-    "LWK80080": {
-      "name": "LWK80080",
+    "LWK 80-080 (lwk80080-il)": {
+      "name": "LWK 80-080 (lwk80080-il)",
       "curves": {
         "CL_1000000": "spl_SHGdEOKjQoZL",
         "CL_500000": "spl_ZetQlgGwlwLS",
@@ -4760,8 +4692,8 @@
       "profile": "sbt_UtFX36duThhD",
       "group": "Symmetrical airfoils database"
     },
-    "NACAM2": {
-      "name": "NACAM2",
+    "NACA M2 (nacam2-il)": {
+      "name": "NACA M2 (nacam2-il)",
       "curves": {
         "CL_1000000": "spl_WfSGBRS1iuAh",
         "CL_500000": "spl_GPAE3nj6Lg1Z",
@@ -4782,8 +4714,8 @@
       "profile": "sbt_quF4LdCJ5oGl",
       "group": "Symmetrical airfoils database"
     },
-    "HQ09": {
-      "name": "HQ09",
+    "HQ 09 AIRFOIL (hq09-il)": {
+      "name": "HQ 09 AIRFOIL (hq09-il)",
       "curves": {
         "CL_1000000": "spl_8nMxg7k8zlUl",
         "CL_500000": "spl_hNQjyIEkSwzm",
@@ -4804,8 +4736,30 @@
       "profile": "sbt_biuEBo78GtVH",
       "group": "Symmetrical airfoils database"
     },
-    "S9027": {
-      "name": "S9027",
+    "NACA M2 AIRFOIL (m2-il)": {
+      "name": "NACA M2 AIRFOIL (m2-il)",
+      "curves": {
+        "CL_1000000": "spl_DbtKGVqBAAul",
+        "CL_500000": "spl_WsZoonip5dlY",
+        "CL_200000": "spl_so38YugbGodf",
+        "CL_100000": "spl_DbETzUaR35b1",
+        "CL_50000": "spl_ZCEAPjy7z5Ws",
+        "CD_1000000": "spl_pAIYiHHZXwyg",
+        "CD_500000": "spl_9uqQ1u7CLm8H",
+        "CD_200000": "spl_DmuymQ7wx5jb",
+        "CD_100000": "spl_9A0mZHhC8eB9",
+        "CD_50000": "spl_dCZfuXS7wY9c",
+        "CM_1000000": "spl_hc4IWLOXyTlt",
+        "CM_500000": "spl_PZgM9H5xLeBW",
+        "CM_200000": "spl_OuP1hlCtvRNl",
+        "CM_100000": "spl_9WVVzdVrxFQL",
+        "CM_50000": "spl_PcnBdLyKqVkA"
+      },
+      "profile": "sbt_qdB0cevjiSbn",
+      "group": "Symmetrical airfoils database"
+    },
+    "S9027 (8%) (s9027-il)": {
+      "name": "S9027 (8%) (s9027-il)",
       "curves": {
         "CL_1000000": "spl_F932LqOxm3pb",
         "CL_500000": "spl_ZZV4UlHiMnfq",
@@ -4826,8 +4780,8 @@
       "profile": "sbt_F5NcwWQqDNVg",
       "group": "Symmetrical airfoils database"
     },
-    "FX77080": {
-      "name": "FX77080",
+    "WORTMANN FX 77-080 (fx77080-il)": {
+      "name": "WORTMANN FX 77-080 (fx77080-il)",
       "curves": {
         "CL_1000000": "spl_mqEE142LGrZ9",
         "CL_500000": "spl_CTHviYyNVifk",
@@ -4848,8 +4802,8 @@
       "profile": "sbt_H1snsgnmALcv",
       "group": "Symmetrical airfoils database"
     },
-    "NACA000834": {
-      "name": "NACA000834",
+    "NACA 0008-34 (naca000834-il)": {
+      "name": "NACA 0008-34 (naca000834-il)",
       "curves": {
         "CL_1000000": "spl_0SNToRgypeXF",
         "CL_500000": "spl_RvDjXchNGQMY",
@@ -4870,8 +4824,8 @@
       "profile": "sbt_JSVgkixkQjJC",
       "group": "Symmetrical airfoils database"
     },
-    "RAF30MD": {
-      "name": "RAF30MD",
+    "RAF 30 MOD AIRFOIL (raf30md-il)": {
+      "name": "RAF 30 MOD AIRFOIL (raf30md-il)",
       "curves": {
         "CL_1000000": "spl_1am3ApFYlGJW",
         "CL_500000": "spl_JynBq0jmdc1a",
@@ -4892,8 +4846,8 @@
       "profile": "sbt_Pa6nspYWvbmu",
       "group": "Symmetrical airfoils database"
     },
-    "S9033": {
-      "name": "S9033",
+    "S9033 (7.5%) (s9033-il)": {
+      "name": "S9033 (7.5%) (s9033-il)",
       "curves": {
         "CL_1000000": "spl_M0I0wsbsFcZM",
         "CL_500000": "spl_4SLAs9qNVemi",
@@ -4914,8 +4868,8 @@
       "profile": "sbt_oOnbopSXE65s",
       "group": "Symmetrical airfoils database"
     },
-    "HQ07": {
-      "name": "HQ07",
+    "HQ 07 AIRFOIL (hq07-il)": {
+      "name": "HQ 07 AIRFOIL (hq07-il)",
       "curves": {
         "CL_1000000": "spl_z93MW9BLZisI",
         "CL_500000": "spl_PNKeaIGRqL5w",
@@ -4936,8 +4890,8 @@
       "profile": "sbt_3PmTOP3qj8jM",
       "group": "Symmetrical airfoils database"
     },
-    "GOE445": {
-      "name": "GOE445",
+    "GOE 445 AIRFOIL (goe445-il)": {
+      "name": "GOE 445 AIRFOIL (goe445-il)",
       "curves": {
         "CL_1000000": "spl_liWxolzTiiWZ",
         "CL_500000": "spl_qQcp466ZssPh",
@@ -4958,8 +4912,8 @@
       "profile": "sbt_t8KgitqINrYC",
       "group": "Symmetrical airfoils database"
     },
-    "M1": {
-      "name": "M1",
+    "NACA-M1 AIRFOIL (m1-il)": {
+      "name": "NACA-M1 AIRFOIL (m1-il)",
       "curves": {
         "CL_1000000": "spl_diaAqECCEI40",
         "CL_500000": "spl_QXotT14eFSsh",
@@ -4980,8 +4934,8 @@
       "profile": "sbt_CjkEMU1JzE76",
       "group": "Symmetrical airfoils database"
     },
-    "S1010": {
-      "name": "S1010",
+    "S1010 HPV airfoil (s1010-il)": {
+      "name": "S1010 HPV airfoil (s1010-il)",
       "curves": {
         "CL_1000000": "spl_uSnhdZuQ9v1i",
         "CL_500000": "spl_ICWOyI2x5aXk",
@@ -5002,8 +4956,8 @@
       "profile": "sbt_IcvFqw6BqY63",
       "group": "Symmetrical airfoils database"
     },
-    "NACA16006": {
-      "name": "NACA16006",
+    "NACA 16-006 (naca16006-il)": {
+      "name": "NACA 16-006 (naca16006-il)",
       "curves": {
         "CL_1000000": "spl_qVi3B9ppwp1A",
         "CL_500000": "spl_iZdykpfMew9T",
@@ -5024,8 +4978,8 @@
       "profile": "sbt_2Gln6bLiEi4I",
       "group": "Symmetrical airfoils database"
     },
-    "EA81006": {
-      "name": "EA81006",
+    "EPPLER EA 8(-1)-006 AIRFOIL (ea81006-il)": {
+      "name": "EPPLER EA 8(-1)-006 AIRFOIL (ea81006-il)",
       "curves": {
         "CL_1000000": "spl_WWOtbDs4nReP",
         "CL_500000": "spl_JuFcTKEO09cm",
@@ -5046,8 +5000,8 @@
       "profile": "sbt_2e1UHG1JWy8B",
       "group": "Symmetrical airfoils database"
     },
-    "GOE444": {
-      "name": "GOE444",
+    "GOE 444 AIRFOIL (goe444-il)": {
+      "name": "GOE 444 AIRFOIL (goe444-il)",
       "curves": {
         "CL_1000000": "spl_XvWP3dfCPvup",
         "CL_500000": "spl_IpB7XHqO6cDZ",
@@ -5068,8 +5022,8 @@
       "profile": "sbt_hNFvO56qmPe6",
       "group": "Symmetrical airfoils database"
     },
-    "HT12": {
-      "name": "HT12",
+    "HT12 (ht12-il)": {
+      "name": "HT12 (ht12-il)",
       "curves": {
         "CL_1000000": "spl_edqM5lzqJSMs",
         "CL_500000": "spl_9CGMj8NGxjOG",
@@ -5090,8 +5044,8 @@
       "profile": "sbt_Nnu8uMsfqvCw",
       "group": "Symmetrical airfoils database"
     },
-    "HT08": {
-      "name": "HT08",
+    "HT08 (ht08-il)": {
+      "name": "HT08 (ht08-il)",
       "curves": {
         "CL_1000000": "spl_zXqvFkgZxnGu",
         "CL_500000": "spl_wHI5GTaRgunr",
@@ -5112,8 +5066,8 @@
       "profile": "sbt_WfK1aSBD8Etn",
       "group": "Symmetrical airfoils database"
     },
-    "GOE443": {
-      "name": "GOE443",
+    "GOE 443 AIRFOIL (goe443-il)": {
+      "name": "GOE 443 AIRFOIL (goe443-il)",
       "curves": {
         "CL_1000000": "spl_XvyWobR2uHl1",
         "CL_500000": "spl_XfzzK41zOX6f",
@@ -5134,8 +5088,8 @@
       "profile": "sbt_SPGhLtgrFHrQ",
       "group": "Symmetrical airfoils database"
     },
-    "HT05": {
-      "name": "HT05",
+    "HT05 (ht05-il)": {
+      "name": "HT05 (ht05-il)",
       "curves": {
         "CL_1000000": "spl_wkj6ijCqh5FH",
         "CL_500000": "spl_9GVDTUt6zO7z",
@@ -5157,9 +5111,275 @@
       "group": "Symmetrical airfoils database"
     }
   },
+  "NACA 5 digit airfoils": {
+    "NACA 25112 (naca25112-jf)": {
+      "name": "NACA 25112 (naca25112-jf)",
+      "curves": {
+        "CL_1000000": "spl_zAFGrY1FYcjj",
+        "CL_500000": "spl_Zg4lNIEJB7Fg",
+        "CL_200000": "spl_9innbyxZNsWY",
+        "CL_100000": "spl_t3SNZ46GTsvq",
+        "CL_50000": "spl_FGt4ls9uS0ql",
+        "CD_1000000": "spl_yHo5prLgEWAF",
+        "CD_500000": "spl_85pTANjS6MWx",
+        "CD_200000": "spl_o6gyGgiAt539",
+        "CD_100000": "spl_Se0xBk52t3Dx",
+        "CD_50000": "spl_dBiPTBPvvc6z",
+        "CM_1000000": "spl_ePynEQkNYrNj",
+        "CM_500000": "spl_eAEesr3AJaHE",
+        "CM_200000": "spl_pgz5b55p9ekV",
+        "CM_100000": "spl_MqPy3VvD60os",
+        "CM_50000": "spl_wbZLoRb3OFAw"
+      },
+      "profile": "sbt_xXYzM0YMc8i8",
+      "group": "NACA 5 digit airfoils"
+    },
+    "NACA 24112 (naca24112-jf)": {
+      "name": "NACA 24112 (naca24112-jf)",
+      "curves": {
+        "CL_1000000": "spl_iaKobZ9ijsF7",
+        "CL_500000": "spl_or16tfr2N5vq",
+        "CL_200000": "spl_OvQUatraQ6Gr",
+        "CL_100000": "spl_2pAk0NxNkRnN",
+        "CL_50000": "spl_ylGhL4vHHnCa",
+        "CD_1000000": "spl_IjodkxlR11iy",
+        "CD_500000": "spl_vwaWhzHgV2Gl",
+        "CD_200000": "spl_ia7YiddY4u5x",
+        "CD_100000": "spl_tOhsDvpMLDQg",
+        "CD_50000": "spl_U1pwPO30Aj2G",
+        "CM_1000000": "spl_q9BUuIdRoBN3",
+        "CM_500000": "spl_ckC1jotrHAZX",
+        "CM_200000": "spl_TeziZ1zgQTNT",
+        "CM_100000": "spl_dCQ0vpcCb1wn",
+        "CM_50000": "spl_ENd0ZzmiP6Dz"
+      },
+      "profile": "sbt_Jg3Ws1u6riop",
+      "group": "NACA 5 digit airfoils"
+    },
+    "NACA 23112 (naca23112-jf)": {
+      "name": "NACA 23112 (naca23112-jf)",
+      "curves": {
+        "CL_1000000": "spl_D0HaAOXpFvA2",
+        "CL_500000": "spl_uZ7sHBCNpaHq",
+        "CL_200000": "spl_hzY7tqcd41vc",
+        "CL_100000": "spl_ZV6dwBOog37X",
+        "CL_50000": "spl_GZu68M34SAom",
+        "CD_1000000": "spl_XKLpWYAmn8mV",
+        "CD_500000": "spl_o7FcmGeFqQ1o",
+        "CD_200000": "spl_oDLMISuLL3E0",
+        "CD_100000": "spl_bUCOPmvP61jj",
+        "CD_50000": "spl_QROvZPegbgJn",
+        "CM_1000000": "spl_ILb80lGYev00",
+        "CM_500000": "spl_1z3QEL8ozyM4",
+        "CM_200000": "spl_V9FGYVNA2f7m",
+        "CM_100000": "spl_LefRTPTbHdpm",
+        "CM_50000": "spl_X1lkd9xYaxFZ"
+      },
+      "profile": "sbt_ZtRtsdn8KMeC",
+      "group": "NACA 5 digit airfoils"
+    },
+    "NACA 23024 (naca23024-il)": {
+      "name": "NACA 23024 (naca23024-il)",
+      "curves": {
+        "CL_1000000": "spl_shnw84xlmkVE",
+        "CL_500000": "spl_XGw6JM2fHGpf",
+        "CL_200000": "spl_kTUwzIYxfSF8",
+        "CL_100000": "spl_85rgNwRspZgm",
+        "CL_50000": "spl_EAEkie7SweUI",
+        "CD_1000000": "spl_9TsxJJBRCcQF",
+        "CD_500000": "spl_vADnTKIJvFTx",
+        "CD_200000": "spl_6K1GcYcPQsAh",
+        "CD_100000": "spl_HXqJzsIDLp3F",
+        "CD_50000": "spl_Fsdh5RGwYtsp",
+        "CM_1000000": "spl_9Xf1dQqMlXYp",
+        "CM_500000": "spl_B8Zmt83ukFzC",
+        "CM_200000": "spl_D9ncWtdqn37N",
+        "CM_100000": "spl_3Dr1obspsWws",
+        "CM_50000": "spl_BZiLAqXuaxZj"
+      },
+      "profile": "sbt_2O2ophr1vvGH",
+      "group": "NACA 5 digit airfoils"
+    },
+    "NACA 23021 (naca23021-il)": {
+      "name": "NACA 23021 (naca23021-il)",
+      "curves": {
+        "CL_1000000": "spl_kQAF5xBUPGrD",
+        "CL_500000": "spl_IJ0Ok62AVQEL",
+        "CL_200000": "spl_ac0qzith9Qh0",
+        "CL_100000": "spl_jzsD7aN5HnFP",
+        "CL_50000": "spl_uE2cpZvWUZM9",
+        "CD_1000000": "spl_vIUDphPCpqbo",
+        "CD_500000": "spl_p3pyUXd3pCM7",
+        "CD_200000": "spl_L0FQh6a8Y7Q3",
+        "CD_100000": "spl_j2aaB79tEYuI",
+        "CD_50000": "spl_0HgvQis0RqAU",
+        "CM_1000000": "spl_8nZ5y4eO1bgV",
+        "CM_500000": "spl_vuYXlk1vDmO8",
+        "CM_200000": "spl_172AXKSTJNOs",
+        "CM_100000": "spl_rgpM6PbU1hLu",
+        "CM_50000": "spl_GAF2kP6QADcg"
+      },
+      "profile": "sbt_JyGU9lLoYzfy",
+      "group": "NACA 5 digit airfoils"
+    },
+    "NACA 23018 (naca23018-il)": {
+      "name": "NACA 23018 (naca23018-il)",
+      "curves": {
+        "CL_1000000": "spl_RBWLCDNUHqDI",
+        "CL_500000": "spl_VsWrtMikggwl",
+        "CL_200000": "spl_2rOY04DWJSAT",
+        "CL_100000": "spl_6CN3TswG5mbW",
+        "CL_50000": "spl_ki8LzRCJUOp7",
+        "CD_1000000": "spl_kQnKGJLzJSyW",
+        "CD_500000": "spl_i428lnaa0eLB",
+        "CD_200000": "spl_kToGTdiO9d73",
+        "CD_100000": "spl_HPuFTdrpodb1",
+        "CD_50000": "spl_6QQ7ffhhA5up",
+        "CM_1000000": "spl_ew1Ki7havDjY",
+        "CM_500000": "spl_UlBxnQaP4nkU",
+        "CM_200000": "spl_BEkzXhOBWNYY",
+        "CM_100000": "spl_KTLiUzXaDQfg",
+        "CM_50000": "spl_bLgCJ1Ywji2R"
+      },
+      "profile": "sbt_hZ4BnMY3c2LU",
+      "group": "NACA 5 digit airfoils"
+    },
+    "NACA 23015 (naca23015-il)": {
+      "name": "NACA 23015 (naca23015-il)",
+      "curves": {
+        "CL_1000000": "spl_hct3Chsudaf9",
+        "CL_500000": "spl_9EGj3v9lslEq",
+        "CL_200000": "spl_6cycNn5jh1zP",
+        "CL_100000": "spl_eQBnCf4EZvT6",
+        "CL_50000": "spl_yV1bvSy41pYX",
+        "CD_1000000": "spl_uwlvRlejDF0j",
+        "CD_500000": "spl_3nFoJ1R4KU61",
+        "CD_200000": "spl_E8DA80HF0rJl",
+        "CD_100000": "spl_I0UlK4AE8ABr",
+        "CD_50000": "spl_4L4HOGtNp88W",
+        "CM_1000000": "spl_j9BcG1QjrH3H",
+        "CM_500000": "spl_rwBan4d4sM0t",
+        "CM_200000": "spl_15Av1nB3f3eW",
+        "CM_100000": "spl_2Y5OzCoLICo9",
+        "CM_50000": "spl_QrYnyEjQeYou"
+      },
+      "profile": "sbt_9X9MRjBRpO0a",
+      "group": "NACA 5 digit airfoils"
+    },
+    "NACA 23012 12% (naca23012-il)": {
+      "name": "NACA 23012 12% (naca23012-il)",
+      "curves": {
+        "CL_1000000": "spl_alpcMdjsggXp",
+        "CL_500000": "spl_DPAzB3XV6uIN",
+        "CL_200000": "spl_6bMg2JIA0di1",
+        "CL_100000": "spl_cGqfIUEDKD19",
+        "CL_50000": "spl_LYfPcNnS7Uzh",
+        "CD_1000000": "spl_teyvW3Thr1Dv",
+        "CD_500000": "spl_IRawyo6xldCM",
+        "CD_200000": "spl_tPFsDdwu0gzV",
+        "CD_100000": "spl_rgbVZYC3XDa3",
+        "CD_50000": "spl_kpboMwe1WSZs",
+        "CM_1000000": "spl_eIkx4ecA5onT",
+        "CM_500000": "spl_JIWex6LmN303",
+        "CM_200000": "spl_JigD3Req3aOZ",
+        "CM_100000": "spl_Q3bmVTxxeZPB",
+        "CM_50000": "spl_L0Qgvg9MVO0b"
+      },
+      "profile": "sbt_iPJ3jL91RK1Q",
+      "group": "NACA 5 digit airfoils"
+    },
+    "NACA 22112 (naca22112-jf)": {
+      "name": "NACA 22112 (naca22112-jf)",
+      "curves": {
+        "CL_1000000": "spl_E1gwZjacT6fO",
+        "CL_500000": "spl_Qqr6LTU3Qf5f",
+        "CL_200000": "spl_eO0nVBZk5Nhu",
+        "CL_100000": "spl_2pLraseSa1W6",
+        "CL_50000": "spl_SoTz8USgMO2G",
+        "CD_1000000": "spl_roWpofxMSu4Y",
+        "CD_500000": "spl_VVqQY3aSKM75",
+        "CD_200000": "spl_A56psL5fXNxD",
+        "CD_100000": "spl_fHgm8djoX5qv",
+        "CD_50000": "spl_QQUYLyJa94OS",
+        "CM_1000000": "spl_hacwdCilgUsX",
+        "CM_500000": "spl_ZB539HzMhXtS",
+        "CM_200000": "spl_pYgf4sMSbKQl",
+        "CM_100000": "spl_zwBA4t8lLuAT",
+        "CM_50000": "spl_fp1aPl1cY9mC"
+      },
+      "profile": "sbt_hnE3Dws5hupK",
+      "group": "NACA 5 digit airfoils"
+    }
+  },
   "Airfoil database A-list": {
-    "A18": {
-      "name": "A18",
+    "AH 81-131 (ah81131-il)": {
+      "name": "AH 81-131 (ah81131-il)",
+      "curves": {
+        "CL_1000000": "spl_RBtZNwbPDVF5",
+        "CL_500000": "spl_yoes0QGBrQhf",
+        "CL_200000": "spl_NVOF2aoW6Zmt",
+        "CL_100000": "spl_ZDHh5NKSOKEV",
+        "CL_50000": "spl_g3iPyn1gQZo9",
+        "CD_1000000": "spl_IwpGxe3x0PU9",
+        "CD_500000": "spl_cg4C0h7VWSrs",
+        "CD_200000": "spl_B0hJypDlGKji",
+        "CD_100000": "spl_fSLYBffC4pFr",
+        "CD_50000": "spl_2oBlMvdmn2Hu",
+        "CM_1000000": "spl_iwcp03o4ciGl",
+        "CM_500000": "spl_Csdbyc2EoDvu",
+        "CM_200000": "spl_vnOUxixgSopk",
+        "CM_100000": "spl_UGzuOYSTuS3V",
+        "CM_50000": "spl_UpjaZ0N0xwKf"
+      },
+      "profile": "sbt_rl68BXSMYBjO",
+      "group": "Airfoil database A-list"
+    },
+    "AH 80-140 (ah80140-il)": {
+      "name": "AH 80-140 (ah80140-il)",
+      "curves": {
+        "CL_1000000": "spl_XqYPoFDpGLrd",
+        "CL_500000": "spl_QtfnHdG5wYKS",
+        "CL_200000": "spl_syB1mETrtmxl",
+        "CL_100000": "spl_FLKSaUh9lxGl",
+        "CL_50000": "spl_gwxoHdoijoYI",
+        "CD_1000000": "spl_HydQzxq8wire",
+        "CD_500000": "spl_aPFq85y2E5Lt",
+        "CD_200000": "spl_4TBKyMCnKhnO",
+        "CD_100000": "spl_A1axm0EcogLR",
+        "CD_50000": "spl_mzSX16syPGur",
+        "CM_1000000": "spl_kkqJb2s8zHJJ",
+        "CM_500000": "spl_l6gW7tMDHnfd",
+        "CM_200000": "spl_yuiJRrK58xHS",
+        "CM_100000": "spl_IXHkDhmpJqeq",
+        "CM_50000": "spl_9gjq8723iHpW"
+      },
+      "profile": "sbt_kYZJtviXjD9y",
+      "group": "Airfoil database A-list"
+    },
+    "AH 80-136 (ah80136-il)": {
+      "name": "AH 80-136 (ah80136-il)",
+      "curves": {
+        "CL_1000000": "spl_RKo1BHoqYN3K",
+        "CL_500000": "spl_Q7JbSDIqJdOT",
+        "CL_200000": "spl_VHia4zLw2Jir",
+        "CL_100000": "spl_5pVGWjTm67es",
+        "CL_50000": "spl_vV05748C9Erd",
+        "CD_1000000": "spl_IhHVk1QkJORh",
+        "CD_500000": "spl_oyXJZFynaku1",
+        "CD_200000": "spl_BBQrlHwIvztM",
+        "CD_100000": "spl_W0YyUG9dWCYD",
+        "CD_50000": "spl_QnLUlSNnN8Wx",
+        "CM_1000000": "spl_orgEzmo6wJKu",
+        "CM_500000": "spl_N1FXZxpvGoCs",
+        "CM_200000": "spl_mzuGXCwuA1u6",
+        "CM_100000": "spl_1YUdbQAptVzS",
+        "CM_50000": "spl_nDF1ENzOvgOz"
+      },
+      "profile": "sbt_nTpjCXlk8VKu",
+      "group": "Airfoil database A-list"
+    },
+    "A18 (original) (a18-il)": {
+      "name": "A18 (original) (a18-il)",
       "curves": {
         "CL_500000": "spl_KLCo6z4Mwcsr",
         "CL_1000000": "spl_YErfkw9DgXeb",
@@ -5180,8 +5400,8 @@
       "profile": "sbt_9H6u3WMgEJw4",
       "group": "Airfoil database A-list"
     },
-    "AH80129": {
-      "name": "AH80129",
+    "AH 80-129 (ah80129-il)": {
+      "name": "AH 80-129 (ah80129-il)",
       "curves": {
         "CL_1000000": "spl_Og9l5bOR2ENt",
         "CL_500000": "spl_11luPcVCpoNV",
@@ -5202,8 +5422,8 @@
       "profile": "sbt_LEnjcg4pDMkF",
       "group": "Airfoil database A-list"
     },
-    "AH79K143": {
-      "name": "AH79K143",
+    "AH 79-K-143-18 (ah79k143-il)": {
+      "name": "AH 79-K-143-18 (ah79k143-il)",
       "curves": {
         "CL_1000000": "spl_7xk08oZBS0If",
         "CL_500000": "spl_BdopBTJQdAF9",
@@ -5224,8 +5444,8 @@
       "profile": "sbt_RUfoR7gYl7HM",
       "group": "Airfoil database A-list"
     },
-    "AH79K135": {
-      "name": "AH79K135",
+    "AH 79-K-135-20 B (ah79k135-il)": {
+      "name": "AH 79-K-135-20 B (ah79k135-il)",
       "curves": {
         "CL_1000000": "spl_HWHgH08iYL1M",
         "CL_500000": "spl_5mWUBMNMdbFo",
@@ -5246,8 +5466,8 @@
       "profile": "sbt_1tdPEt2mU29v",
       "group": "Airfoil database A-list"
     },
-    "AH79K132": {
-      "name": "AH79K132",
+    "AH 79-K-132-20 (ah79k132-il)": {
+      "name": "AH 79-K-132-20 (ah79k132-il)",
       "curves": {
         "CL_1000000": "spl_fRkgFHmdffai",
         "CL_500000": "spl_pjwmfGUVAPmk",
@@ -5268,8 +5488,8 @@
       "profile": "sbt_K7mmZGGodLYU",
       "group": "Airfoil database A-list"
     },
-    "AH79100C": {
-      "name": "AH79100C",
+    "AH 79-100 C AIRFOIL (ah79100c-il)": {
+      "name": "AH 79-100 C AIRFOIL (ah79100c-il)",
       "curves": {
         "CL_1000000": "spl_fCBLPuwfIvZ4",
         "CL_500000": "spl_h8s7IYnOXUs5",
@@ -5290,8 +5510,8 @@
       "profile": "sbt_TmK0YYBWMY4s",
       "group": "Airfoil database A-list"
     },
-    "AH79100B": {
-      "name": "AH79100B",
+    "AH 79-100 B AIRFOIL (ah79100b-il)": {
+      "name": "AH 79-100 B AIRFOIL (ah79100b-il)",
       "curves": {
         "CL_1000000": "spl_PjFe9G0avQF9",
         "CL_500000": "spl_ffnJ2p6oFT1V",
@@ -5312,8 +5532,8 @@
       "profile": "sbt_CIb7M3oROLiG",
       "group": "Airfoil database A-list"
     },
-    "AH79100A": {
-      "name": "AH79100A",
+    "AH 79-100 A AIRFOIL (ah79100a-il)": {
+      "name": "AH 79-100 A AIRFOIL (ah79100a-il)",
       "curves": {
         "CL_1000000": "spl_u1dotNTLlqG3",
         "CL_500000": "spl_eintjH23MpHp",
@@ -5334,8 +5554,8 @@
       "profile": "sbt_SSDqEVUMkoht",
       "group": "Airfoil database A-list"
     },
-    "AH7476": {
-      "name": "AH7476",
+    "AH-7-47-6 AIRFOIL (ah7476-il)": {
+      "name": "AH-7-47-6 AIRFOIL (ah7476-il)",
       "curves": {
         "CL_1000000": "spl_pf0G2STMHTmp",
         "CL_500000": "spl_BkGDclpsfO9Q",
@@ -5356,8 +5576,8 @@
       "profile": "sbt_HJ55pMvA33sk",
       "group": "Airfoil database A-list"
     },
-    "AH6407": {
-      "name": "AH6407",
+    "AH-6-40-7 AIRFOIL (ah6407-il)": {
+      "name": "AH-6-40-7 AIRFOIL (ah6407-il)",
       "curves": {
         "CL_1000000": "spl_wSXcullxMjK8",
         "CL_500000": "spl_dLek8AfxV4D6",
@@ -5378,8 +5598,8 @@
       "profile": "sbt_7yf9QqRxvoZl",
       "group": "Airfoil database A-list"
     },
-    "AH63K127": {
-      "name": "AH63K127",
+    "AH 63-K-127-24 (ah63k127-il)": {
+      "name": "AH 63-K-127-24 (ah63k127-il)",
       "curves": {
         "CL_1000000": "spl_cvLjy5fFaI85",
         "CL_500000": "spl_FKBNB76HSPBA",
@@ -5400,8 +5620,8 @@
       "profile": "sbt_YeZRE7RpjLS4",
       "group": "Airfoil database A-list"
     },
-    "AH21-9": {
-      "name": "AH21-9",
+    "AH21 9% version (Andrew Hollom) (ah21-9-il)": {
+      "name": "AH21 9% version (Andrew Hollom) (ah21-9-il)",
       "curves": {
         "CL_1000000": "spl_hqFrYmEhZ670",
         "CL_500000": "spl_XJW22CcAe3w9",
@@ -5422,8 +5642,8 @@
       "profile": "sbt_z3eOKLrYPDIs",
       "group": "Airfoil database A-list"
     },
-    "AH21-7": {
-      "name": "AH21-7",
+    "AH21 7% version (Andrew Hollom) (ah21-7-il)": {
+      "name": "AH21 7% version (Andrew Hollom) (ah21-7-il)",
       "curves": {
         "CL_1000000": "spl_7Ug5E6h2Ufhj",
         "CL_500000": "spl_fsnS3lCW5hex",
@@ -5444,8 +5664,8 @@
       "profile": "sbt_UKmNu65w94vF",
       "group": "Airfoil database A-list"
     },
-    "AG47CT02R": {
-      "name": "AG47CT02R",
+    "AG47ct -02f rot. (ag47ct02r-il)": {
+      "name": "AG47ct -02f rot. (ag47ct02r-il)",
       "curves": {
         "CL_1000000": "spl_yKXybBbl3W88",
         "CL_500000": "spl_NAVoE13HNcXY",
@@ -5466,8 +5686,8 @@
       "profile": "sbt_qSknMCO2kQFm",
       "group": "Airfoil database A-list"
     },
-    "AG47C03": {
-      "name": "AG47C03",
+    "AG47c -03f (ag47c03-il)": {
+      "name": "AG47c -03f (ag47c03-il)",
       "curves": {
         "CL_1000000": "spl_VOfumbjIzvDq",
         "CL_500000": "spl_BsVgmQa20gJk",
@@ -5488,8 +5708,8 @@
       "profile": "sbt_XN97cJ99cpum",
       "group": "Airfoil database A-list"
     },
-    "AG46CT02R": {
-      "name": "AG46CT02R",
+    "AG46ct -02f rot. (ag46ct02r-il)": {
+      "name": "AG46ct -02f rot. (ag46ct02r-il)",
       "curves": {
         "CL_1000000": "spl_TSYFWeJpSsM5",
         "CL_500000": "spl_kMHpk83OpB67",
@@ -5510,8 +5730,8 @@
       "profile": "sbt_j2lJ15Kxe6iZ",
       "group": "Airfoil database A-list"
     },
-    "AG46C03": {
-      "name": "AG46C03",
+    "AG46c -03f (ag46c03-il)": {
+      "name": "AG46c -03f (ag46c03-il)",
       "curves": {
         "CL_1000000": "spl_WArLDEE785vZ",
         "CL_500000": "spl_W5dEslrjtiiL",
@@ -5532,8 +5752,8 @@
       "profile": "sbt_afHQKaULh3CM",
       "group": "Airfoil database A-list"
     },
-    "AG45CT02R": {
-      "name": "AG45CT02R",
+    "AG45ct -02f (ag45ct02r-il)": {
+      "name": "AG45ct -02f (ag45ct02r-il)",
       "curves": {
         "CL_1000000": "spl_J5jT9YHhBoUX",
         "CL_500000": "spl_ghJh838B3O0B",
@@ -5554,8 +5774,8 @@
       "profile": "sbt_7Dwbt212rtxg",
       "group": "Airfoil database A-list"
     },
-    "AG45C03": {
-      "name": "AG45C03",
+    "AG45c -03f (ag45c03-il)": {
+      "name": "AG45c -03f (ag45c03-il)",
       "curves": {
         "CL_1000000": "spl_642GCe8Vpd5W",
         "CL_500000": "spl_RsgwLmOSawZy",
@@ -5576,8 +5796,8 @@
       "profile": "sbt_vU4yNO6uZqj5",
       "group": "Airfoil database A-list"
     },
-    "AG455CT02R": {
-      "name": "AG455CT02R",
+    "AG455ct -02f rot. (ag455ct02r-il)": {
+      "name": "AG455ct -02f rot. (ag455ct02r-il)",
       "curves": {
         "CL_1000000": "spl_c7ceEGGerme9",
         "CL_500000": "spl_TjWTjqIFONQr",
@@ -5598,8 +5818,8 @@
       "profile": "sbt_45IQY9vVf0Jq",
       "group": "Airfoil database A-list"
     },
-    "AG44CT02R": {
-      "name": "AG44CT02R",
+    "AG44ct -02f (ag44ct02r-il)": {
+      "name": "AG44ct -02f (ag44ct02r-il)",
       "curves": {
         "CL_1000000": "spl_oiEur6UqKFeo",
         "CL_500000": "spl_Ouux132bPVK6",
@@ -5620,8 +5840,8 @@
       "profile": "sbt_ULspK23v4KlP",
       "group": "Airfoil database A-list"
     },
-    "AG38": {
-      "name": "AG38",
+    "AG38 (ag38-il)": {
+      "name": "AG38 (ag38-il)",
       "curves": {
         "CL_1000000": "spl_RXmBQ9RhxDDB",
         "CL_500000": "spl_OUSmNSgQWkbj",
@@ -5642,8 +5862,8 @@
       "profile": "sbt_ng101VPROqyi",
       "group": "Airfoil database A-list"
     },
-    "AG37": {
-      "name": "AG37",
+    "AG37 (ag37-il)": {
+      "name": "AG37 (ag37-il)",
       "curves": {
         "CL_1000000": "spl_n3fSDABGFil9",
         "CL_500000": "spl_bIAPBR0XWvYv",
@@ -5664,8 +5884,8 @@
       "profile": "sbt_tbQBv3Re2nBe",
       "group": "Airfoil database A-list"
     },
-    "AG36": {
-      "name": "AG36",
+    "AG36 (ag36-il)": {
+      "name": "AG36 (ag36-il)",
       "curves": {
         "CL_1000000": "spl_7EMDueRRCer5",
         "CL_500000": "spl_AjUqs0eyT1CV",
@@ -5686,8 +5906,8 @@
       "profile": "sbt_75owVeBKcG4C",
       "group": "Airfoil database A-list"
     },
-    "AG35": {
-      "name": "AG35",
+    "AG35 (ag35-il)": {
+      "name": "AG35 (ag35-il)",
       "curves": {
         "CL_1000000": "spl_vr8GUFaHuC38",
         "CL_500000": "spl_Dy8pHMHsKe9x",
@@ -5708,8 +5928,8 @@
       "profile": "sbt_p6zUz6EYDO0W",
       "group": "Airfoil database A-list"
     },
-    "AG27": {
-      "name": "AG27",
+    "AG27 Bubble Dancer DLG by Mark Drela (ag27-il)": {
+      "name": "AG27 Bubble Dancer DLG by Mark Drela (ag27-il)",
       "curves": {
         "CL_1000000": "spl_FMFV9uiSZVm3",
         "CL_500000": "spl_w6BoOlz5Zrf5",
@@ -5730,8 +5950,8 @@
       "profile": "sbt_Kna9I6U5sGw6",
       "group": "Airfoil database A-list"
     },
-    "AG26": {
-      "name": "AG26",
+    "AG26 Bubble Dancer DLG by Mark Drela (ag26-il)": {
+      "name": "AG26 Bubble Dancer DLG by Mark Drela (ag26-il)",
       "curves": {
         "CL_1000000": "spl_fHqvXzda596E",
         "CL_500000": "spl_BxXoC4idwIIS",
@@ -5752,8 +5972,8 @@
       "profile": "sbt_vqO2ckKNmVO7",
       "group": "Airfoil database A-list"
     },
-    "AG25": {
-      "name": "AG25",
+    "AG25 Bubble Dancer DLG by Mark Drela (ag25-il)": {
+      "name": "AG25 Bubble Dancer DLG by Mark Drela (ag25-il)",
       "curves": {
         "CL_1000000": "spl_6ZOeIlWcgd3c",
         "CL_500000": "spl_TbTHm6f3oALH",
@@ -5774,8 +5994,8 @@
       "profile": "sbt_IDntzgeAhn5l",
       "group": "Airfoil database A-list"
     },
-    "AG24": {
-      "name": "AG24",
+    "AG24 Bubble Dancer DLG by Mark Drela (ag24-il)": {
+      "name": "AG24 Bubble Dancer DLG by Mark Drela (ag24-il)",
       "curves": {
         "CL_1000000": "spl_C4CHXxIkgeIP",
         "CL_500000": "spl_jPZUsK3k4uQR",
@@ -5796,8 +6016,8 @@
       "profile": "sbt_s5X5FWJLD3t6",
       "group": "Airfoil database A-list"
     },
-    "AG19": {
-      "name": "AG19",
+    "AG19 (ag19-il)": {
+      "name": "AG19 (ag19-il)",
       "curves": {
         "CL_1000000": "spl_PB27ll0hvmK9",
         "CL_500000": "spl_GSLhVMFLpZql",
@@ -5818,8 +6038,8 @@
       "profile": "sbt_3xP3xgAD9HEO",
       "group": "Airfoil database A-list"
     },
-    "AG18": {
-      "name": "AG18",
+    "AG18 (ag18-il)": {
+      "name": "AG18 (ag18-il)",
       "curves": {
         "CL_1000000": "spl_ZEMwxUsQ2Sit",
         "CL_500000": "spl_SwQiKqwEWQqW",
@@ -5840,8 +6060,8 @@
       "profile": "sbt_UC5HUScaBEJd",
       "group": "Airfoil database A-list"
     },
-    "AG17": {
-      "name": "AG17",
+    "AG17 (ag17-il)": {
+      "name": "AG17 (ag17-il)",
       "curves": {
         "CL_1000000": "spl_8w5aZpDsG8Lw",
         "CL_500000": "spl_HY0CxDgwfatO",
@@ -5862,8 +6082,8 @@
       "profile": "sbt_yJZjvdBDFDoi",
       "group": "Airfoil database A-list"
     },
-    "AG16": {
-      "name": "AG16",
+    "AG16 (ag16-il)": {
+      "name": "AG16 (ag16-il)",
       "curves": {
         "CL_1000000": "spl_TXKkJNqppwU5",
         "CL_500000": "spl_rjuEkIMp4ycB",
@@ -5884,8 +6104,8 @@
       "profile": "sbt_cFp06AbnLWGq",
       "group": "Airfoil database A-list"
     },
-    "AG14": {
-      "name": "AG14",
+    "AG14 (ag14-il)": {
+      "name": "AG14 (ag14-il)",
       "curves": {
         "CL_1000000": "spl_vQN5DLk3LyJC",
         "CL_500000": "spl_xYVC3LMjDiP6",
@@ -5906,8 +6126,8 @@
       "profile": "sbt_NM35KUl8J7Hj",
       "group": "Airfoil database A-list"
     },
-    "AG13": {
-      "name": "AG13",
+    "AG13 (ag13-il)": {
+      "name": "AG13 (ag13-il)",
       "curves": {
         "CL_1000000": "spl_DOP8hbzLdi75",
         "CL_500000": "spl_HQelScdfenx2",
@@ -5928,8 +6148,8 @@
       "profile": "sbt_90iQSsmAhVBm",
       "group": "Airfoil database A-list"
     },
-    "AG12": {
-      "name": "AG12",
+    "AG12 (ag12-il)": {
+      "name": "AG12 (ag12-il)",
       "curves": {
         "CL_1000000": "spl_6Y5KVvVBjmQJ",
         "CL_500000": "spl_hXEtSDKCWG74",
@@ -5950,8 +6170,8 @@
       "profile": "sbt_2uBTcSejtLvq",
       "group": "Airfoil database A-list"
     },
-    "AG11": {
-      "name": "AG11",
+    "AG11 (ag11-il)": {
+      "name": "AG11 (ag11-il)",
       "curves": {
         "CL_1000000": "spl_kLPLxWcBQBML",
         "CL_500000": "spl_A51ZcfSDmYOv",
@@ -5972,8 +6192,8 @@
       "profile": "sbt_8PgCXP9LpypA",
       "group": "Airfoil database A-list"
     },
-    "AG10": {
-      "name": "AG10",
+    "AG10 (ag10-il)": {
+      "name": "AG10 (ag10-il)",
       "curves": {
         "CL_1000000": "spl_jy2JFFLVvtvU",
         "CL_500000": "spl_TAy2xg1TUGxh",
@@ -5994,8 +6214,8 @@
       "profile": "sbt_orE7r6xOPAf1",
       "group": "Airfoil database A-list"
     },
-    "AG09": {
-      "name": "AG09",
+    "AG09 (ag09-il)": {
+      "name": "AG09 (ag09-il)",
       "curves": {
         "CL_1000000": "spl_f6NJFEaxAQnQ",
         "CL_500000": "spl_qrlQabqZYNtJ",
@@ -6016,8 +6236,8 @@
       "profile": "sbt_0agBYgxkSwSu",
       "group": "Airfoil database A-list"
     },
-    "AG08": {
-      "name": "AG08",
+    "AG08 (ag08-il)": {
+      "name": "AG08 (ag08-il)",
       "curves": {
         "CL_1000000": "spl_WtpwDoKl9SZk",
         "CL_500000": "spl_yncQwbQlbuZL",
@@ -6038,8 +6258,8 @@
       "profile": "sbt_O6Strcn9jDPe",
       "group": "Airfoil database A-list"
     },
-    "AG04": {
-      "name": "AG04",
+    "AG04 (ag04-il)": {
+      "name": "AG04 (ag04-il)",
       "curves": {
         "CL_1000000": "spl_774s5idWqYO9",
         "CL_500000": "spl_qxWJRPsWQyL9",
@@ -6060,8 +6280,8 @@
       "profile": "sbt_l3ya0TtABnxk",
       "group": "Airfoil database A-list"
     },
-    "AG03": {
-      "name": "AG03",
+    "AG03 (flat aft bottom) (ag03-il)": {
+      "name": "AG03 (flat aft bottom) (ag03-il)",
       "curves": {
         "CL_1000000": "spl_R2XyVSwYHdBl",
         "CL_500000": "spl_ahJkAcNKyNZP",
@@ -6082,8 +6302,8 @@
       "profile": "sbt_iMKQeiVHGb2S",
       "group": "Airfoil database A-list"
     },
-    "A63A108C": {
-      "name": "A63A108C",
+    "NASA_AMES 63A108 MOD C AIRFOIL (a63a108c-il)": {
+      "name": "NASA_AMES 63A108 MOD C AIRFOIL (a63a108c-il)",
       "curves": {
         "CL_1000000": "spl_5Rg7bcWWMX3O",
         "CL_500000": "spl_Rce0yUcLXbRf",
@@ -6104,8 +6324,8 @@
       "profile": "sbt_5kmULbzsPWjS",
       "group": "Airfoil database A-list"
     },
-    "A18SM": {
-      "name": "A18SM",
+    "A18 (smoothed) (a18sm-il)": {
+      "name": "A18 (smoothed) (a18sm-il)",
       "curves": {
         "CL_1000000": "spl_h6J3oJ0pLXlD",
         "CL_500000": "spl_zfmpnnTsM2OV",
@@ -6128,8 +6348,8 @@
     }
   },
   "Airfoil database B-list": {
-    "BW3": {
-      "name": "BW3",
+    "Bergey BW-3 (smoothed) (bw3-il)": {
+      "name": "Bergey BW-3 (smoothed) (bw3-il)",
       "curves": {
         "CL_1000000": "spl_crQpmKDvGFET",
         "CL_500000": "spl_4LYvcH02gUNE",
@@ -6150,8 +6370,8 @@
       "profile": "sbt_BXmmm4BU8eIK",
       "group": "Airfoil database B-list"
     },
-    "BOE106": {
-      "name": "BOE106",
+    "BOEING 106 AIRFOIL (boe106-il)": {
+      "name": "BOEING 106 AIRFOIL (boe106-il)",
       "curves": {
         "CL_1000000": "spl_zaP8fwdRWdmr",
         "CL_500000": "spl_DEnXCP34DCyk",
@@ -6172,8 +6392,8 @@
       "profile": "sbt_EEbIyMXbV3jh",
       "group": "Airfoil database B-list"
     },
-    "BOE103": {
-      "name": "BOE103",
+    "BOEING 103 AIRFOIL (boe103-il)": {
+      "name": "BOEING 103 AIRFOIL (boe103-il)",
       "curves": {
         "CL_1000000": "spl_x2ofpL0ZKaMl",
         "CL_500000": "spl_EgHNB0ruXoed",
@@ -6194,8 +6414,8 @@
       "profile": "sbt_Dzlt9ThYq0Li",
       "group": "Airfoil database B-list"
     },
-    "BE50SM": {
-      "name": "BE50SM",
+    "BE50 (smoothed) (be50sm-il)": {
+      "name": "BE50 (smoothed) (be50sm-il)",
       "curves": {
         "CL_1000000": "spl_zul98lgNE1TT",
         "CL_500000": "spl_oAqjrIyr0y98",
@@ -6216,8 +6436,8 @@
       "profile": "sbt_E9CmzUvWxUa6",
       "group": "Airfoil database B-list"
     },
-    "BE50": {
-      "name": "BE50",
+    "BE50 (original) (be50-il)": {
+      "name": "BE50 (original) (be50-il)",
       "curves": {
         "CL_1000000": "spl_VbV4Ar32k02d",
         "CL_500000": "spl_mhwz2oGr2Bxk",
@@ -6238,8 +6458,8 @@
       "profile": "sbt_6ljVbfnL4NO8",
       "group": "Airfoil database B-list"
     },
-    "BAMBINO6": {
-      "name": "BAMBINO6",
+    "Bambino 6 (bambino6-il)": {
+      "name": "Bambino 6 (bambino6-il)",
       "curves": {
         "CL_1000000": "spl_8oz19jTAoJWC",
         "CL_500000": "spl_HPRpBMVjweeH",
@@ -6260,8 +6480,8 @@
       "profile": "sbt_FSx11Q2LHlYH",
       "group": "Airfoil database B-list"
     },
-    "BACXXX": {
-      "name": "BACXXX",
+    "BOEING BACXXX AIRFOIL (bacxxx-il)": {
+      "name": "BOEING BACXXX AIRFOIL (bacxxx-il)",
       "curves": {
         "CL_1000000": "spl_iYRABoTri0iH",
         "CL_500000": "spl_B0SkNd7z515k",
@@ -6282,8 +6502,52 @@
       "profile": "sbt_HltrCynp6RxF",
       "group": "Airfoil database B-list"
     },
-    "B737D": {
-      "name": "B737D",
+    "BOEING HSNLF AIRFOIL (bacnlf-il)": {
+      "name": "BOEING HSNLF AIRFOIL (bacnlf-il)",
+      "curves": {
+        "CL_1000000": "spl_rJ78LdY4ehuv",
+        "CL_500000": "spl_3vxViNtEilM8",
+        "CL_200000": "spl_UxAUteSDFauS",
+        "CL_100000": "spl_3SMwQkaGleKH",
+        "CL_50000": "spl_tEsGz3HHsVl0",
+        "CD_1000000": "spl_kfGhJrFTJrP7",
+        "CD_500000": "spl_7V92P9aoC6yE",
+        "CD_200000": "spl_tPKl47PROmPB",
+        "CD_100000": "spl_y2Pc82LvF4ph",
+        "CD_50000": "spl_23p3MbwjPe0W",
+        "CM_1000000": "spl_MGynJUOhqyZk",
+        "CM_500000": "spl_3Z2SkTOiME0d",
+        "CM_200000": "spl_47DpPj143CJe",
+        "CM_100000": "spl_vkflaF2AsJSn",
+        "CM_50000": "spl_pUxd668NTMAk"
+      },
+      "profile": "sbt_zAoHDQTkZql1",
+      "group": "Airfoil database B-list"
+    },
+    "BOEING AIRFOIL J (no closed TE) (bacj-il)": {
+      "name": "BOEING AIRFOIL J (no closed TE) (bacj-il)",
+      "curves": {
+        "CL_1000000": "spl_nxYrwe0OvBsV",
+        "CL_500000": "spl_ayDazW0aXgur",
+        "CL_200000": "spl_ivKcHc6mVMWZ",
+        "CL_100000": "spl_067wM96VOkgT",
+        "CL_50000": "spl_kZ7lwxVgavvq",
+        "CD_1000000": "spl_4dPxf7y5cLTW",
+        "CD_500000": "spl_Scdvg5mVqIWp",
+        "CD_200000": "spl_Qtnd7OGTgGUn",
+        "CD_100000": "spl_JcZZR2jJrcWn",
+        "CD_50000": "spl_cPW2g9KAm6Gl",
+        "CM_1000000": "spl_tYeMJ7M6DhC5",
+        "CM_500000": "spl_C7k4odgz5Ubx",
+        "CM_200000": "spl_R44xwyq5F6VN",
+        "CM_100000": "spl_N65076cZxWAt",
+        "CM_50000": "spl_cMf0SuAscISN"
+      },
+      "profile": "sbt_Kqf8YkgRuc3V",
+      "group": "Airfoil database B-list"
+    },
+    "BOEING 737 OUTBOARD AIRFOIL (b737d-il)": {
+      "name": "BOEING 737 OUTBOARD AIRFOIL (b737d-il)",
       "curves": {
         "CL_1000000": "spl_RrKdTOEslHin",
         "CL_500000": "spl_rvY0bv9CtK6k",
@@ -6304,8 +6568,8 @@
       "profile": "sbt_t7hQlqjHdrgR",
       "group": "Airfoil database B-list"
     },
-    "B737C": {
-      "name": "B737C",
+    "BOEING 737 MIDSPAN AIRFOIL (b737c-il)": {
+      "name": "BOEING 737 MIDSPAN AIRFOIL (b737c-il)",
       "curves": {
         "CL_1000000": "spl_xJJzgkU4eo5M",
         "CL_500000": "spl_i7R1hpCMqowd",
@@ -6326,8 +6590,8 @@
       "profile": "sbt_yqnKYHNo971h",
       "group": "Airfoil database B-list"
     },
-    "B737B": {
-      "name": "B737B",
+    "BOEING 737 MIDSPAN AIRFOIL (b737b-il)": {
+      "name": "BOEING 737 MIDSPAN AIRFOIL (b737b-il)",
       "curves": {
         "CL_1000000": "spl_SaoXqHZuhHUE",
         "CL_500000": "spl_VMbMXBRqHApl",
@@ -6348,8 +6612,8 @@
       "profile": "sbt_xJ9qlYxbi50B",
       "group": "Airfoil database B-list"
     },
-    "B737A": {
-      "name": "B737A",
+    "BOEING 737 ROOT AIRFOIL (b737a-il)": {
+      "name": "BOEING 737 ROOT AIRFOIL (b737a-il)",
       "curves": {
         "CL_1000000": "spl_V3QyZh2zBE2T",
         "CL_500000": "spl_bJT6QFD6p7aQ",
@@ -6370,8 +6634,8 @@
       "profile": "sbt_szgrHDtJKLl4",
       "group": "Airfoil database B-list"
     },
-    "B707E": {
-      "name": "B707E",
+    "BOEING 707 .99 SPAN AIRFOIL (b707e-il)": {
+      "name": "BOEING 707 .99 SPAN AIRFOIL (b707e-il)",
       "curves": {
         "CL_1000000": "spl_XT9Pz4mXWqTz",
         "CL_500000": "spl_geF8ciaudKe2",
@@ -6392,8 +6656,30 @@
       "profile": "sbt_dEldVkHhZuQ4",
       "group": "Airfoil database B-list"
     },
-    "B707C": {
-      "name": "B707C",
+    "BOEING 707 .54 SPAN AIRFOIL (b707d-il)": {
+      "name": "BOEING 707 .54 SPAN AIRFOIL (b707d-il)",
+      "curves": {
+        "CL_1000000": "spl_AzqL3UjEXYpj",
+        "CL_500000": "spl_LYgz4eJ8aIHW",
+        "CL_200000": "spl_wRKnFvNzlJIt",
+        "CL_100000": "spl_4HNiKUuEznQG",
+        "CL_50000": "spl_A9MRw2Exakpo",
+        "CD_1000000": "spl_ftFidM4ruE1Q",
+        "CD_500000": "spl_TmAZLZtqk4nz",
+        "CD_200000": "spl_KxXQ5OfAlM19",
+        "CD_100000": "spl_odrDX4iLR7Ay",
+        "CD_50000": "spl_gawmjVUak5g5",
+        "CM_1000000": "spl_lWZyl743nuBw",
+        "CM_500000": "spl_8PkHLf02FzP4",
+        "CM_200000": "spl_5q8EDGVtFfSV",
+        "CM_100000": "spl_71ghrS0pHjt1",
+        "CM_50000": "spl_mNDRzb0z6wES"
+      },
+      "profile": "sbt_v8DMfQYbnll6",
+      "group": "Airfoil database B-list"
+    },
+    "BOEING 707 .40 SPAN AIRFOIL (b707c-il)": {
+      "name": "BOEING 707 .40 SPAN AIRFOIL (b707c-il)",
       "curves": {
         "CL_1000000": "spl_TLNbuJHfaUip",
         "CL_500000": "spl_Yvf62pc3CuxL",
@@ -6414,8 +6700,8 @@
       "profile": "sbt_WOFsQvLJVvU9",
       "group": "Airfoil database B-list"
     },
-    "B707B": {
-      "name": "B707B",
+    "BOEING 707 .19 SPAN AIRFOIL (b707b-il)": {
+      "name": "BOEING 707 .19 SPAN AIRFOIL (b707b-il)",
       "curves": {
         "CL_1000000": "spl_wQjNGzOn5ncH",
         "CL_500000": "spl_FTxrQv5LzOBj",
@@ -6436,8 +6722,8 @@
       "profile": "sbt_xhDG7nBswlfu",
       "group": "Airfoil database B-list"
     },
-    "B707A": {
-      "name": "B707A",
+    "BOEING 707 .08 SPAN AIRFOIL (b707a-il)": {
+      "name": "BOEING 707 .08 SPAN AIRFOIL (b707a-il)",
       "curves": {
         "CL_1000000": "spl_8i7AHzwZVVne",
         "CL_500000": "spl_kx9WU9OLXetL",
@@ -6458,8 +6744,8 @@
       "profile": "sbt_SnafmBbQFqMU",
       "group": "Airfoil database B-list"
     },
-    "B29TIP": {
-      "name": "B29TIP",
+    "B-29 TIP AIRFOIL (b29tip-il)": {
+      "name": "B-29 TIP AIRFOIL (b29tip-il)",
       "curves": {
         "CL_1000000": "spl_mPNqcBbN1nBZ",
         "CL_500000": "spl_gO3JCTyJ9UWX",
@@ -6480,8 +6766,8 @@
       "profile": "sbt_FqEr5bn5hlQO",
       "group": "Airfoil database B-list"
     },
-    "B29ROOT": {
-      "name": "B29ROOT",
+    "B-29 ROOT AIRFOIL (b29root-il)": {
+      "name": "B-29 ROOT AIRFOIL (b29root-il)",
       "curves": {
         "CL_1000000": "spl_DkOsPn9iSKE3",
         "CL_500000": "spl_qtxvORtMZuW5",
@@ -6504,8 +6790,8 @@
     }
   },
   "Airfoil database C-list": {
-    "CURTISC72": {
-      "name": "CURTISC72",
+    "Curtis C-72 (curtisc72-il)": {
+      "name": "Curtis C-72 (curtisc72-il)",
       "curves": {
         "CL_1000000": "spl_A4B5DkgtQQl9",
         "CL_500000": "spl_EdojG4q8QCWn",
@@ -6526,8 +6812,8 @@
       "profile": "sbt_TOJYzX7UOiJh",
       "group": "Airfoil database C-list"
     },
-    "CR1": {
-      "name": "CR1",
+    "CURTISS CR-1 AIRFOIL (cr1-il)": {
+      "name": "CURTISS CR-1 AIRFOIL (cr1-il)",
       "curves": {
         "CL_1000000": "spl_GknrMStcN7ua",
         "CL_500000": "spl_pLfGHQWdCit4",
@@ -6548,8 +6834,8 @@
       "profile": "sbt_r89O33S2UOQm",
       "group": "Airfoil database C-list"
     },
-    "CR001SM": {
-      "name": "CR001SM",
+    "cr001sm (cr001sm-il)": {
+      "name": "cr001sm (cr001sm-il)",
       "curves": {
         "CL_1000000": "spl_Yobf5XJflwZU",
         "CL_500000": "spl_uBdhcaFRf4cv",
@@ -6570,8 +6856,8 @@
       "profile": "sbt_d4Ust1wa4D0J",
       "group": "Airfoil database C-list"
     },
-    "CP-180-050-GN": {
-      "name": "CP-180-050-GN",
+    "Cambered plate C=18% T=5% R=0.78 (cp-180-050-gn)": {
+      "name": "Cambered plate C=18% T=5% R=0.78 (cp-180-050-gn)",
       "curves": {
         "CL_1000000": "spl_KfPAXcIKGoZA",
         "CL_500000": "spl_A7bdJ9pMnD5w",
@@ -6592,8 +6878,8 @@
       "profile": "sbt_ndENC4YJ2J0D",
       "group": "Airfoil database C-list"
     },
-    "CP-160-050-GN": {
-      "name": "CP-160-050-GN",
+    "Cambered plate C=16% T=5% R=0.86 (cp-160-050-gn)": {
+      "name": "Cambered plate C=16% T=5% R=0.86 (cp-160-050-gn)",
       "curves": {
         "CL_1000000": "spl_NuterVQsiOyS",
         "CL_500000": "spl_vATBvsYyikyI",
@@ -6614,8 +6900,8 @@
       "profile": "sbt_rbuptiRD1Ny7",
       "group": "Airfoil database C-list"
     },
-    "CP-140-050-GN": {
-      "name": "CP-140-050-GN",
+    "Cambered plate C=14% T=5% R=0.96 (cp-140-050-gn)": {
+      "name": "Cambered plate C=14% T=5% R=0.96 (cp-140-050-gn)",
       "curves": {
         "CL_1000000": "spl_yBhvQaS4YiDI",
         "CL_500000": "spl_D08Ix1QmOpBS",
@@ -6636,8 +6922,8 @@
       "profile": "sbt_eOKgGoepRmgr",
       "group": "Airfoil database C-list"
     },
-    "CP-120-050-GN": {
-      "name": "CP-120-050-GN",
+    "Cambered plate C=12% T=5% R=1.1 (cp-120-050-gn)": {
+      "name": "Cambered plate C=12% T=5% R=1.1 (cp-120-050-gn)",
       "curves": {
         "CL_1000000": "spl_AOvvepOOhoTA",
         "CL_500000": "spl_KRVsLaHpYedc",
@@ -6658,8 +6944,8 @@
       "profile": "sbt_5CXeglrV0seK",
       "group": "Airfoil database C-list"
     },
-    "CP-100-050-GN": {
-      "name": "CP-100-050-GN",
+    "Cambered plate C=10% T=5% R=1.3 (cp-100-050-gn)": {
+      "name": "Cambered plate C=10% T=5% R=1.3 (cp-100-050-gn)",
       "curves": {
         "CL_1000000": "spl_i2oCDaRDT008",
         "CL_500000": "spl_QxMcVwtku0Qi",
@@ -6680,8 +6966,8 @@
       "profile": "sbt_PqHtNQvyL4gS",
       "group": "Airfoil database C-list"
     },
-    "CP-080-050-GN": {
-      "name": "CP-080-050-GN",
+    "Cambered plate C=8% T=5% R=1.6 (cp-080-050-gn)": {
+      "name": "Cambered plate C=8% T=5% R=1.6 (cp-080-050-gn)",
       "curves": {
         "CL_1000000": "spl_YrqJRMq1DbNu",
         "CL_500000": "spl_KQGTyQgMifXb",
@@ -6702,8 +6988,8 @@
       "profile": "sbt_sAPNgiARCATr",
       "group": "Airfoil database C-list"
     },
-    "CP-060-050-GN": {
-      "name": "CP-060-050-GN",
+    "Cambered plate C=6% T=5% R=2.11 (cp-060-050-gn)": {
+      "name": "Cambered plate C=6% T=5% R=2.11 (cp-060-050-gn)",
       "curves": {
         "CL_1000000": "spl_MWoIVZdUfJ0r",
         "CL_500000": "spl_PnRgCvYQP3yE",
@@ -6724,8 +7010,8 @@
       "profile": "sbt_PEHqHzMXLuw7",
       "group": "Airfoil database C-list"
     },
-    "COOTIE": {
-      "name": "COOTIE",
+    "WACO COOTIE AIRFOIL (cootie-il)": {
+      "name": "WACO COOTIE AIRFOIL (cootie-il)",
       "curves": {
         "CL_1000000": "spl_aaMPXGSHqJu0",
         "CL_500000": "spl_Zj6kx6W5spv8",
@@ -6746,8 +7032,8 @@
       "profile": "sbt_Y1VZ9cn211sF",
       "group": "Airfoil database C-list"
     },
-    "COANDA3": {
-      "name": "COANDA3",
+    "Coanda 3 (coanda3-il)": {
+      "name": "Coanda 3 (coanda3-il)",
       "curves": {
         "CL_1000000": "spl_QcmAMVA0VODu",
         "CL_500000": "spl_dI2eHZEHLM1n",
@@ -6768,8 +7054,8 @@
       "profile": "sbt_xI8yCtmDbrIM",
       "group": "Airfoil database C-list"
     },
-    "COANDA2": {
-      "name": "COANDA2",
+    "Coanda 2 (coanda2-il)": {
+      "name": "Coanda 2 (coanda2-il)",
       "curves": {
         "CL_1000000": "spl_iOtWHk4HXBVL",
         "CL_500000": "spl_0aSVulQ5nDNr",
@@ -6790,8 +7076,8 @@
       "profile": "sbt_DezYT36AuigU",
       "group": "Airfoil database C-list"
     },
-    "COANDA1": {
-      "name": "COANDA1",
+    "Coanda 1 (coanda1-il)": {
+      "name": "Coanda 1 (coanda1-il)",
       "curves": {
         "CL_1000000": "spl_xexS0GHNuvIM",
         "CL_500000": "spl_Vk3r1SOSAs8d",
@@ -6812,8 +7098,8 @@
       "profile": "sbt_Dhlkgj4iO4IQ",
       "group": "Airfoil database C-list"
     },
-    "CLARYM18": {
-      "name": "CLARYM18",
+    "CLARK YM-18 AIRFOIL (clarym18-il)": {
+      "name": "CLARK YM-18 AIRFOIL (clarym18-il)",
       "curves": {
         "CM_1000000": "spl_pNh26gmWnA4V",
         "CD_1000000": "spl_6hQ6rjuN3D0U",
@@ -6834,8 +7120,8 @@
       "profile": "sbt_nExN1rerkAVi",
       "group": "Airfoil database C-list"
     },
-    "CLARYM15": {
-      "name": "CLARYM15",
+    "CLARK YM-15 AIRFOIL (clarym15-il)": {
+      "name": "CLARK YM-15 AIRFOIL (clarym15-il)",
       "curves": {
         "CM_1000000": "spl_M2YSOav2d7ns",
         "CD_1000000": "spl_H4Pgd92pSUGN",
@@ -6856,8 +7142,8 @@
       "profile": "sbt_kYXeuxr1STNE",
       "group": "Airfoil database C-list"
     },
-    "CLARKZ": {
-      "name": "CLARKZ",
+    "CLARK Z AIRFOIL (clarkz-il)": {
+      "name": "CLARK Z AIRFOIL (clarkz-il)",
       "curves": {
         "CM_1000000": "spl_VrQ1hUlmecD2",
         "CD_1000000": "spl_jVpf0TiZj1OC",
@@ -6878,8 +7164,8 @@
       "profile": "sbt_ywIpfo1dkfld",
       "group": "Airfoil database C-list"
     },
-    "CLARKYSM": {
-      "name": "CLARKYSM",
+    "CLARK-Y 11.7% smoothed (clarkysm-il)": {
+      "name": "CLARK-Y 11.7% smoothed (clarkysm-il)",
       "curves": {
         "CM_1000000": "spl_eTo8q2MAUgbW",
         "CD_1000000": "spl_kIvc7kVu16sr",
@@ -6900,8 +7186,8 @@
       "profile": "sbt_Mk9YWRXiJKTY",
       "group": "Airfoil database C-list"
     },
-    "CLARKYS": {
-      "name": "CLARKYS",
+    "CLARK YS AIRFOIL (clarkys-il)": {
+      "name": "CLARK YS AIRFOIL (clarkys-il)",
       "curves": {
         "CM_1000000": "spl_aDAbfo5Lkks6",
         "CD_1000000": "spl_64V1jnyc4TQy",
@@ -6922,8 +7208,8 @@
       "profile": "sbt_S0woIPGIlbwm",
       "group": "Airfoil database C-list"
     },
-    "CLARKYH": {
-      "name": "CLARKYH",
+    "CLARK YH AIRFOIL (clarkyh-il)": {
+      "name": "CLARK YH AIRFOIL (clarkyh-il)",
       "curves": {
         "CM_1000000": "spl_AAlxqsTVBg8O",
         "CD_1000000": "spl_sQb52lmRMcsi",
@@ -6944,8 +7230,8 @@
       "profile": "sbt_5LpBeu8qN3fr",
       "group": "Airfoil database C-list"
     },
-    "CLARKY": {
-      "name": "CLARKY",
+    "CLARK Y AIRFOIL (clarky-il)": {
+      "name": "CLARK Y AIRFOIL (clarky-il)",
       "curves": {
         "CM_1000000": "spl_CUDRHQ69hEw6",
         "CD_1000000": "spl_lPxKQqsnDOXW",
@@ -6966,8 +7252,8 @@
       "profile": "sbt_hPCmp44fpruE",
       "group": "Airfoil database C-list"
     },
-    "CLARKX": {
-      "name": "CLARKX",
+    "CLARK X AIRFOIL (clarkx-il)": {
+      "name": "CLARK X AIRFOIL (clarkx-il)",
       "curves": {
         "CM_1000000": "spl_FWFI91XN1QqF",
         "CD_1000000": "spl_rNKvufNRKInb",
@@ -6988,8 +7274,8 @@
       "profile": "sbt_K78N7i4Onvry",
       "group": "Airfoil database C-list"
     },
-    "CLARKW": {
-      "name": "CLARKW",
+    "CLARK W AIRFOIL (clarkw-il)": {
+      "name": "CLARK W AIRFOIL (clarkw-il)",
       "curves": {
         "CM_1000000": "spl_vrZkdsjt5Swk",
         "CD_1000000": "spl_k7c8xdYSPmWe",
@@ -7010,8 +7296,8 @@
       "profile": "sbt_EiUQ3Xvqeq2r",
       "group": "Airfoil database C-list"
     },
-    "CLARKV": {
-      "name": "CLARKV",
+    "CLARK V AIRFOIL (clarkv-il)": {
+      "name": "CLARK V AIRFOIL (clarkv-il)",
       "curves": {
         "CM_1000000": "spl_hqG2ClymmavZ",
         "CD_1000000": "spl_LXFpwl8CaOVu",
@@ -7032,8 +7318,8 @@
       "profile": "sbt_ic2Dy6rxPev7",
       "group": "Airfoil database C-list"
     },
-    "CLARKK": {
-      "name": "CLARKK",
+    "CLARK K AIRFOIL (clarkk-il)": {
+      "name": "CLARK K AIRFOIL (clarkk-il)",
       "curves": {
         "CM_1000000": "spl_6borvk2Mg2Sa",
         "CD_1000000": "spl_kTRM8XoDQYlW",
@@ -7054,8 +7340,8 @@
       "profile": "sbt_aMLpuPjxiBgw",
       "group": "Airfoil database C-list"
     },
-    "CHEN": {
-      "name": "CHEN",
+    "CHEN AIRFOIL (chen-il)": {
+      "name": "CHEN AIRFOIL (chen-il)",
       "curves": {
         "CL_1000000": "spl_b5JMZmuLJLml",
         "CL_500000": "spl_hxO9FuWBGoU6",
@@ -7076,8 +7362,8 @@
       "profile": "sbt_XddPDAIuROpp",
       "group": "Airfoil database C-list"
     },
-    "CH10SM": {
-      "name": "CH10SM",
+    "CH10 (smoothed) (ch10sm-il)": {
+      "name": "CH10 (smoothed) (ch10sm-il)",
       "curves": {
         "CL_1000000": "spl_oG9ZFDSASzCR",
         "CL_500000": "spl_Yt71sjz536uw",
@@ -7098,8 +7384,8 @@
       "profile": "sbt_XWHZiiAArwm0",
       "group": "Airfoil database C-list"
     },
-    "CAST102": {
-      "name": "CAST102",
+    "CAST 10-2_DOA 2 AIRFOIL (cast102-il)": {
+      "name": "CAST 10-2_DOA 2 AIRFOIL (cast102-il)",
       "curves": {
         "CL_1000000": "spl_jN36KZcw2dfX",
         "CL_500000": "spl_tYibjPMJc4Lq",
@@ -7120,8 +7406,8 @@
       "profile": "sbt_4XhiYCfuhljk",
       "group": "Airfoil database C-list"
     },
-    "CAP21C": {
-      "name": "CAP21C",
+    "CAP 21 (TraCFoil) (cap21c-il)": {
+      "name": "CAP 21 (TraCFoil) (cap21c-il)",
       "curves": {
         "CL_1000000": "spl_ZLvTnTbU6rxJ",
         "CL_500000": "spl_uNwMkK5vc1lw",
@@ -7142,8 +7428,8 @@
       "profile": "sbt_CEpylvRj3BNT",
       "group": "Airfoil database C-list"
     },
-    "C5E": {
-      "name": "C5E",
+    "LOCKHEED C-5A BL1256 AIRFOIL (c5e-il)": {
+      "name": "LOCKHEED C-5A BL1256 AIRFOIL (c5e-il)",
       "curves": {
         "CL_1000000": "spl_s4P0hdxDpJte",
         "CL_500000": "spl_zDTlYxHPNWTZ",
@@ -7164,8 +7450,30 @@
       "profile": "sbt_IliXI038zyk8",
       "group": "Airfoil database C-list"
     },
-    "C5C": {
-      "name": "C5C",
+    "LOCKHEED C-5A BL758.6 AIRFOIL (c5d-il)": {
+      "name": "LOCKHEED C-5A BL758.6 AIRFOIL (c5d-il)",
+      "curves": {
+        "CL_1000000": "spl_KX6q2rvNzg0X",
+        "CL_500000": "spl_Hh72KuL11dAa",
+        "CL_200000": "spl_eeGwXm2RK8Ns",
+        "CL_100000": "spl_HpmSvchuiAru",
+        "CL_50000": "spl_DdWD3F2CF6yW",
+        "CD_1000000": "spl_apQZhUPnb4oS",
+        "CD_500000": "spl_smoEDeddK7ag",
+        "CD_200000": "spl_PmSPaCA6luab",
+        "CD_100000": "spl_Ga9pL68TPVVI",
+        "CD_50000": "spl_YMwYOLeAsLGZ",
+        "CM_1000000": "spl_JxEH8kpt1rZh",
+        "CM_500000": "spl_FUrMgnAaXPiI",
+        "CM_200000": "spl_vTdUW4SAt2nT",
+        "CM_100000": "spl_odTHl10cmEyt",
+        "CM_50000": "spl_Xj666gsLZwZJ"
+      },
+      "profile": "sbt_kJ5Vw0U2tNjh",
+      "group": "Airfoil database C-list"
+    },
+    "LOCKHEED C-5A BL576 AIRFOIL (c5c-il)": {
+      "name": "LOCKHEED C-5A BL576 AIRFOIL (c5c-il)",
       "curves": {
         "CL_1000000": "spl_WuygPmAnJM2P",
         "CL_500000": "spl_XbN4NFPFNzHi",
@@ -7186,8 +7494,8 @@
       "profile": "sbt_HDdeSP3xy4Va",
       "group": "Airfoil database C-list"
     },
-    "C5B": {
-      "name": "C5B",
+    "LOCKHEED C-5A BL488.2 AIRFOIL (c5b-il)": {
+      "name": "LOCKHEED C-5A BL488.2 AIRFOIL (c5b-il)",
       "curves": {
         "CL_1000000": "spl_5uP17Wcrdons",
         "CL_500000": "spl_ZWY7RIdcyspL",
@@ -7208,8 +7516,8 @@
       "profile": "sbt_5XYPPDy430yf",
       "group": "Airfoil database C-list"
     },
-    "C5A": {
-      "name": "C5A",
+    "LOCKHEED C-5A BL0 AIRFOIL (c5a-il)": {
+      "name": "LOCKHEED C-5A BL0 AIRFOIL (c5a-il)",
       "curves": {
         "CL_1000000": "spl_vEkqqZjev60l",
         "CL_500000": "spl_IOo0Zi7LbFc7",
@@ -7230,8 +7538,30 @@
       "profile": "sbt_mX3WdkOdkwu6",
       "group": "Airfoil database C-list"
     },
-    "C141E": {
-      "name": "C141E",
+    "LOCKHEED C-141 BL958.89 AIRFOIL (c141f-il)": {
+      "name": "LOCKHEED C-141 BL958.89 AIRFOIL (c141f-il)",
+      "curves": {
+        "CL_1000000": "spl_RNx9iMsCWldb",
+        "CL_500000": "spl_XVfRfKgcCCwB",
+        "CL_200000": "spl_IicTtVSyvkEm",
+        "CL_100000": "spl_tLbqkigGcAFb",
+        "CL_50000": "spl_8n2TsXsQ1XQC",
+        "CD_1000000": "spl_VAIkv1IT968q",
+        "CD_500000": "spl_D2GDVpXQJYLw",
+        "CD_200000": "spl_T7rQQPspe9Uw",
+        "CD_100000": "spl_1cHackatksEN",
+        "CD_50000": "spl_m09Kw0W5rgjp",
+        "CM_1000000": "spl_NI96LFE7yjSG",
+        "CM_500000": "spl_xMCoxeQQAwJo",
+        "CM_200000": "spl_fmHOTN4882Re",
+        "CM_100000": "spl_GqOunXfh4LnD",
+        "CM_50000": "spl_V2uixEz2Hp88"
+      },
+      "profile": "sbt_ZFQv5hNoqWag",
+      "group": "Airfoil database C-list"
+    },
+    "LOCKHEED C-141 BL761.11 AIRFOIL (c141e-il)": {
+      "name": "LOCKHEED C-141 BL761.11 AIRFOIL (c141e-il)",
       "curves": {
         "CL_1000000": "spl_A5ymeTooDXYF",
         "CL_500000": "spl_vpCigOysst4M",
@@ -7252,8 +7582,8 @@
       "profile": "sbt_gBEHdt2LiR1j",
       "group": "Airfoil database C-list"
     },
-    "C141D": {
-      "name": "C141D",
+    "LOCKHEED C-141 BL610.61 AIRFOIL (c141d-il)": {
+      "name": "LOCKHEED C-141 BL610.61 AIRFOIL (c141d-il)",
       "curves": {
         "CL_1000000": "spl_OmPeG4obnupp",
         "CL_500000": "spl_UvNVD4k8z3UR",
@@ -7274,8 +7604,8 @@
       "profile": "sbt_E5F774kLWOOi",
       "group": "Airfoil database C-list"
     },
-    "C141C": {
-      "name": "C141C",
+    "LOCKHEED C-141 BL426.57 AIRFOIL (c141c-il)": {
+      "name": "LOCKHEED C-141 BL426.57 AIRFOIL (c141c-il)",
       "curves": {
         "CL_1000000": "spl_0Ddu9gxgsuEx",
         "CL_500000": "spl_Xr0JSarPBrG4",
@@ -7296,8 +7626,8 @@
       "profile": "sbt_yoHF3Ao0BGpH",
       "group": "Airfoil database C-list"
     },
-    "C141B": {
-      "name": "C141B",
+    "LOCKHEED C-141 BL113.6 AIRFOIL (c141b-il)": {
+      "name": "LOCKHEED C-141 BL113.6 AIRFOIL (c141b-il)",
       "curves": {
         "CL_1000000": "spl_zQ7BY7fHWdE3",
         "CL_500000": "spl_aEvE4k5VuRPm",
@@ -7318,8 +7648,8 @@
       "profile": "sbt_RDotMdqxrgZr",
       "group": "Airfoil database C-list"
     },
-    "C141A": {
-      "name": "C141A",
+    "LOCKHEED C-141 BL0 AIRFOIL (c141a-il)": {
+      "name": "LOCKHEED C-141 BL0 AIRFOIL (c141a-il)",
       "curves": {
         "CL_1000000": "spl_xlXcvWgTwkgH",
         "CL_500000": "spl_JAnFNZkj5q5h",
@@ -7342,8 +7672,8 @@
     }
   },
   "Airfoil database I-list": {
-    "ISA962": {
-      "name": "ISA962",
+    "I.S.A. 962 (isa962-il)": {
+      "name": "I.S.A. 962 (isa962-il)",
       "curves": {
         "CL_1000000": "spl_fuDUfzcNiNT2",
         "CL_500000": "spl_uCbVHB6KgFK0",
@@ -7364,8 +7694,8 @@
       "profile": "sbt_hOZcRKAhudYS",
       "group": "Airfoil database I-list"
     },
-    "ISA961": {
-      "name": "ISA961",
+    "I.S.A. 961 (isa961-il)": {
+      "name": "I.S.A. 961 (isa961-il)",
       "curves": {
         "CL_1000000": "spl_HjJKHa77AM81",
         "CL_500000": "spl_H2um45DwBkCv",
@@ -7386,8 +7716,8 @@
       "profile": "sbt_cnpgRQ6ZK4Px",
       "group": "Airfoil database I-list"
     },
-    "ISA960": {
-      "name": "ISA960",
+    "I.S.A. 960 (isa960-il)": {
+      "name": "I.S.A. 960 (isa960-il)",
       "curves": {
         "CL_1000000": "spl_EvMwquBIkK5f",
         "CL_500000": "spl_Fq3t5u71jLWR",
@@ -7408,8 +7738,8 @@
       "profile": "sbt_38mLwhFXLXlD",
       "group": "Airfoil database I-list"
     },
-    "ISA571": {
-      "name": "ISA571",
+    "I.S.A. 571 (isa571-il)": {
+      "name": "I.S.A. 571 (isa571-il)",
       "curves": {
         "CL_1000000": "spl_dUEPIKNHqPar",
         "CL_500000": "spl_M1L88pYjwzP6",
@@ -7432,8 +7762,8 @@
     }
   },
   "Airfoil database L-list": {
-    "LS421MOD": {
-      "name": "LS421MOD",
+    "NASA-LANGLEY LS(1)-0421MOD AIRFOIL (ls421mod-il)": {
+      "name": "NASA-LANGLEY LS(1)-0421MOD AIRFOIL (ls421mod-il)",
       "curves": {
         "CL_1000000": "spl_VJ9Atl9AQ8Be",
         "CL_500000": "spl_SUDvA6YSilJe",
@@ -7454,8 +7784,8 @@
       "profile": "sbt_LtdKdFxYjyPk",
       "group": "Airfoil database L-list"
     },
-    "LS421": {
-      "name": "LS421",
+    "NASA-LANGLEY LS(1)-0421 AIRFOIL (ls421-il)": {
+      "name": "NASA-LANGLEY LS(1)-0421 AIRFOIL (ls421-il)",
       "curves": {
         "CL_1000000": "spl_BWA3izE6eEwK",
         "CL_500000": "spl_r1h8QVsii9sR",
@@ -7476,8 +7806,52 @@
       "profile": "sbt_xRJKSb3M3Wvv",
       "group": "Airfoil database L-list"
     },
-    "LS417": {
-      "name": "LS417",
+    "NASA-LANGLEY LS(1)-0413MOD AIRFOIL (ls413mod-il)": {
+      "name": "NASA-LANGLEY LS(1)-0413MOD AIRFOIL (ls413mod-il)",
+      "curves": {
+        "CL_1000000": "spl_lUw66d2utNJB",
+        "CL_500000": "spl_3mgo5pf9XBCO",
+        "CL_200000": "spl_lWBcfBxFnXTX",
+        "CL_100000": "spl_m0QHg9LSBQuM",
+        "CL_50000": "spl_xRo6my5ok0Zg",
+        "CD_1000000": "spl_e08m52xUv9y4",
+        "CD_500000": "spl_NrH2oThue0UT",
+        "CD_200000": "spl_gXS4qJE84yYc",
+        "CD_100000": "spl_7QHk4esraoda",
+        "CD_50000": "spl_GFkSEPOHayjg",
+        "CM_1000000": "spl_UounKX4LIswq",
+        "CM_500000": "spl_M9LoNnDJp3YU",
+        "CM_200000": "spl_sfh9JBPcLmbF",
+        "CM_100000": "spl_Iwl7vW5xPDl3",
+        "CM_50000": "spl_DiGVEc71gtCr"
+      },
+      "profile": "sbt_yK06dxsCszya",
+      "group": "Airfoil database L-list"
+    },
+    "NASA-LANGLEY LS(1)-0417MOD AIRFOIL (ls417mod-il)": {
+      "name": "NASA-LANGLEY LS(1)-0417MOD AIRFOIL (ls417mod-il)",
+      "curves": {
+        "CL_1000000": "spl_W1udLj1QAq6v",
+        "CL_500000": "spl_EDm1Z7HIlBbY",
+        "CL_200000": "spl_BQ232TsNcfuT",
+        "CL_100000": "spl_wCLrU4cvXd6h",
+        "CL_50000": "spl_NcD3Y4oc9dMP",
+        "CD_1000000": "spl_yNFPmrFTlDdt",
+        "CD_500000": "spl_5zlYsRjEp26K",
+        "CD_200000": "spl_eM2wiD8twHMS",
+        "CD_100000": "spl_LuzHQdNlDSmU",
+        "CD_50000": "spl_4PWr5Lwv7Hht",
+        "CM_1000000": "spl_PHvnluJleC6K",
+        "CM_500000": "spl_7QDEP8qvxvMo",
+        "CM_200000": "spl_H58XAOTapsMS",
+        "CM_100000": "spl_WzvYXmoeCDLl",
+        "CM_50000": "spl_xBN92WPIZanv"
+      },
+      "profile": "sbt_L9pMMjY9TGzs",
+      "group": "Airfoil database L-list"
+    },
+    "NASA-LANGLEY LS(1)-0417 (GA(W)-1) AIRFOIL (ls417-il)": {
+      "name": "NASA-LANGLEY LS(1)-0417 (GA(W)-1) AIRFOIL (ls417-il)",
       "curves": {
         "CL_1000000": "spl_ssk9csrqu8Bp",
         "CL_500000": "spl_wsoxAWqqZK3Q",
@@ -7498,8 +7872,8 @@
       "profile": "sbt_6iVFpefbepAB",
       "group": "Airfoil database L-list"
     },
-    "LS413": {
-      "name": "LS413",
+    "NASA-LANGLEY LS(1)-0413 (GA(W)-2) AIRFOIL (ls413-il)": {
+      "name": "NASA-LANGLEY LS(1)-0413 (GA(W)-2) AIRFOIL (ls413-il)",
       "curves": {
         "CL_1000000": "spl_oEhGXLl4Qc3M",
         "CL_500000": "spl_40b67PuuugG1",
@@ -7520,8 +7894,8 @@
       "profile": "sbt_ozMe3HkdihK6",
       "group": "Airfoil database L-list"
     },
-    "LRN1015": {
-      "name": "LRN1015",
+    "NASA LRN 1015 (NASA TM 102840) (lrn1015-il)": {
+      "name": "NASA LRN 1015 (NASA TM 102840) (lrn1015-il)",
       "curves": {
         "CL_1000000": "spl_fT9z7gWxF96d",
         "CL_500000": "spl_pmUaLOogoAq6",
@@ -7542,8 +7916,8 @@
       "profile": "sbt_CgjYpgM22o5h",
       "group": "Airfoil database L-list"
     },
-    "LRN1007": {
-      "name": "LRN1007",
+    "lrn1007 (lrn1007-il)": {
+      "name": "lrn1007 (lrn1007-il)",
       "curves": {
         "CL_1000000": "spl_GPx0jLTLD24A",
         "CL_500000": "spl_rTMCkZfLke9F",
@@ -7564,8 +7938,8 @@
       "profile": "sbt_aDtlYWH1khrV",
       "group": "Airfoil database L-list"
     },
-    "LNV109A": {
-      "name": "LNV109A",
+    "LNV109A (lnv109a-il)": {
+      "name": "LNV109A (lnv109a-il)",
       "curves": {
         "CL_1000000": "spl_OJI9roGEgpIX",
         "CL_500000": "spl_AvJmcQvkZjn4",
@@ -7586,8 +7960,8 @@
       "profile": "sbt_FeLrog0W3iXl",
       "group": "Airfoil database L-list"
     },
-    "LG10SC": {
-      "name": "LG10SC",
+    "LOCKHEED-GEORGIA SUPERCRITICAL AIRFOIL (lg10sc-il)": {
+      "name": "LOCKHEED-GEORGIA SUPERCRITICAL AIRFOIL (lg10sc-il)",
       "curves": {
         "CL_1000000": "spl_Yv3sdKHOFNO1",
         "CL_500000": "spl_E92y9EnwjnoQ",
@@ -7608,8 +7982,8 @@
       "profile": "sbt_CDhA9aorvIyU",
       "group": "Airfoil database L-list"
     },
-    "LDS2": {
-      "name": "LDS2",
+    "LDS-2 AIRFOIL (lds2-il)": {
+      "name": "LDS-2 AIRFOIL (lds2-il)",
       "curves": {
         "CL_1000000": "spl_mc0kHcEacDca",
         "CL_500000": "spl_6CuLcUbK3JX0",
@@ -7630,8 +8004,8 @@
       "profile": "sbt_HmbcaiKHZaYg",
       "group": "Airfoil database L-list"
     },
-    "LA5055": {
-      "name": "LA5055",
+    "LIEBECK LA5055 AIRFOIL (la5055-il)": {
+      "name": "LIEBECK LA5055 AIRFOIL (la5055-il)",
       "curves": {
         "CL_1000000": "spl_r9zuBDaiIUOw",
         "CL_500000": "spl_miVjCvJpxVwo",
@@ -7652,8 +8026,8 @@
       "profile": "sbt_5fNOlFOinYLv",
       "group": "Airfoil database L-list"
     },
-    "LA2573A": {
-      "name": "LA2573A",
+    "LA2573A (la2573a-il)": {
+      "name": "LA2573A (la2573a-il)",
       "curves": {
         "CL_1000000": "spl_ARBgOFlG0YqV",
         "CL_500000": "spl_emzclrJEs5f9",
@@ -7674,8 +8048,30 @@
       "profile": "sbt_hwQsiulaobl7",
       "group": "Airfoil database L-list"
     },
-    "L7769": {
-      "name": "L7769",
+    "DOUGLAS LA203A AIRFOIL (la203a-il)": {
+      "name": "DOUGLAS LA203A AIRFOIL (la203a-il)",
+      "curves": {
+        "CL_1000000": "spl_CylPxX2dUC1Z",
+        "CL_500000": "spl_ddVKkUHueUh8",
+        "CL_200000": "spl_Pkjl0kP5BCkn",
+        "CL_100000": "spl_pHPe2DoX63P9",
+        "CL_50000": "spl_fIONHazxdwuq",
+        "CD_1000000": "spl_MFpkcP1WLgZm",
+        "CD_500000": "spl_EbUA1hOg3WVE",
+        "CD_200000": "spl_Jdm1BLMqHwAn",
+        "CD_100000": "spl_bAtORcnQhi5F",
+        "CD_50000": "spl_r41OrlilzANU",
+        "CM_1000000": "spl_zSQRjfOpCBMs",
+        "CM_500000": "spl_ufDxZHlyCGq7",
+        "CM_200000": "spl_Re3Fl0tIiJed",
+        "CM_100000": "spl_dATdkjqPU8mg",
+        "CM_50000": "spl_vpIsHfQm13zf"
+      },
+      "profile": "sbt_ZfgvJuVnf4e3",
+      "group": "Airfoil database L-list"
+    },
+    "LISSAMAN 7769 AIRFOIL (l7769-il)": {
+      "name": "LISSAMAN 7769 AIRFOIL (l7769-il)",
       "curves": {
         "CL_1000000": "spl_7FrMFRnDULPF",
         "CL_500000": "spl_ALmxONcUqxZ3",
@@ -7696,8 +8092,8 @@
       "profile": "sbt_y39RYm3nQBR5",
       "group": "Airfoil database L-list"
     },
-    "L188TIP": {
-      "name": "L188TIP",
+    "LOCKHEED L-188 TIP AIRFOIL (l188tip-il)": {
+      "name": "LOCKHEED L-188 TIP AIRFOIL (l188tip-il)",
       "curves": {
         "CL_1000000": "spl_1tp0xhLuWKnJ",
         "CL_500000": "spl_PVwZ8nreLNnH",
@@ -7718,8 +8114,8 @@
       "profile": "sbt_vIv2ropkFPb8",
       "group": "Airfoil database L-list"
     },
-    "L188ROOT": {
-      "name": "L188ROOT",
+    "LOCKHEED L-188 ROOT AIRFOIL (l188root-il)": {
+      "name": "LOCKHEED L-188 ROOT AIRFOIL (l188root-il)",
       "curves": {
         "CL_1000000": "spl_FxMnYAbTAopX",
         "CL_500000": "spl_es7mYwoeObD2",
@@ -7740,8 +8136,8 @@
       "profile": "sbt_TandrbrQ308W",
       "group": "Airfoil database L-list"
     },
-    "L1003": {
-      "name": "L1003",
+    "LIEBECK L1003 AIRFOIL (l1003-il)": {
+      "name": "LIEBECK L1003 AIRFOIL (l1003-il)",
       "curves": {
         "CL_1000000": "spl_d92rMpNsKhxS",
         "CL_500000": "spl_TIcMQlAbXROe",
@@ -7764,8 +8160,8 @@
     }
   },
   "Airfoil database N-list": {
-    "N14": {
-      "name": "N14",
+    "N-14 (n14-il)": {
+      "name": "N-14 (n14-il)",
       "curves": {
         "CL_1000000": "spl_m0K3N1Q26MNz",
         "CL_500000": "spl_owyp3Ax24jpE",
@@ -7786,8 +8182,8 @@
       "profile": "sbt_0vwA5VuKJqCg",
       "group": "Airfoil database N-list"
     },
-    "N13": {
-      "name": "N13",
+    "N-13 (n13-il)": {
+      "name": "N-13 (n13-il)",
       "curves": {
         "CL_1000000": "spl_GOk63VjOTDKz",
         "CL_500000": "spl_pzYXKmXwp6sN",
@@ -7808,8 +8204,8 @@
       "profile": "sbt_0PleXDxnadCX",
       "group": "Airfoil database N-list"
     },
-    "N12": {
-      "name": "N12",
+    "N-12 (n12-il)": {
+      "name": "N-12 (n12-il)",
       "curves": {
         "CL_1000000": "spl_H82xFuWXiHrw",
         "CL_500000": "spl_zc8JHipLGcbt",
@@ -7830,8 +8226,8 @@
       "profile": "sbt_MK25xsT0viQB",
       "group": "Airfoil database N-list"
     },
-    "N11": {
-      "name": "N11",
+    "N-11 (n11-il)": {
+      "name": "N-11 (n11-il)",
       "curves": {
         "CL_1000000": "spl_vecDOvjz6vqg",
         "CL_500000": "spl_QUYzv3LFzPeX",
@@ -7852,8 +8248,8 @@
       "profile": "sbt_lW2Q7yoXDdOJ",
       "group": "Airfoil database N-list"
     },
-    "N10": {
-      "name": "N10",
+    "N-10 (n10-il)": {
+      "name": "N-10 (n10-il)",
       "curves": {
         "CL_1000000": "spl_jSL1ZvccePX2",
         "CL_500000": "spl_PueGFO2kiFbP",
@@ -7874,8 +8270,8 @@
       "profile": "sbt_dRIow9xWQSHX",
       "group": "Airfoil database N-list"
     },
-    "N9": {
-      "name": "N9",
+    "N-9 (n9-il)": {
+      "name": "N-9 (n9-il)",
       "curves": {
         "CL_1000000": "spl_F9cAdDgoOjf4",
         "CL_500000": "spl_RoxYB8mhuT6o",
@@ -7896,8 +8292,8 @@
       "profile": "sbt_0RkPpbQiLqsO",
       "group": "Airfoil database N-list"
     },
-    "N24": {
-      "name": "N24",
+    "N-24 (n24-il)": {
+      "name": "N-24 (n24-il)",
       "curves": {
         "CL_1000000": "spl_yummTZTN2WJ2",
         "CL_500000": "spl_KyV6aqu1RbUn",
@@ -7918,8 +8314,8 @@
       "profile": "sbt_5hIwGTDbOhdL",
       "group": "Airfoil database N-list"
     },
-    "N22": {
-      "name": "N22",
+    "N-22 (n22-il)": {
+      "name": "N-22 (n22-il)",
       "curves": {
         "CL_1000000": "spl_FWLhK03NN5B7",
         "CL_500000": "spl_FYqSyVzDF7cm",
@@ -7940,8 +8336,8 @@
       "profile": "sbt_sHt6QmnHHUDH",
       "group": "Airfoil database N-list"
     },
-    "NASASC2-0714": {
-      "name": "NASASC2-0714",
+    "SC(2)-0714 Supercritical airfoil (nasasc2-0714-il)": {
+      "name": "SC(2)-0714 Supercritical airfoil (nasasc2-0714-il)",
       "curves": {
         "CL_1000000": "spl_FOjqbkZIiBBp",
         "CL_500000": "spl_1i8LussVwjLI",

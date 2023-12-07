@@ -201,7 +201,7 @@ class ThreeChamberBoxedWingSection:
         self.central_section = self.build_box_section(self.wall_positions[1:3])
         self.rear_section = self.build_box_section(self.wall_positions[2:])
         
-        self.inertia_moments = self.eval_inertia_moments()
+        self.box_mass_inertia()
         
     def build_box_section(self, walls):
         profile_cut = self._profile_cut(self.chord * walls[0], self.chord * walls[1])
@@ -275,7 +275,7 @@ class ThreeChamberBoxedWingSection:
         wall_height = abs(wall_vertices[0].Center().y - wall_vertices[1].Center().y)
         return wall_height-self.min_foam_shell_thickness*2 >= self.min_wall_height
     
-    def eval_inertia_moments(self):
+    def box_mass_inertia(self):
         front_box = (
             cq.Workplane()
             .placeSketch(self.front_section.copy())
@@ -300,19 +300,62 @@ class ThreeChamberBoxedWingSection:
             .shell(-self.box_thickness, kind='intersection')
         )
         
-        box_section_occ = (
+        box= (
             cq.Workplane()
             .union(front_box)
             .union(central_box)
             .union(rear_box)
-            .faces("<Z")
-            .toOCC()
         )
-        
+
+        box_section = box.faces("<Z")
+
+        center = box_section.val().Center()
+        section_bb = box_section.val().BoundingBox()
+
+        max_x_offset = max(
+            abs(section_bb.xmin - center.x),
+            abs(section_bb.xmax - center.x),
+        )
+
+        max_y_offset = max(
+            abs(section_bb.ymin - center.y),
+            abs(section_bb.ymax - center.y),
+        )
+
+        box_section_occ = box_section.toOCC()
         properties = GProp_GProps()
         BRepGProp.SurfaceProperties_s(box_section_occ, properties)
         matrix_of_inertia = properties.MatrixOfInertia()
         
-        Ixx, Iyy, Izz = matrix_of_inertia.Value(1,1), matrix_of_inertia.Value(2,2), matrix_of_inertia.Value(3,3)
-        
-        return Ixx, Iyy, Izz
+        Ixx, Iyy, Izz = (
+            matrix_of_inertia.Value(1,1), 
+            matrix_of_inertia.Value(2,2), 
+            matrix_of_inertia.Value(3,3)
+        )
+
+        self.center = center
+        self.inertia_moments = Ixx, Iyy, Izz
+        self.max_x_offset = max_x_offset
+        self.max_y_offset = max_y_offset
+
+        self.Qtop = self._halfbox_first_moment_of_area(box, center, section_bb, "top")
+        self.Qbottom = self._halfbox_first_moment_of_area(box, center, section_bb, "bottom")
+
+    def _halfbox_first_moment_of_area(self, box_body, center, section_bb, half):
+        m = 1 if half=="top" else -1
+
+        vol = (
+            cq.Workplane()
+            .moveTo(center.x, center.y + m*self.chord/2)
+            .rect(self.chord, self.chord)
+            .extrude(1)
+        )
+
+        halfbox = box_body.intersect(vol)
+        halfbox_section = halfbox.faces("<Z").val()
+
+        halfbox_section_area = halfbox_section.Area()
+        y = m*(halfbox_section.Center().y - center.y)
+        halfbox_section_Q = halfbox_section_area * y
+
+        return halfbox_section_Q

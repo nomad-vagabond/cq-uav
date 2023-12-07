@@ -165,7 +165,27 @@ class RectangularWingConsole:
         
         return -nu * 1e3 ## [mm]
 
-    
+    def get_max_bend_stress(self, force):
+        Ixx, Iyy, Ixy = self.box_section.inertia_moments
+        bend_moment = force * (self.length * (1e-3)) / 2
+        stress = bend_moment * self.box_section.max_y_offset*(1e-3) / (Ixx*(1e-3)**4) ## Pa
+
+        return stress
+
+    def get_max_shear_stress(self, force):
+        Ixx, Iyy, Ixy = self.box_section.inertia_moments
+        Qtop = self.box_section.Qtop
+        Qbottom = self.box_section.Qbottom
+
+        t = self.box_thickness * 4 * 1e-3 ## consider only central bars
+
+        top_stress = force * Qtop * (1e-3)**3 / (t * Ixx*(1e-3)**4) ## Pa
+        bottom_stress = force * Qbottom * (1e-3)**3 / (t * Ixx*(1e-3)**4) ## Pa
+
+        ## TODO: add test to confirm top_stress == bottom_stress
+
+        return max(top_stress, bottom_stress)
+
     ## Mass properties
     def get_components_mass(self, components, material):
         volume = 0
@@ -401,17 +421,28 @@ class RectangularWingConsole:
         shell_mass = self.get_shell_mass()
         console_mass = box_mass + foam_mass + shell_mass
         weight = console_mass * g * load_factor
+
+        bend_stress = self.get_max_bend_stress(lift_force)
+        shear_stress = self.get_max_shear_stress(lift_force)
+        von_mises_stress = math.sqrt(bend_stress**2 + 3*shear_stress**2)
         
+        print("============================")
         print(f"Length: {self.length}, [mm]")
         print(f"Chord: {self.chord}, [mm]")
-        print(f"Mass: {console_mass}, [kg] (box: {box_mass}, foam: {foam_mass}, shell: {shell_mass})")
-        print(f"Excess lift force: {lift_force}, [N]")
-        print(f"Drag force: {drag_force}, [N]")
         print(f"Aspect ratio: {self.length / self.chord}")
         print(f"Area: {self.length*self.chord*1e-6}, [m^2]")
+        print("----------")
+        print(f"Mass: {console_mass}, [kg] (box: {box_mass}, foam: {foam_mass}, shell: {shell_mass})")
         print(f"Angle of attack: {alpha}, [degrees]")
-        print(f"Reinforcement box thickness: {self.box_thickness}, [mm]")
-        print(f"Shell thickness: {self.shell_thickness}, [mm]")
+        print(f"Excess lift force: {lift_force}, [N]")
+        print(f"Drag force: {drag_force}, [N]")
         print(f"Lift to weight ratio: {(lift_force + weight) / weight}")
         print(f"Center of aerodynamic pressure (lift): {center_of_pressure}, [mm, mm]")
-        print()
+        print("----------")
+        print(f"Reinforcement box thickness: {self.box_thickness}, [mm]")
+        print(f"Shell thickness: {self.shell_thickness}, [mm]")
+        print(f"Bend stress: {bend_stress*1e-6}, [MPa]")
+        print(f"Shear stress: {shear_stress*1e-6}, [MPa]")
+        print(f"Von Mises stress: {von_mises_stress*1e-6}, [MPa]")
+        print(f"Safety factor: {self.box_material.tensile_strength/von_mises_stress}")
+        print("===========================")

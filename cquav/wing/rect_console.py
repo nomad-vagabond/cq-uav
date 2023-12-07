@@ -410,7 +410,7 @@ class RectangularWingConsole:
 
     def stats(self, alpha, fluid_props, load_factor=1, g=STANDARD_GRAVITY):
         lift_force, lift_force_arm = self.compute_lift_force(
-            alpha, fluid_props, load_factor=load_factor, compute_weight_load=True
+            alpha, fluid_props, load_factor=load_factor, compute_weight_load=False
         )
         center_of_pressure = (0.25*self.chord, lift_force_arm)
         
@@ -422,8 +422,9 @@ class RectangularWingConsole:
         console_mass = box_mass + foam_mass + shell_mass
         weight = console_mass * g * load_factor
 
-        bend_stress = self.get_max_bend_stress(lift_force)
-        shear_stress = self.get_max_shear_stress(lift_force)
+        bend_force = self.compute_bend_force(alpha, lift_force, drag_force, console_mass, g)
+        bend_stress = self.get_max_bend_stress(bend_force)
+        shear_stress = self.get_max_shear_stress(bend_force)
         von_mises_stress = math.sqrt(bend_stress**2 + 3*shear_stress**2)
         
         print("============================")
@@ -434,9 +435,10 @@ class RectangularWingConsole:
         print("----------")
         print(f"Mass: {console_mass}, [kg] (box: {box_mass}, foam: {foam_mass}, shell: {shell_mass})")
         print(f"Angle of attack: {alpha}, [degrees]")
-        print(f"Excess lift force: {lift_force}, [N]")
+        print(f"Excess lift force: {lift_force-weight}, [N]")
+        print(f"Console bend force: {bend_force}, [N]")
         print(f"Drag force: {drag_force}, [N]")
-        print(f"Lift to weight ratio: {(lift_force + weight) / weight}")
+        print(f"Lift to weight ratio: {lift_force / weight}")
         print(f"Center of aerodynamic pressure (lift): {center_of_pressure}, [mm, mm]")
         print("----------")
         print(f"Reinforcement box thickness: {self.box_thickness}, [mm]")

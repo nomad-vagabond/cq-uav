@@ -3,6 +3,7 @@ import math
 import numpy as np
 from scipy.optimize import minimize_scalar, shgo, brentq, direct
 import cadquery as cq
+from cadqueryhelper import series
 
 from cquav.constants import STANDARD_GRAVITY
 from .profile import AirfoilSection, ThreeChamberBoxedWingSection
@@ -18,7 +19,8 @@ class RectangularWingConsole:
     """
     
     def __init__(self, root_section, length=1000, box_thickness=None, materials=None, shell_thickness=1, 
-                 min_length=50, max_length=5000, min_chord=50, max_chord=600):
+                 min_length=50, max_length=5000, min_chord=50, max_chord=600,
+                 make_lattice=False):
         
         if isinstance(root_section, ThreeChamberBoxedWingSection):
             self.box_section = root_section
@@ -36,6 +38,7 @@ class RectangularWingConsole:
         self.box_material = None
         self.shell_material = None
         self.foam_material = None
+        self.make_lattice = make_lattice
         
         self.min_length = min_length
         self.max_length = max_length
@@ -58,6 +61,9 @@ class RectangularWingConsole:
         self.rear_box = self.build_box_compartment(self.box_section.rear_section)
         self.shell = self.build_external_shell()
         self.linearized_body = self.build_linearized_body()
+
+        if self.make_lattice:
+            self.build_rect_lattice()
 
     def build_airfoil_body(self): ## causes irregularities in external shape
         body = (
@@ -140,6 +146,28 @@ class RectangularWingConsole:
         
         return box
         
+    def build_rect_lattice(self, n_chord=10):
+        cell_gap = self.shell_thickness*2
+        cell_chord_size = (self.chord-cell_gap)/n_chord - cell_gap
+
+        n_span = math.floor(self.length/(cell_chord_size+cell_gap))
+        cell_span_size = (self.length-cell_gap)/n_span - cell_gap
+
+        cell_height = self.airfoil_section.profile_max_height * 2
+
+        boss = (
+            cq.Workplane("XZ")
+            .moveTo(self.chord/2, self.length/2)
+            .box(cell_chord_size, cell_span_size, cell_height)
+        )
+
+        boss_row = series(boss, length_offset=cell_gap, size=n_chord)
+        boss_grid = series(boss_row, height_offset=cell_gap, size=n_span)
+
+        lattice = cq.Workplane().add(self.foam).cut(boss_grid)
+
+        self.foam = lattice
+
     def assign_materials(self, materials: dict):
         if "box" in materials.keys():
             self.box_material = materials["box"]
@@ -177,7 +205,7 @@ class RectangularWingConsole:
         Qtop = self.box_section.Qtop
         Qbottom = self.box_section.Qbottom
 
-        t = self.box_thickness * 4 * 1e-3 ## consider only central bars
+        t = self.box_thickness * 6 * 1e-3
 
         top_stress = force * Qtop * (1e-3)**3 / (t * Ixx*(1e-3)**4) ## Pa
         bottom_stress = force * Qbottom * (1e-3)**3 / (t * Ixx*(1e-3)**4) ## Pa

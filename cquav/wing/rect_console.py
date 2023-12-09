@@ -3,8 +3,8 @@ import math
 import numpy as np
 from scipy.optimize import minimize_scalar, shgo, brentq, direct
 import cadquery as cq
-from cadqueryhelper import series
 
+from cquav.misc import series
 from cquav.constants import STANDARD_GRAVITY
 from .profile import AirfoilSection, ThreeChamberBoxedWingSection
 
@@ -359,7 +359,8 @@ class RectangularWingConsole:
         self.box_thickness = self.box_section.box_thickness
         
     def fit_chord_to_required_lift_force(self, alpha, fluid_props, required_lift_force, 
-            load_factor=1, g=STANDARD_GRAVITY, method="local", adopt_result=True, verbose=True):
+            load_factor=1, g=STANDARD_GRAVITY, method="local", adopt_result=True, verbose=True, 
+            tip_delta_max=0.1):
         """
         Find proper chord length to fit required lift force 
         and ensure tip deflection is not greater than self.tip_delta_max
@@ -372,7 +373,7 @@ class RectangularWingConsole:
 
             self.set_new_chord(chord)
             solved_length = self.fit_length_to_required_tip_deflection(
-                alpha, fluid_props, load_factor=load_factor, verbose=False
+                alpha, fluid_props, load_factor=load_factor, verbose=False, tip_delta_max=tip_delta_max
             )
             
             lift_force, lift_force_arm = self.compute_lift_force(

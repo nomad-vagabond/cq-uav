@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='cquav',
-    version='0.0.2',
+    version='0.0.6',
     author = "Vadym Pasko",
     author_email = "vadym@splinecloud.com",
     description = "A CaqQuery library for generating UAV components.",

@@ -2,8 +2,6 @@
 
 Generative UAV models with CadQuery and SplineCloud
 
----
-
 ![CadQuery](./docs/img/cq-plus-sc.png)
 
 ![CQ-UAV](./docs/img/rect_wing_preview.png)
@@ -34,13 +32,13 @@ airfoils_collection = load_airfoils_collection()
 airfoil_data = airfoils_collection["NACA 6 series airfoils"]["NACA 64(3)-218 (naca643218-il)"]
 ```
 
-Airfoil shapes are approximated with smoothing B-Splines, while sharp tails are thickened to avoid malformed geometry.
-
 ## Retangular Wing Console
 
 The wing model with a constant chord.
 
 ### Geometry
+
+Airfoil shapes are approximated with smoothing B-Splines, while sharp tails are thickened to avoid malformed geometry.
 
 Wing console consists of three parts:
 
@@ -66,6 +64,7 @@ wing_console = RectangularWingConsole(airfoil_section, length=800)
 Displaying wing model in Jupyter Notebook (requires [jupyter-cadquery](https://github.com/bernhard-42/jupyter-cadquery) ):
 
 ```python
+import cadquery as cq
 from jupyter_cadquery import show
 
 assy = cq.Assembly()
@@ -95,7 +94,9 @@ materials = {"box": Fiberglass_laminate, "shell": Fiberglass_laminate, "foam": X
 
 wing_console.assign_materials(materials)
 wing_console.stats(alpha, air_props)
+```
 
+```
 ============================
 Length: 1457.6691355004075, [mm]
 Chord: 150, [mm]

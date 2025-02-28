@@ -3,11 +3,9 @@ import re
 import json
 import requests
 
-import cquav.splinecloud_scipy as scsp
 
-
-# API_BASE_URL = "http://127.0.0.1:8000/api/repositories/"
-API_BASE_URL = "https://splinecloud.com/api/repositories/"
+API_BASE_URL = "https://splinecloud.com/api/"
+REPOS_BASE_URL = f"{API_BASE_URL}repositories/"
 
 AIRFOIL_REPOS = [
     "rpo_Qo8SUrqwUoYM", # NACA airfoil database
@@ -70,6 +68,30 @@ def process_relation(relation_data, airfoils_collection):
     airfoils_collection[profile_name]["curves"][curve_type] = curve_uid
 
 
+def process_airfoil_spline(dataset_data, airfoils_collection, include_single_spline = True):
+    datafile_name = dataset_data['datafile']['name']
+    name, ext = os.path.splitext(datafile_name)
+    if not ext == ".dat":
+        return
+
+    profile_name = extract_profile_name(dataset_data['datafile']['path'])
+    if not profile_name:
+        return
+
+    datafile_uid = dataset_data['datafile']['uid']
+    url = f"{API_BASE_URL}datafiles/{datafile_uid}/relations"
+    profile_name = extract_profile_name(dataset_data['datafile']['path'])
+    splines_list = []
+    response = requests.get(url).json()
+
+    for data in response["results"]:
+        if curves := data["curves"]:
+            for curve in curves:
+                splines_list.append(curve["uid"])
+
+    airfoils_collection[profile_name]["spline"] = [splines_list[0]] if all((splines_list, include_single_spline)) else splines_list
+
+
 def process_dataset(dataset_data, airfoils_collection):
     datafile_name = dataset_data['datafile']['name']
     name, ext = os.path.splitext(datafile_name)
@@ -91,8 +113,8 @@ def process_dataset(dataset_data, airfoils_collection):
         airfoils_collection[profile_name]["group"] = dataset_data["datafile"]["repo"]["name"]
 
 
-def retreive_preformance_curves(repo_id, coefficient, airfoils_collection):
-    url = f"{API_BASE_URL}{repo_id}/relations/?keyword={coefficient}"
+def retrieve_preformance_curves(repo_id, coefficient, airfoils_collection):
+    url = f"{REPOS_BASE_URL}{repo_id}/relations/?keyword={coefficient}"
 
     go_next = True
     while go_next:
@@ -107,8 +129,8 @@ def retreive_preformance_curves(repo_id, coefficient, airfoils_collection):
             url = data['next']
 
 
-def retreive_profile_points(repo_id, airfoils_collection):
-    url = f"{API_BASE_URL}{repo_id}/datasets/"
+def retrieve_profile_data(repo_id, airfoils_collection):
+    url = f"{REPOS_BASE_URL}{repo_id}/datasets/"
 
     go_next = True
     while go_next:
@@ -116,6 +138,7 @@ def retreive_profile_points(repo_id, airfoils_collection):
         data = response.json()
         for dataset_data in data["results"]:
             process_dataset(dataset_data, airfoils_collection)
+            process_airfoil_spline(dataset_data, airfoils_collection)
         
         go_next = data['next'] != 'None'
         if go_next:
@@ -144,10 +167,10 @@ def check_reynolds(airfoil_data, reynolds):
 
 
 def process_repo(repo_uid, airfoils_collection):
-    retreive_preformance_curves(repo_uid, "Cl", airfoils_collection)
-    retreive_preformance_curves(repo_uid, "Cd", airfoils_collection)
-    retreive_preformance_curves(repo_uid, "Cm", airfoils_collection)
-    retreive_profile_points(repo_uid, airfoils_collection)
+    retrieve_preformance_curves(repo_uid, "Cl", airfoils_collection)
+    retrieve_preformance_curves(repo_uid, "Cd", airfoils_collection)
+    retrieve_preformance_curves(repo_uid, "Cm", airfoils_collection)
+    retrieve_profile_data(repo_uid, airfoils_collection)
 
 
 if __name__ == "__main__":
@@ -161,9 +184,9 @@ if __name__ == "__main__":
         profile_subset = airfoil_data.get('profile')
         has_curves = airfoil_data.get('curves')
         if not profile_subset:
-            print(f"Skipping airfoil {airfoil_name}. Mssing profile data.")
+            print(f"Skipping airfoil {airfoil_name}. Missing profile data.")
         if not has_curves:
-            print(f"Skipping airfoil {airfoil_name}. Mssing or poor curves data.")
+            print(f"Skipping airfoil {airfoil_name}. Missing or poor curves data.")
 
         if not (profile_subset and has_curves):
             continue

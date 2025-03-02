@@ -21,7 +21,7 @@
       },
       "profile": "sbt_coECL3mh03p4",
       "group": "NACA different airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_2URPkG1vBYJo"
       ]
     },
@@ -46,7 +46,7 @@
       },
       "profile": "sbt_X1yrPlRo5GyY",
       "group": "NACA different airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_Z23URS4Z4QQy"
       ]
     },
@@ -71,7 +71,7 @@
       },
       "profile": "sbt_THqVgxk3GxHl",
       "group": "NACA different airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_XO8qTeZ98hHq"
       ]
     },
@@ -96,7 +96,7 @@
       },
       "profile": "sbt_tNdh5efswgnY",
       "group": "NACA different airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_an5HEyAKSgNA"
       ]
     },
@@ -121,7 +121,7 @@
       },
       "profile": "sbt_vzhY1Ef1pG7c",
       "group": "NACA different airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_0pwP6tu1bFYO"
       ]
     },
@@ -146,7 +146,7 @@
       },
       "profile": "sbt_ZFYxLoH3UoeG",
       "group": "NACA different airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_7FX79APFbtB1"
       ]
     },
@@ -171,7 +171,7 @@
       },
       "profile": "sbt_7L735vHm04ax",
       "group": "NACA different airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_FDZjzfgLsudo"
       ]
     },
@@ -196,7 +196,7 @@
       },
       "profile": "sbt_EAOkgwE8PiKB",
       "group": "NACA different airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_Gbxube6ZqbRf"
       ]
     },
@@ -221,7 +221,7 @@
       },
       "profile": "sbt_W93AAApHvqhw",
       "group": "NACA different airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_W6p5W8Ao6bxi"
       ]
     },
@@ -246,7 +246,7 @@
       },
       "profile": "sbt_0beIXgvFmSK8",
       "group": "NACA different airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_y8drBlR6KYwG"
       ]
     },
@@ -271,7 +271,7 @@
       },
       "profile": "sbt_ZLn58ZECIajf",
       "group": "NACA different airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_P2NtGepDlGJP"
       ]
     },
@@ -296,7 +296,7 @@
       },
       "profile": "sbt_QdSfdsG6soDd",
       "group": "NACA different airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_x4gO4vnqDRDy"
       ]
     },
@@ -321,7 +321,7 @@
       },
       "profile": "sbt_kZnLQhbv6sSq",
       "group": "NACA different airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_EbvWnSzxJIwX"
       ]
     },
@@ -346,7 +346,7 @@
       },
       "profile": "sbt_kPCoV7CfAjo3",
       "group": "NACA different airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_GLymGUaTqsOw"
       ]
     },
@@ -371,7 +371,7 @@
       },
       "profile": "sbt_TI3qwXx5gay9",
       "group": "NACA different airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_j7ywdOQsjwwV"
       ]
     },
@@ -396,7 +396,7 @@
       },
       "profile": "sbt_Po6tVnPigtOb",
       "group": "NACA different airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_IqHmH4fOypcZ"
       ]
     },
@@ -421,7 +421,7 @@
       },
       "profile": "sbt_lJFMRZRqOWDI",
       "group": "NACA different airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_MVldw1A3Zr4k"
       ]
     },
@@ -446,7 +446,7 @@
       },
       "profile": "sbt_cN5tA9pdT5vS",
       "group": "NACA different airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_2Ue5II1vIoRZ"
       ]
     },
@@ -471,7 +471,7 @@
       },
       "profile": "sbt_VN6bfh5uyDRI",
       "group": "NACA different airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_PsluI1TCB3ix"
       ]
     }
@@ -498,7 +498,7 @@
       },
       "profile": "sbt_IxTnlou0x2IR",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_PiZSNQ5ecxq3"
       ]
     },
@@ -523,7 +523,7 @@
       },
       "profile": "sbt_WlaTzs1xTgLV",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_uZELOyEc1aZ0"
       ]
     },
@@ -548,7 +548,7 @@
       },
       "profile": "sbt_HDHU8BLzDbSf",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_qQ9dlAfI569r"
       ]
     },
@@ -573,7 +573,7 @@
       },
       "profile": "sbt_vsB1kP24SWrI",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_J6BfglFRwnw4"
       ]
     },
@@ -598,7 +598,7 @@
       },
       "profile": "sbt_ihQwuyYZtIGy",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_Ib3ZYCBN6H13"
       ]
     },
@@ -623,7 +623,7 @@
       },
       "profile": "sbt_6dUGwT9bRB8X",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_Y9xJ0OPCS2HX"
       ]
     },
@@ -648,7 +648,7 @@
       },
       "profile": "sbt_gBH7qvOwxFzA",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_dQy1PCdWwnFH"
       ]
     },
@@ -673,7 +673,7 @@
       },
       "profile": "sbt_TH2UCzjr0iiQ",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_X4IR5dGAqskr"
       ]
     },
@@ -698,7 +698,7 @@
       },
       "profile": "sbt_yYYtnXIEHCOH",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_7wkAzF47LC5k"
       ]
     },
@@ -723,7 +723,7 @@
       },
       "profile": "sbt_QFRVKnLrACQR",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_dIDNsUqt0DLX"
       ]
     },
@@ -748,7 +748,7 @@
       },
       "profile": "sbt_yoL4MzV19cyD",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_sCyExaF99bHK"
       ]
     },
@@ -773,7 +773,7 @@
       },
       "profile": "sbt_fbmrJSdsx0RI",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_Eb0xh2jCOSfW"
       ]
     },
@@ -798,7 +798,7 @@
       },
       "profile": "sbt_JHUYcLXFBX9I",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_t7772ow3SLpn"
       ]
     },
@@ -823,7 +823,7 @@
       },
       "profile": "sbt_erWQGgmYRXBL",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_yVuVSgfivNlb"
       ]
     },
@@ -848,7 +848,7 @@
       },
       "profile": "sbt_9J2x7jwcmZPF",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_Ol1rPnyKHk3h"
       ]
     },
@@ -873,7 +873,7 @@
       },
       "profile": "sbt_g1VNZbLXY6rV",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_1upxGD5JnikI"
       ]
     },
@@ -898,7 +898,7 @@
       },
       "profile": "sbt_od2okdnLThlh",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_3ixJX1IxNAzy"
       ]
     },
@@ -923,7 +923,7 @@
       },
       "profile": "sbt_aDXw1Fw5TeJi",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_mjHYpu4IPHPP"
       ]
     },
@@ -948,7 +948,7 @@
       },
       "profile": "sbt_jU8b4hpF9NND",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_C4wVJovteCFH"
       ]
     },
@@ -973,7 +973,7 @@
       },
       "profile": "sbt_iS75nE9E4eIb",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_BFAhEoFXsAAc"
       ]
     },
@@ -998,7 +998,7 @@
       },
       "profile": "sbt_m4aBB6MwVQlj",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_iPITFqPGoBjs"
       ]
     },
@@ -1023,7 +1023,7 @@
       },
       "profile": "sbt_pWZ97bKvaReQ",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_nxn7Y1gR9kUR"
       ]
     },
@@ -1048,7 +1048,7 @@
       },
       "profile": "sbt_LKtSGOXxMDpJ",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_Pa6pmUzAoBZ1"
       ]
     },
@@ -1073,7 +1073,7 @@
       },
       "profile": "sbt_Wv9eJUf2tPvI",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_g3HRNT4J1fnL"
       ]
     },
@@ -1098,7 +1098,7 @@
       },
       "profile": "sbt_lhAyZQbkbrkJ",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_J1ZWMd0UJdj8"
       ]
     },
@@ -1123,7 +1123,7 @@
       },
       "profile": "sbt_K57Xd8Va3uwr",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_E1ggzd2hmrXa"
       ]
     },
@@ -1148,7 +1148,7 @@
       },
       "profile": "sbt_rSkzz31CH0OY",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_zAXpbaV99cu5"
       ]
     },
@@ -1173,7 +1173,7 @@
       },
       "profile": "sbt_zA8PmY0mUHwb",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_7s7VgGZgl5OC"
       ]
     },
@@ -1198,7 +1198,7 @@
       },
       "profile": "sbt_HyJazUvxEjsW",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_nB2D4rqglxOh"
       ]
     },
@@ -1223,7 +1223,7 @@
       },
       "profile": "sbt_itgM8VT59YYw",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_swglwzuWWAXK"
       ]
     },
@@ -1248,7 +1248,7 @@
       },
       "profile": "sbt_bZyqNKBMNeje",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_c2HHkSiZP1Jj"
       ]
     },
@@ -1273,7 +1273,7 @@
       },
       "profile": "sbt_OaVqekCkoAQ4",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_sRNAkHmUS8Mg"
       ]
     },
@@ -1298,7 +1298,7 @@
       },
       "profile": "sbt_l2ppHtmdQIlV",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_bytAfG01QAzw"
       ]
     },
@@ -1323,7 +1323,7 @@
       },
       "profile": "sbt_aEoEzYROCnX5",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_oDKgUbpIecl0"
       ]
     },
@@ -1348,7 +1348,7 @@
       },
       "profile": "sbt_O7GnqmZhAvJL",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_JIWoB9MS5EiK"
       ]
     },
@@ -1373,7 +1373,7 @@
       },
       "profile": "sbt_5JTrLgZW9aGj",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_20hGHGrpEABw"
       ]
     },
@@ -1398,7 +1398,7 @@
       },
       "profile": "sbt_RX43zna8G8oJ",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_rigCwbjIfLGq"
       ]
     },
@@ -1423,7 +1423,7 @@
       },
       "profile": "sbt_m8HFN3wrmNYn",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_QEIMwdmSDdjQ"
       ]
     },
@@ -1448,7 +1448,7 @@
       },
       "profile": "sbt_Bk8N5G316JIK",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_XbfFpTKmhecx"
       ]
     },
@@ -1473,7 +1473,7 @@
       },
       "profile": "sbt_C4eNWQBwj56G",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_I3TsCAM5pDzP"
       ]
     },
@@ -1498,7 +1498,7 @@
       },
       "profile": "sbt_qvrIBHAj8FG6",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_rP3phlha6w7e"
       ]
     },
@@ -1523,7 +1523,7 @@
       },
       "profile": "sbt_DxvmRH54uHTR",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_JiJzpaJqn9UM"
       ]
     },
@@ -1548,7 +1548,7 @@
       },
       "profile": "sbt_vAg04KrhY2GM",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_aND9JeHZMaDR"
       ]
     },
@@ -1573,7 +1573,7 @@
       },
       "profile": "sbt_aBFr2RsOFMja",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_Frwx4n2Xy7Gg"
       ]
     },
@@ -1598,7 +1598,7 @@
       },
       "profile": "sbt_tfoIfOnjM63g",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_TYN9vyXSji6q"
       ]
     },
@@ -1623,7 +1623,7 @@
       },
       "profile": "sbt_Vj4MP2JrpFuf",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_Y8lQNxgd22lw"
       ]
     },
@@ -1648,7 +1648,7 @@
       },
       "profile": "sbt_eYSqWBtzmjvC",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_EOis8v3a0m9v"
       ]
     },
@@ -1673,7 +1673,7 @@
       },
       "profile": "sbt_3Cmnf1LeGVAM",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_EdQ2ypVV9TcH"
       ]
     },
@@ -1698,7 +1698,7 @@
       },
       "profile": "sbt_XRb8fJDireg3",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_wM6YlWY524AL"
       ]
     },
@@ -1723,7 +1723,7 @@
       },
       "profile": "sbt_caSwMqQQupkr",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_FVqWCCmkmIou"
       ]
     },
@@ -1748,7 +1748,7 @@
       },
       "profile": "sbt_hpLnQdWqmHMl",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_yM2lBM1Ll2k1"
       ]
     },
@@ -1773,7 +1773,7 @@
       },
       "profile": "sbt_Nkl2YYG8EQnh",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_eSwghFBr1F9l"
       ]
     },
@@ -1798,7 +1798,7 @@
       },
       "profile": "sbt_nEWgYu17kYVm",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_cnFUzXGC0Uka"
       ]
     },
@@ -1823,7 +1823,7 @@
       },
       "profile": "sbt_BstBfpuScEUc",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_Hy4QLlT0kKhN"
       ]
     },
@@ -1848,7 +1848,7 @@
       },
       "profile": "sbt_aewJfWrYmfgZ",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_IX8eStl3uyI9"
       ]
     },
@@ -1873,7 +1873,7 @@
       },
       "profile": "sbt_tnZbUHv0uTGO",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_ws0KyA0kIVkn"
       ]
     },
@@ -1898,7 +1898,7 @@
       },
       "profile": "sbt_x1jDosLEmEF6",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_WMpYTiQu5z52"
       ]
     },
@@ -1923,7 +1923,7 @@
       },
       "profile": "sbt_J8zx2Nw8qLo8",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_xcrQhBFZCKRd"
       ]
     },
@@ -1948,7 +1948,7 @@
       },
       "profile": "sbt_SWAsgtWLLLJS",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_f2KODpwIiPaU"
       ]
     },
@@ -1973,7 +1973,7 @@
       },
       "profile": "sbt_hijx9rp8s2Xm",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_Cllq66yart97"
       ]
     },
@@ -1998,7 +1998,7 @@
       },
       "profile": "sbt_A76x4ZFyb1w6",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_gheQI2az7D1A"
       ]
     },
@@ -2023,7 +2023,7 @@
       },
       "profile": "sbt_s0fW5j5KBORc",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_6wGkwlO5qCGH"
       ]
     },
@@ -2048,7 +2048,7 @@
       },
       "profile": "sbt_Eb4mFUcVGIY4",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_Jfvpttl17qJu"
       ]
     },
@@ -2073,7 +2073,7 @@
       },
       "profile": "sbt_yrR7nvafOrwF",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_m8Aq8RKwIGnY"
       ]
     },
@@ -2098,7 +2098,7 @@
       },
       "profile": "sbt_VW6TLGhqMLRi",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_djbgLyFT9Nnq"
       ]
     },
@@ -2123,7 +2123,7 @@
       },
       "profile": "sbt_kUOyCgyZvNNS",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_TKD7k6B4dAF2"
       ]
     },
@@ -2148,7 +2148,7 @@
       },
       "profile": "sbt_9kZqZbFr6Nn9",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_7Kk4Osdeokcr"
       ]
     },
@@ -2173,7 +2173,7 @@
       },
       "profile": "sbt_MAOrWmErNZUa",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_QrEvZHHn2aNG"
       ]
     },
@@ -2198,7 +2198,7 @@
       },
       "profile": "sbt_AfnajnXWA7nj",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_zRaAswHaFaFB"
       ]
     },
@@ -2223,7 +2223,7 @@
       },
       "profile": "sbt_pmmO4hOfCM5C",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_odf5TuzNNe70"
       ]
     },
@@ -2248,7 +2248,7 @@
       },
       "profile": "sbt_IQidxwu74mJk",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_EcJRhA2yDCh3"
       ]
     },
@@ -2273,7 +2273,7 @@
       },
       "profile": "sbt_WkjjhA7Ydfqc",
       "group": "NACA 6 series airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_bG1SpdpVlmVq"
       ]
     }
@@ -2300,7 +2300,7 @@
       },
       "profile": "sbt_iMBBheWIfE4p",
       "group": "NACA 4 digit airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_gb0ekxpYeQ27"
       ]
     },
@@ -2325,7 +2325,7 @@
       },
       "profile": "sbt_zGYy02CchXSD",
       "group": "NACA 4 digit airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_ABhR8dkK38xK"
       ]
     },
@@ -2350,7 +2350,7 @@
       },
       "profile": "sbt_V42a8R5YYwpR",
       "group": "NACA 4 digit airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_oWHqlVtu67as"
       ]
     },
@@ -2375,7 +2375,7 @@
       },
       "profile": "sbt_UGRALQJ4b8Fg",
       "group": "NACA 4 digit airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_U3Xnf5IpIzHG"
       ]
     },
@@ -2400,7 +2400,7 @@
       },
       "profile": "sbt_etv4n7RWrjRW",
       "group": "NACA 4 digit airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_pGtGs5gJhSce"
       ]
     },
@@ -2425,7 +2425,7 @@
       },
       "profile": "sbt_4aJ6sXflQ8An",
       "group": "NACA 4 digit airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_MzTJe1cJdvJP"
       ]
     },
@@ -2450,7 +2450,7 @@
       },
       "profile": "sbt_2klrqTK3s1wP",
       "group": "NACA 4 digit airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_1d2zESAFPugZ"
       ]
     },
@@ -2475,7 +2475,7 @@
       },
       "profile": "sbt_mwTQQKk7FwGV",
       "group": "NACA 4 digit airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_yMXHeyGBudu6"
       ]
     },
@@ -2500,7 +2500,7 @@
       },
       "profile": "sbt_kCK8wamGHufO",
       "group": "NACA 4 digit airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_QBhalXE844DC"
       ]
     },
@@ -2525,7 +2525,7 @@
       },
       "profile": "sbt_xLnokqzekosk",
       "group": "NACA 4 digit airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_4OfePVC7ztg0"
       ]
     },
@@ -2550,7 +2550,7 @@
       },
       "profile": "sbt_Z0oxbaKKzjkQ",
       "group": "NACA 4 digit airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_5A79Em3I5Jqa"
       ]
     },
@@ -2575,7 +2575,7 @@
       },
       "profile": "sbt_KwYb1sxdiDzL",
       "group": "NACA 4 digit airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_SkL1W06zGc3P"
       ]
     },
@@ -2600,7 +2600,7 @@
       },
       "profile": "sbt_kuMNPpAKM23K",
       "group": "NACA 4 digit airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_xV67Hsk1GLKM"
       ]
     },
@@ -2625,7 +2625,7 @@
       },
       "profile": "sbt_oll9JwctqjUx",
       "group": "NACA 4 digit airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_HUkIezQ5UBNI"
       ]
     },
@@ -2650,7 +2650,7 @@
       },
       "profile": "sbt_85QKliXZEcj9",
       "group": "NACA 4 digit airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_99hebm6Ysb34"
       ]
     },
@@ -2675,7 +2675,7 @@
       },
       "profile": "sbt_LKi1dDlosKVc",
       "group": "NACA 4 digit airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_LwYO01GKEi63"
       ]
     },
@@ -2700,7 +2700,7 @@
       },
       "profile": "sbt_49lpFNHX2K2w",
       "group": "NACA 4 digit airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_vPUJooOYns0T"
       ]
     },
@@ -2725,7 +2725,7 @@
       },
       "profile": "sbt_wEtISlAqfObT",
       "group": "NACA 4 digit airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_u7TZrg8sc9Dh"
       ]
     },
@@ -2750,7 +2750,7 @@
       },
       "profile": "sbt_rbYH3Wd7HMXJ",
       "group": "NACA 4 digit airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_GvxnXZ4vUtRm"
       ]
     },
@@ -2775,7 +2775,7 @@
       },
       "profile": "sbt_LarevCchQa8W",
       "group": "NACA 4 digit airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_hWUeqyOYMRWJ"
       ]
     },
@@ -2800,7 +2800,7 @@
       },
       "profile": "sbt_rR0VWJCJlCeq",
       "group": "NACA 4 digit airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_2OZO9fQqzva7"
       ]
     },
@@ -2825,7 +2825,7 @@
       },
       "profile": "sbt_T0NSEZbRax9o",
       "group": "NACA 4 digit airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_nsMNttEkXSpk"
       ]
     },
@@ -2850,7 +2850,7 @@
       },
       "profile": "sbt_u2XH2FWUX324",
       "group": "NACA 4 digit airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_XhfkGDiwhC6q"
       ]
     },
@@ -2875,7 +2875,7 @@
       },
       "profile": "sbt_soCLP72FP55X",
       "group": "NACA 4 digit airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_kQihHBE6hQtQ"
       ]
     },
@@ -2900,7 +2900,7 @@
       },
       "profile": "sbt_qyg2XhaB9awv",
       "group": "NACA 4 digit airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_6Tw4zLmV48PS"
       ]
     },
@@ -2925,7 +2925,7 @@
       },
       "profile": "sbt_iiWJ380as5DK",
       "group": "NACA 4 digit airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_IVaZvGi6jXqW"
       ]
     },
@@ -2950,7 +2950,7 @@
       },
       "profile": "sbt_MfimSRAak7SO",
       "group": "NACA 4 digit airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_jtdF6w82ZHaI"
       ]
     },
@@ -2975,7 +2975,7 @@
       },
       "profile": "sbt_imOpEMDIwK53",
       "group": "NACA 4 digit airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_5aMVvaS4lUZj"
       ]
     }
@@ -3002,7 +3002,7 @@
       },
       "profile": "sbt_FN7Jm4HZjKjK",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_StYcesjWpym7"
       ]
     },
@@ -3027,7 +3027,7 @@
       },
       "profile": "sbt_vM2aO0G6mBDv",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_SyjI3n0fGW2t"
       ]
     },
@@ -3052,7 +3052,7 @@
       },
       "profile": "sbt_NPLktNxDm7rj",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_63fBGZUvwjwk"
       ]
     },
@@ -3077,7 +3077,7 @@
       },
       "profile": "sbt_YloYZiKzH0u0",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_AJMF9rMvV5i9"
       ]
     },
@@ -3102,7 +3102,7 @@
       },
       "profile": "sbt_OQes2Ov0NCfC",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_c4eaoByTUj3l"
       ]
     },
@@ -3127,7 +3127,7 @@
       },
       "profile": "sbt_K0p4U0Fq04VY",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_KbbWjM9qIYvJ"
       ]
     },
@@ -3152,7 +3152,7 @@
       },
       "profile": "sbt_7Gy1UFofilxF",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_vKHnnizb8OVR"
       ]
     },
@@ -3177,7 +3177,7 @@
       },
       "profile": "sbt_iLEKaAiBM5Yp",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_KGw31zb9OLCX"
       ]
     },
@@ -3202,7 +3202,7 @@
       },
       "profile": "sbt_seOwm9WkfS82",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_g6gBBpXz0nV7"
       ]
     },
@@ -3227,7 +3227,7 @@
       },
       "profile": "sbt_RLYXbWO7zJPX",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_RuHbkAuUwA12"
       ]
     },
@@ -3252,7 +3252,7 @@
       },
       "profile": "sbt_TbcPlvXdwLCK",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_1WaOxgYAddIL"
       ]
     },
@@ -3277,7 +3277,7 @@
       },
       "profile": "sbt_j7YL3QkQMGhM",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_X6PdNW4Zq9lf"
       ]
     },
@@ -3302,7 +3302,7 @@
       },
       "profile": "sbt_yWon72ilUS2H",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_qcdVWAGPgkDR"
       ]
     },
@@ -3327,7 +3327,7 @@
       },
       "profile": "sbt_udJ4YHkizGSZ",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_lwoiXg6ODMxz"
       ]
     },
@@ -3352,7 +3352,7 @@
       },
       "profile": "sbt_9P2D84xZ7tmL",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_6LNzw5UcrEki"
       ]
     },
@@ -3377,7 +3377,7 @@
       },
       "profile": "sbt_D6iMSxv3TJ5S",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_jfIXDZ04wLPh"
       ]
     },
@@ -3402,7 +3402,7 @@
       },
       "profile": "sbt_orgX6MEP6Hdz",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_zt5TI7O5IQh6"
       ]
     },
@@ -3427,7 +3427,7 @@
       },
       "profile": "sbt_uDn0SswSSNj2",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_tHaB9VUtG69C"
       ]
     },
@@ -3452,7 +3452,7 @@
       },
       "profile": "sbt_x0mDF6GHgAgH",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_5LiQ00ZBnr1k"
       ]
     },
@@ -3477,7 +3477,7 @@
       },
       "profile": "sbt_hG1ni7vdNd2x",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_RzgYZQYKpvB9"
       ]
     },
@@ -3502,7 +3502,7 @@
       },
       "profile": "sbt_KUCXwxlxpE1L",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_whn8fBPh0yho"
       ]
     },
@@ -3527,7 +3527,7 @@
       },
       "profile": "sbt_Vu9m14lQDDOR",
       "group": "Symmetrical airfoils database",
-      "spline": []
+      "profile_curve": []
     },
     "FX 71-L-150_30 AIRFOIL (fx71l150-il)": {
       "name": "FX 71-L-150_30 AIRFOIL (fx71l150-il)",
@@ -3550,7 +3550,7 @@
       },
       "profile": "sbt_cXL35y5KbnQS",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_H2Y5j1f1853w"
       ]
     },
@@ -3575,7 +3575,7 @@
       },
       "profile": "sbt_ZXSqlbMmC5RW",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_owLMTEBUSTku"
       ]
     },
@@ -3600,7 +3600,7 @@
       },
       "profile": "sbt_S2LHzFrLz0Ts",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_0BvG8MRuZcAC"
       ]
     },
@@ -3625,7 +3625,7 @@
       },
       "profile": "sbt_aPBN260b0VbD",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_aw5RO0TXrEpo"
       ]
     },
@@ -3650,7 +3650,7 @@
       },
       "profile": "sbt_7FZ2HuYBHkw6",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_feW8W4AqRiRo"
       ]
     },
@@ -3675,7 +3675,7 @@
       },
       "profile": "sbt_OjwvcFpluP9O",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_MB7AwfhsWZOP"
       ]
     },
@@ -3700,7 +3700,7 @@
       },
       "profile": "sbt_49Sge5SfMNAO",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_6z36RUWvJgBs"
       ]
     },
@@ -3725,7 +3725,7 @@
       },
       "profile": "sbt_syJHXMKNhxHd",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_8RLh7Ei9HZc5"
       ]
     },
@@ -3750,7 +3750,7 @@
       },
       "profile": "sbt_VRknDIFQytBj",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_UkAzEt5NpyF7"
       ]
     },
@@ -3775,7 +3775,7 @@
       },
       "profile": "sbt_A2M49GtIuqbg",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_DGJsVSg2Jxn3"
       ]
     },
@@ -3800,7 +3800,7 @@
       },
       "profile": "sbt_kHKj1LNnaP1a",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_EMvAFOVd2VD8"
       ]
     },
@@ -3825,7 +3825,7 @@
       },
       "profile": "sbt_jm84iVVXwySY",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_wPy04qijFELz"
       ]
     },
@@ -3850,7 +3850,7 @@
       },
       "profile": "sbt_eJZnydVCTnnl",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_FiVevUTfb9Z4"
       ]
     },
@@ -3875,7 +3875,7 @@
       },
       "profile": "sbt_xA0GFoxFWcIb",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_de9zIwLlQFqs"
       ]
     },
@@ -3900,7 +3900,7 @@
       },
       "profile": "sbt_rNs6iuoLs56O",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_6WnJRm5w2NTe"
       ]
     },
@@ -3925,7 +3925,7 @@
       },
       "profile": "sbt_3AObq5eqSL9j",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_lcCpR6JHxJYX"
       ]
     },
@@ -3950,7 +3950,7 @@
       },
       "profile": "sbt_IuhjCK9WL3jO",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_cia8bDYiOhVf"
       ]
     },
@@ -3975,7 +3975,7 @@
       },
       "profile": "sbt_s3dprx9UNRh3",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_S6FXOgQM1jzV"
       ]
     },
@@ -4000,7 +4000,7 @@
       },
       "profile": "sbt_cgIAqd9Uqqiz",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_2zYu8iK9xoJY"
       ]
     },
@@ -4025,7 +4025,7 @@
       },
       "profile": "sbt_AfhR75mZcIm6",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_M6X3CmBGgMHw"
       ]
     },
@@ -4050,7 +4050,7 @@
       },
       "profile": "sbt_RWtQfrnSvrLV",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_03xCwj6m8kh3"
       ]
     },
@@ -4075,7 +4075,7 @@
       },
       "profile": "sbt_Qn76H6jNXHUj",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_rmIIrrNMNcJn"
       ]
     },
@@ -4100,7 +4100,7 @@
       },
       "profile": "sbt_SvwjIlFW1J8i",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_769ySRqqbwpv"
       ]
     },
@@ -4125,7 +4125,7 @@
       },
       "profile": "sbt_JtnbE826yz23",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_TlLdkHhsSumy"
       ]
     },
@@ -4150,7 +4150,7 @@
       },
       "profile": "sbt_DFVgdqACAXKh",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_ZR06Q9TnoxHz"
       ]
     },
@@ -4175,7 +4175,7 @@
       },
       "profile": "sbt_sK08YoG0NPxr",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_UGBzS9nrxWy2"
       ]
     },
@@ -4200,7 +4200,7 @@
       },
       "profile": "sbt_giDtMwZYCpUq",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_6GNn3gbh0hRQ"
       ]
     },
@@ -4225,7 +4225,7 @@
       },
       "profile": "sbt_8qRZOS8UAiFy",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_2BoqQIc48SZa"
       ]
     },
@@ -4250,7 +4250,7 @@
       },
       "profile": "sbt_48cHddpDqFZw",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_kJ0xIeySTIIa"
       ]
     },
@@ -4275,7 +4275,7 @@
       },
       "profile": "sbt_v8layK2xRgKB",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_pDE8gTcwWbDs"
       ]
     },
@@ -4300,7 +4300,7 @@
       },
       "profile": "sbt_GfLzWi2C1zBt",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_khU8fdvvP3XY"
       ]
     },
@@ -4325,7 +4325,7 @@
       },
       "profile": "sbt_O1VQ4bqcoxRU",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_sISHURA0z0ge"
       ]
     },
@@ -4350,7 +4350,7 @@
       },
       "profile": "sbt_awnCz4GPv8W7",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_g5WVegKJIIov"
       ]
     },
@@ -4375,7 +4375,7 @@
       },
       "profile": "sbt_SVNVDZOA1OZY",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_OqD371IoNcOa"
       ]
     },
@@ -4400,7 +4400,7 @@
       },
       "profile": "sbt_8FruLAwN26lX",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_vRDEgrFLHsY4"
       ]
     },
@@ -4425,7 +4425,7 @@
       },
       "profile": "sbt_XCyVcN1g0WWS",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_yBl5oBJK3aQ1"
       ]
     },
@@ -4450,7 +4450,7 @@
       },
       "profile": "sbt_ND0VoSMSrgfX",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_Wo1GnEULGS3w"
       ]
     },
@@ -4475,7 +4475,7 @@
       },
       "profile": "sbt_agG9IsQPptYU",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_8GPu8rArT91B"
       ]
     },
@@ -4500,7 +4500,7 @@
       },
       "profile": "sbt_9b46ed0RmEX5",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_HxhWGuKHirH6"
       ]
     },
@@ -4525,7 +4525,7 @@
       },
       "profile": "sbt_WZ8lTXO66dSO",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_VvwRcOuj5GQX"
       ]
     },
@@ -4550,7 +4550,7 @@
       },
       "profile": "sbt_scNw6dnIXDXJ",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_IR6C118sVs7M"
       ]
     },
@@ -4575,7 +4575,7 @@
       },
       "profile": "sbt_RunehoSw7xPk",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_mS12EKaZXMiv"
       ]
     },
@@ -4600,7 +4600,7 @@
       },
       "profile": "sbt_5uiqDeC8uuIm",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_wOrHnvvFMMUq"
       ]
     },
@@ -4625,7 +4625,7 @@
       },
       "profile": "sbt_9G0B11b3CyiD",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_ICapi42meVqG"
       ]
     },
@@ -4650,7 +4650,7 @@
       },
       "profile": "sbt_n42xC6GDsqSU",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_S1H3NUKGhqhL"
       ]
     },
@@ -4675,7 +4675,7 @@
       },
       "profile": "sbt_VGST8y21iNI4",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_iQ91Aubv293k"
       ]
     },
@@ -4700,7 +4700,7 @@
       },
       "profile": "sbt_jD5ACf4pxC4X",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_D5J8rp4BxAdN"
       ]
     },
@@ -4725,7 +4725,7 @@
       },
       "profile": "sbt_c3HBGUbJttEh",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_IhnzjUVNqwjM"
       ]
     },
@@ -4750,7 +4750,7 @@
       },
       "profile": "sbt_1YaKX9gSNNA4",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_W0vsgT5SZJth"
       ]
     },
@@ -4775,7 +4775,7 @@
       },
       "profile": "sbt_pnaUQg9NZbSd",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_fYJJJEGfhlqC"
       ]
     },
@@ -4800,7 +4800,7 @@
       },
       "profile": "sbt_b2P7vvXRAgv3",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_Zy50e33EsPeM"
       ]
     },
@@ -4825,7 +4825,7 @@
       },
       "profile": "sbt_5o7aLp0dULyU",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_vghsNULSpAEn"
       ]
     },
@@ -4850,7 +4850,7 @@
       },
       "profile": "sbt_QCz2XXbDV1Wu",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_bM6oSS0xyMYB"
       ]
     },
@@ -4875,7 +4875,7 @@
       },
       "profile": "sbt_od0MkVD1vElv",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_5hJtfkUoSsnV"
       ]
     },
@@ -4900,7 +4900,7 @@
       },
       "profile": "sbt_8xaC6cTZ4Lrv",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_dAzpNSt6Pdxq"
       ]
     },
@@ -4925,7 +4925,7 @@
       },
       "profile": "sbt_dIRF0cjIPvt5",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_BJHCrb57vbPw"
       ]
     },
@@ -4950,7 +4950,7 @@
       },
       "profile": "sbt_s8jyTnKCcHMp",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_fxYW9Zhy3JOW"
       ]
     },
@@ -4975,7 +4975,7 @@
       },
       "profile": "sbt_jMYwoasiL7i9",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_JRbo4cq0Z46c"
       ]
     },
@@ -5000,7 +5000,7 @@
       },
       "profile": "sbt_VE2H8rOanzhh",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_LNKkjz1Ggxk2"
       ]
     },
@@ -5025,7 +5025,7 @@
       },
       "profile": "sbt_5HhhCexGtH4P",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_9FPiHENzLpCt"
       ]
     },
@@ -5050,7 +5050,7 @@
       },
       "profile": "sbt_ZgjR29b0mQpH",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_xAIAtQ4EKIB0"
       ]
     },
@@ -5075,7 +5075,7 @@
       },
       "profile": "sbt_8Nlli63uQb6H",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_hhbvY89QDTEo"
       ]
     },
@@ -5100,7 +5100,7 @@
       },
       "profile": "sbt_5telbdmiZKx9",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_rsfGUOhEpMsk"
       ]
     },
@@ -5125,7 +5125,7 @@
       },
       "profile": "sbt_QjPROjedIJGS",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_lfduXwEQnkZ4"
       ]
     },
@@ -5150,7 +5150,7 @@
       },
       "profile": "sbt_HEqgJyO0usSg",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_amEautDviePK"
       ]
     },
@@ -5175,7 +5175,7 @@
       },
       "profile": "sbt_irtmuQWbrWOd",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_C62Q5LGxyicp"
       ]
     },
@@ -5200,7 +5200,7 @@
       },
       "profile": "sbt_f0L66YiXowWx",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_OGqB0fwYT0D8"
       ]
     },
@@ -5225,7 +5225,7 @@
       },
       "profile": "sbt_qq9Chj8Spvmv",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_pfb1c7srNNGn"
       ]
     },
@@ -5250,7 +5250,7 @@
       },
       "profile": "sbt_PPMiOsN86urg",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_SdV4jSDZEbgd"
       ]
     },
@@ -5275,7 +5275,7 @@
       },
       "profile": "sbt_ABegUYPXlDz4",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_G8qvmCpUjdkW"
       ]
     },
@@ -5300,7 +5300,7 @@
       },
       "profile": "sbt_7r4qYgjQ04Ku",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_CqcHtl0B7Sv7"
       ]
     },
@@ -5325,7 +5325,7 @@
       },
       "profile": "sbt_UtFX36duThhD",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_WXXiC3ITrtsn"
       ]
     },
@@ -5350,7 +5350,7 @@
       },
       "profile": "sbt_quF4LdCJ5oGl",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_hXgNVjVjSjRR"
       ]
     },
@@ -5375,7 +5375,7 @@
       },
       "profile": "sbt_biuEBo78GtVH",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_JnE8kpZewDQd"
       ]
     },
@@ -5400,7 +5400,7 @@
       },
       "profile": "sbt_qdB0cevjiSbn",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_bLhsxaW08nGs"
       ]
     },
@@ -5425,7 +5425,7 @@
       },
       "profile": "sbt_F5NcwWQqDNVg",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_fWEOgoimn0Pw"
       ]
     },
@@ -5450,7 +5450,7 @@
       },
       "profile": "sbt_H1snsgnmALcv",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_gCI8V7RcUbTS"
       ]
     },
@@ -5475,7 +5475,7 @@
       },
       "profile": "sbt_JSVgkixkQjJC",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_pzMnxuAzKKId"
       ]
     },
@@ -5500,7 +5500,7 @@
       },
       "profile": "sbt_Pa6nspYWvbmu",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_GC2DDby6Qwpv"
       ]
     },
@@ -5525,7 +5525,7 @@
       },
       "profile": "sbt_oOnbopSXE65s",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_7RgcOVOa4V1H"
       ]
     },
@@ -5550,7 +5550,7 @@
       },
       "profile": "sbt_3PmTOP3qj8jM",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_4UC5VYX5nkxg"
       ]
     },
@@ -5575,7 +5575,7 @@
       },
       "profile": "sbt_t8KgitqINrYC",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_boPA4CFT7QJZ"
       ]
     },
@@ -5600,7 +5600,7 @@
       },
       "profile": "sbt_CjkEMU1JzE76",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_9CnBe24fDjMI"
       ]
     },
@@ -5625,7 +5625,7 @@
       },
       "profile": "sbt_IcvFqw6BqY63",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_AHxdVV9EkOBH"
       ]
     },
@@ -5650,7 +5650,7 @@
       },
       "profile": "sbt_2Gln6bLiEi4I",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_gOiho7fqrbdb"
       ]
     },
@@ -5675,7 +5675,7 @@
       },
       "profile": "sbt_2e1UHG1JWy8B",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_INpTLSb0XDnI"
       ]
     },
@@ -5700,7 +5700,7 @@
       },
       "profile": "sbt_hNFvO56qmPe6",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_ZI4vYkxs63KJ"
       ]
     },
@@ -5725,7 +5725,7 @@
       },
       "profile": "sbt_Nnu8uMsfqvCw",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_zaoMnZBzODsV"
       ]
     },
@@ -5750,7 +5750,7 @@
       },
       "profile": "sbt_WfK1aSBD8Etn",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_AV4INGWW5xSF"
       ]
     },
@@ -5775,7 +5775,7 @@
       },
       "profile": "sbt_SPGhLtgrFHrQ",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_GNAYghTWtKDJ"
       ]
     },
@@ -5800,7 +5800,7 @@
       },
       "profile": "sbt_s3uTGVaMEnrb",
       "group": "Symmetrical airfoils database",
-      "spline": [
+      "profile_curve": [
         "spl_YVCo1rBvbrZH"
       ]
     }
@@ -5827,7 +5827,7 @@
       },
       "profile": "sbt_xXYzM0YMc8i8",
       "group": "NACA 5 digit airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_a9T5Mbcrx8MB"
       ]
     },
@@ -5852,7 +5852,7 @@
       },
       "profile": "sbt_Jg3Ws1u6riop",
       "group": "NACA 5 digit airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_P06oQkDPEtb5"
       ]
     },
@@ -5877,7 +5877,7 @@
       },
       "profile": "sbt_ZtRtsdn8KMeC",
       "group": "NACA 5 digit airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_QFLoxaEIbEv3"
       ]
     },
@@ -5902,7 +5902,7 @@
       },
       "profile": "sbt_2O2ophr1vvGH",
       "group": "NACA 5 digit airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_7MPITH0uXPK8"
       ]
     },
@@ -5927,7 +5927,7 @@
       },
       "profile": "sbt_JyGU9lLoYzfy",
       "group": "NACA 5 digit airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_GgwFsDJkXUKu"
       ]
     },
@@ -5952,7 +5952,7 @@
       },
       "profile": "sbt_hZ4BnMY3c2LU",
       "group": "NACA 5 digit airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_LRvZs0qtOFXB"
       ]
     },
@@ -5977,7 +5977,7 @@
       },
       "profile": "sbt_9X9MRjBRpO0a",
       "group": "NACA 5 digit airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_Or8RsJGsWGzP"
       ]
     },
@@ -6002,7 +6002,7 @@
       },
       "profile": "sbt_iPJ3jL91RK1Q",
       "group": "NACA 5 digit airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_72SlXnc1IOdY"
       ]
     },
@@ -6027,7 +6027,7 @@
       },
       "profile": "sbt_hnE3Dws5hupK",
       "group": "NACA 5 digit airfoils",
-      "spline": [
+      "profile_curve": [
         "spl_usbnBXkCcYuE"
       ]
     }
@@ -6054,7 +6054,7 @@
       },
       "profile": "sbt_88WTanFpTFrr",
       "group": "Airfoil database A-list",
-      "spline": []
+      "profile_curve": []
     },
     "AH 88-K-136-16 (ah88k136-il)": {
       "name": "AH 88-K-136-16 (ah88k136-il)",
@@ -6077,7 +6077,7 @@
       },
       "profile": "sbt_2FVXmrbaHGg0",
       "group": "Airfoil database A-list",
-      "spline": []
+      "profile_curve": []
     },
     "AH 88-K-130-20 (ah88k130-il)": {
       "name": "AH 88-K-130-20 (ah88k130-il)",
@@ -6100,7 +6100,7 @@
       },
       "profile": "sbt_fe0LCdavD3Q2",
       "group": "Airfoil database A-list",
-      "spline": []
+      "profile_curve": []
     },
     "AH 83-159 (ah83159-il)": {
       "name": "AH 83-159 (ah83159-il)",
@@ -6123,7 +6123,7 @@
       },
       "profile": "sbt_74v9ieYEBgnA",
       "group": "Airfoil database A-list",
-      "spline": []
+      "profile_curve": []
     },
     "AH 83-150 Q (ah83150q-il)": {
       "name": "AH 83-150 Q (ah83150q-il)",
@@ -6146,7 +6146,7 @@
       },
       "profile": "sbt_kAkJwzy8lwiW",
       "group": "Airfoil database A-list",
-      "spline": []
+      "profile_curve": []
     },
     "AH 82-150 F (ah82150f-il)": {
       "name": "AH 82-150 F (ah82150f-il)",
@@ -6169,7 +6169,7 @@
       },
       "profile": "sbt_7zSDjTHU5quQ",
       "group": "Airfoil database A-list",
-      "spline": []
+      "profile_curve": []
     },
     "AH 82-150 A (ah82150a-il)": {
       "name": "AH 82-150 A (ah82150a-il)",
@@ -6192,7 +6192,7 @@
       },
       "profile": "sbt_VgNmBdHR4UYH",
       "group": "Airfoil database A-list",
-      "spline": []
+      "profile_curve": []
     },
     "AH 81-K-144 W-F KLAPPE (ah81k144wfklappe-il)": {
       "name": "AH 81-K-144 W-F KLAPPE (ah81k144wfklappe-il)",
@@ -6215,7 +6215,7 @@
       },
       "profile": "sbt_Ca9mAi8zLVfB",
       "group": "Airfoil database A-list",
-      "spline": []
+      "profile_curve": []
     },
     "AH 81-K-144-17 (ah81k144-il)": {
       "name": "AH 81-K-144-17 (ah81k144-il)",
@@ -6238,7 +6238,7 @@
       },
       "profile": "sbt_gtDMM4n6g2y2",
       "group": "Airfoil database A-list",
-      "spline": []
+      "profile_curve": []
     },
     "AH 81-131 (ah81131-il)": {
       "name": "AH 81-131 (ah81131-il)",
@@ -6261,7 +6261,7 @@
       },
       "profile": "sbt_rl68BXSMYBjO",
       "group": "Airfoil database A-list",
-      "spline": []
+      "profile_curve": []
     },
     "AH 80-140 (ah80140-il)": {
       "name": "AH 80-140 (ah80140-il)",
@@ -6284,7 +6284,7 @@
       },
       "profile": "sbt_kYZJtviXjD9y",
       "group": "Airfoil database A-list",
-      "spline": []
+      "profile_curve": []
     },
     "AH 80-136 (ah80136-il)": {
       "name": "AH 80-136 (ah80136-il)",
@@ -6307,7 +6307,7 @@
       },
       "profile": "sbt_nTpjCXlk8VKu",
       "group": "Airfoil database A-list",
-      "spline": []
+      "profile_curve": []
     },
     "A18 (original) (a18-il)": {
       "name": "A18 (original) (a18-il)",
@@ -6330,7 +6330,7 @@
       },
       "profile": "sbt_9H6u3WMgEJw4",
       "group": "Airfoil database A-list",
-      "spline": [
+      "profile_curve": [
         "spl_GH62o6kwoSWC"
       ]
     },
@@ -6355,7 +6355,7 @@
       },
       "profile": "sbt_LEnjcg4pDMkF",
       "group": "Airfoil database A-list",
-      "spline": []
+      "profile_curve": []
     },
     "AH 79-K-143-18 (ah79k143-il)": {
       "name": "AH 79-K-143-18 (ah79k143-il)",
@@ -6378,7 +6378,7 @@
       },
       "profile": "sbt_RUfoR7gYl7HM",
       "group": "Airfoil database A-list",
-      "spline": []
+      "profile_curve": []
     },
     "AH 79-K-135-20 B (ah79k135-il)": {
       "name": "AH 79-K-135-20 B (ah79k135-il)",
@@ -6401,7 +6401,7 @@
       },
       "profile": "sbt_1tdPEt2mU29v",
       "group": "Airfoil database A-list",
-      "spline": []
+      "profile_curve": []
     },
     "AH 79-K-132-20 (ah79k132-il)": {
       "name": "AH 79-K-132-20 (ah79k132-il)",
@@ -6424,7 +6424,7 @@
       },
       "profile": "sbt_K7mmZGGodLYU",
       "group": "Airfoil database A-list",
-      "spline": []
+      "profile_curve": []
     },
     "AH 79-100 C AIRFOIL (ah79100c-il)": {
       "name": "AH 79-100 C AIRFOIL (ah79100c-il)",
@@ -6447,7 +6447,7 @@
       },
       "profile": "sbt_TmK0YYBWMY4s",
       "group": "Airfoil database A-list",
-      "spline": []
+      "profile_curve": []
     },
     "AH 79-100 B AIRFOIL (ah79100b-il)": {
       "name": "AH 79-100 B AIRFOIL (ah79100b-il)",
@@ -6470,7 +6470,7 @@
       },
       "profile": "sbt_CIb7M3oROLiG",
       "group": "Airfoil database A-list",
-      "spline": []
+      "profile_curve": []
     },
     "AH 79-100 A AIRFOIL (ah79100a-il)": {
       "name": "AH 79-100 A AIRFOIL (ah79100a-il)",
@@ -6493,7 +6493,7 @@
       },
       "profile": "sbt_SSDqEVUMkoht",
       "group": "Airfoil database A-list",
-      "spline": []
+      "profile_curve": []
     },
     "AH-7-47-6 AIRFOIL (ah7476-il)": {
       "name": "AH-7-47-6 AIRFOIL (ah7476-il)",
@@ -6516,7 +6516,7 @@
       },
       "profile": "sbt_HJ55pMvA33sk",
       "group": "Airfoil database A-list",
-      "spline": []
+      "profile_curve": []
     },
     "AH-6-40-7 AIRFOIL (ah6407-il)": {
       "name": "AH-6-40-7 AIRFOIL (ah6407-il)",
@@ -6539,7 +6539,7 @@
       },
       "profile": "sbt_7yf9QqRxvoZl",
       "group": "Airfoil database A-list",
-      "spline": []
+      "profile_curve": []
     },
     "AH 63-K-127-24 (ah63k127-il)": {
       "name": "AH 63-K-127-24 (ah63k127-il)",
@@ -6562,7 +6562,7 @@
       },
       "profile": "sbt_YeZRE7RpjLS4",
       "group": "Airfoil database A-list",
-      "spline": []
+      "profile_curve": []
     },
     "AH21 9% version (Andrew Hollom) (ah21-9-il)": {
       "name": "AH21 9% version (Andrew Hollom) (ah21-9-il)",
@@ -6585,7 +6585,7 @@
       },
       "profile": "sbt_z3eOKLrYPDIs",
       "group": "Airfoil database A-list",
-      "spline": []
+      "profile_curve": []
     },
     "AH21 7% version (Andrew Hollom) (ah21-7-il)": {
       "name": "AH21 7% version (Andrew Hollom) (ah21-7-il)",
@@ -6608,7 +6608,7 @@
       },
       "profile": "sbt_UKmNu65w94vF",
       "group": "Airfoil database A-list",
-      "spline": []
+      "profile_curve": []
     },
     "AG47ct -02f rot. (ag47ct02r-il)": {
       "name": "AG47ct -02f rot. (ag47ct02r-il)",
@@ -6631,7 +6631,7 @@
       },
       "profile": "sbt_qSknMCO2kQFm",
       "group": "Airfoil database A-list",
-      "spline": []
+      "profile_curve": []
     },
     "AG47c -03f (ag47c03-il)": {
       "name": "AG47c -03f (ag47c03-il)",
@@ -6654,7 +6654,7 @@
       },
       "profile": "sbt_XN97cJ99cpum",
       "group": "Airfoil database A-list",
-      "spline": []
+      "profile_curve": []
     },
     "AG46ct -02f rot. (ag46ct02r-il)": {
       "name": "AG46ct -02f rot. (ag46ct02r-il)",
@@ -6677,7 +6677,7 @@
       },
       "profile": "sbt_j2lJ15Kxe6iZ",
       "group": "Airfoil database A-list",
-      "spline": []
+      "profile_curve": []
     },
     "AG46c -03f (ag46c03-il)": {
       "name": "AG46c -03f (ag46c03-il)",
@@ -6700,7 +6700,7 @@
       },
       "profile": "sbt_afHQKaULh3CM",
       "group": "Airfoil database A-list",
-      "spline": []
+      "profile_curve": []
     },
     "AG45ct -02f (ag45ct02r-il)": {
       "name": "AG45ct -02f (ag45ct02r-il)",
@@ -6723,7 +6723,7 @@
       },
       "profile": "sbt_7Dwbt212rtxg",
       "group": "Airfoil database A-list",
-      "spline": []
+      "profile_curve": []
     },
     "AG45c -03f (ag45c03-il)": {
       "name": "AG45c -03f (ag45c03-il)",
@@ -6746,7 +6746,7 @@
       },
       "profile": "sbt_vU4yNO6uZqj5",
       "group": "Airfoil database A-list",
-      "spline": []
+      "profile_curve": []
     },
     "AG455ct -02f rot. (ag455ct02r-il)": {
       "name": "AG455ct -02f rot. (ag455ct02r-il)",
@@ -6769,7 +6769,7 @@
       },
       "profile": "sbt_45IQY9vVf0Jq",
       "group": "Airfoil database A-list",
-      "spline": []
+      "profile_curve": []
     },
     "AG44ct -02f (ag44ct02r-il)": {
       "name": "AG44ct -02f (ag44ct02r-il)",
@@ -6792,7 +6792,7 @@
       },
       "profile": "sbt_ULspK23v4KlP",
       "group": "Airfoil database A-list",
-      "spline": []
+      "profile_curve": []
     },
     "AG38 (ag38-il)": {
       "name": "AG38 (ag38-il)",
@@ -6815,7 +6815,7 @@
       },
       "profile": "sbt_ng101VPROqyi",
       "group": "Airfoil database A-list",
-      "spline": [
+      "profile_curve": [
         "spl_IzKx0Mx4Xo2w"
       ]
     },
@@ -6840,7 +6840,7 @@
       },
       "profile": "sbt_tbQBv3Re2nBe",
       "group": "Airfoil database A-list",
-      "spline": [
+      "profile_curve": [
         "spl_3m0KKZkM2h4P"
       ]
     },
@@ -6865,7 +6865,7 @@
       },
       "profile": "sbt_75owVeBKcG4C",
       "group": "Airfoil database A-list",
-      "spline": [
+      "profile_curve": [
         "spl_zuSkz6kWZhKZ"
       ]
     },
@@ -6890,7 +6890,7 @@
       },
       "profile": "sbt_p6zUz6EYDO0W",
       "group": "Airfoil database A-list",
-      "spline": [
+      "profile_curve": [
         "spl_nUmnuwQALhdp"
       ]
     },
@@ -6915,7 +6915,7 @@
       },
       "profile": "sbt_Kna9I6U5sGw6",
       "group": "Airfoil database A-list",
-      "spline": [
+      "profile_curve": [
         "spl_d9aPT9dgVYoI"
       ]
     },
@@ -6940,7 +6940,7 @@
       },
       "profile": "sbt_vqO2ckKNmVO7",
       "group": "Airfoil database A-list",
-      "spline": [
+      "profile_curve": [
         "spl_dI8tAKrAqoDn"
       ]
     },
@@ -6965,7 +6965,7 @@
       },
       "profile": "sbt_IDntzgeAhn5l",
       "group": "Airfoil database A-list",
-      "spline": [
+      "profile_curve": [
         "spl_Y2SI1hlG7YKV"
       ]
     },
@@ -6990,7 +6990,7 @@
       },
       "profile": "sbt_s5X5FWJLD3t6",
       "group": "Airfoil database A-list",
-      "spline": [
+      "profile_curve": [
         "spl_SbFVXZQzAVIY"
       ]
     },
@@ -7015,7 +7015,7 @@
       },
       "profile": "sbt_3xP3xgAD9HEO",
       "group": "Airfoil database A-list",
-      "spline": [
+      "profile_curve": [
         "spl_Bmza9g3QUG4D"
       ]
     },
@@ -7040,7 +7040,7 @@
       },
       "profile": "sbt_UC5HUScaBEJd",
       "group": "Airfoil database A-list",
-      "spline": [
+      "profile_curve": [
         "spl_UPgB74rWhqrm"
       ]
     },
@@ -7065,7 +7065,7 @@
       },
       "profile": "sbt_yJZjvdBDFDoi",
       "group": "Airfoil database A-list",
-      "spline": [
+      "profile_curve": [
         "spl_H6OfpOKb9BGM"
       ]
     },
@@ -7090,7 +7090,7 @@
       },
       "profile": "sbt_cFp06AbnLWGq",
       "group": "Airfoil database A-list",
-      "spline": [
+      "profile_curve": [
         "spl_B6A1buQjHdx7"
       ]
     },
@@ -7115,7 +7115,7 @@
       },
       "profile": "sbt_NM35KUl8J7Hj",
       "group": "Airfoil database A-list",
-      "spline": [
+      "profile_curve": [
         "spl_OSbXM4MT64yN"
       ]
     },
@@ -7140,7 +7140,7 @@
       },
       "profile": "sbt_90iQSsmAhVBm",
       "group": "Airfoil database A-list",
-      "spline": [
+      "profile_curve": [
         "spl_F8bJBKhhKZzw"
       ]
     },
@@ -7165,7 +7165,7 @@
       },
       "profile": "sbt_2uBTcSejtLvq",
       "group": "Airfoil database A-list",
-      "spline": [
+      "profile_curve": [
         "spl_pn6GG5fz2Pgt"
       ]
     },
@@ -7190,7 +7190,7 @@
       },
       "profile": "sbt_8PgCXP9LpypA",
       "group": "Airfoil database A-list",
-      "spline": [
+      "profile_curve": [
         "spl_WhOUcecsG28K"
       ]
     },
@@ -7215,7 +7215,7 @@
       },
       "profile": "sbt_orE7r6xOPAf1",
       "group": "Airfoil database A-list",
-      "spline": [
+      "profile_curve": [
         "spl_vb9dGhNIaV2T"
       ]
     },
@@ -7240,7 +7240,7 @@
       },
       "profile": "sbt_0agBYgxkSwSu",
       "group": "Airfoil database A-list",
-      "spline": [
+      "profile_curve": [
         "spl_tBp1tmFhyYkc"
       ]
     },
@@ -7265,7 +7265,7 @@
       },
       "profile": "sbt_O6Strcn9jDPe",
       "group": "Airfoil database A-list",
-      "spline": [
+      "profile_curve": [
         "spl_x4s3WWQZ7uh4"
       ]
     },
@@ -7290,7 +7290,7 @@
       },
       "profile": "sbt_l3ya0TtABnxk",
       "group": "Airfoil database A-list",
-      "spline": [
+      "profile_curve": [
         "spl_24ecsmu5mNYO"
       ]
     },
@@ -7315,7 +7315,7 @@
       },
       "profile": "sbt_iMKQeiVHGb2S",
       "group": "Airfoil database A-list",
-      "spline": [
+      "profile_curve": [
         "spl_GMMWJSXtp77n"
       ]
     },
@@ -7340,7 +7340,7 @@
       },
       "profile": "sbt_5kmULbzsPWjS",
       "group": "Airfoil database A-list",
-      "spline": []
+      "profile_curve": []
     },
     "A18 (smoothed) (a18sm-il)": {
       "name": "A18 (smoothed) (a18sm-il)",
@@ -7363,7 +7363,7 @@
       },
       "profile": "sbt_1cfeEl0M6JS0",
       "group": "Airfoil database A-list",
-      "spline": [
+      "profile_curve": [
         "spl_EyHlVUwupRFm"
       ]
     }
@@ -7390,7 +7390,7 @@
       },
       "profile": "sbt_BXmmm4BU8eIK",
       "group": "Airfoil database B-list",
-      "spline": [
+      "profile_curve": [
         "spl_eqq1xKLguhnK"
       ]
     },
@@ -7415,7 +7415,7 @@
       },
       "profile": "sbt_EEbIyMXbV3jh",
       "group": "Airfoil database B-list",
-      "spline": [
+      "profile_curve": [
         "spl_Aa6X3xTmkn6B"
       ]
     },
@@ -7440,7 +7440,7 @@
       },
       "profile": "sbt_Dzlt9ThYq0Li",
       "group": "Airfoil database B-list",
-      "spline": [
+      "profile_curve": [
         "spl_7B02uZ6993q4"
       ]
     },
@@ -7465,7 +7465,7 @@
       },
       "profile": "sbt_E9CmzUvWxUa6",
       "group": "Airfoil database B-list",
-      "spline": [
+      "profile_curve": [
         "spl_yiVu2goFaTQT"
       ]
     },
@@ -7490,7 +7490,7 @@
       },
       "profile": "sbt_6ljVbfnL4NO8",
       "group": "Airfoil database B-list",
-      "spline": [
+      "profile_curve": [
         "spl_KYhF4jrgVhGj"
       ]
     },
@@ -7515,7 +7515,7 @@
       },
       "profile": "sbt_FSx11Q2LHlYH",
       "group": "Airfoil database B-list",
-      "spline": [
+      "profile_curve": [
         "spl_e3SwbqTvzoUr"
       ]
     },
@@ -7540,7 +7540,7 @@
       },
       "profile": "sbt_HltrCynp6RxF",
       "group": "Airfoil database B-list",
-      "spline": [
+      "profile_curve": [
         "spl_ZO4VlQK2lNTl"
       ]
     },
@@ -7565,7 +7565,7 @@
       },
       "profile": "sbt_zAoHDQTkZql1",
       "group": "Airfoil database B-list",
-      "spline": [
+      "profile_curve": [
         "spl_AZ1nwmJ9od3L"
       ]
     },
@@ -7590,7 +7590,7 @@
       },
       "profile": "sbt_Kqf8YkgRuc3V",
       "group": "Airfoil database B-list",
-      "spline": [
+      "profile_curve": [
         "spl_IkmZMOLqtK5X"
       ]
     },
@@ -7615,7 +7615,7 @@
       },
       "profile": "sbt_t7hQlqjHdrgR",
       "group": "Airfoil database B-list",
-      "spline": [
+      "profile_curve": [
         "spl_ZF6EF6aoxeRY"
       ]
     },
@@ -7640,7 +7640,7 @@
       },
       "profile": "sbt_yqnKYHNo971h",
       "group": "Airfoil database B-list",
-      "spline": [
+      "profile_curve": [
         "spl_ijyJ4wGSom9R"
       ]
     },
@@ -7665,7 +7665,7 @@
       },
       "profile": "sbt_xJ9qlYxbi50B",
       "group": "Airfoil database B-list",
-      "spline": [
+      "profile_curve": [
         "spl_UKGcAOIIIsZ2"
       ]
     },
@@ -7690,7 +7690,7 @@
       },
       "profile": "sbt_szgrHDtJKLl4",
       "group": "Airfoil database B-list",
-      "spline": [
+      "profile_curve": [
         "spl_1EJ9ZDCr929K"
       ]
     },
@@ -7715,7 +7715,7 @@
       },
       "profile": "sbt_dEldVkHhZuQ4",
       "group": "Airfoil database B-list",
-      "spline": [
+      "profile_curve": [
         "spl_XqG7qjwtamPn"
       ]
     },
@@ -7740,7 +7740,7 @@
       },
       "profile": "sbt_v8DMfQYbnll6",
       "group": "Airfoil database B-list",
-      "spline": [
+      "profile_curve": [
         "spl_5al07wNAYfus"
       ]
     },
@@ -7765,7 +7765,7 @@
       },
       "profile": "sbt_WOFsQvLJVvU9",
       "group": "Airfoil database B-list",
-      "spline": [
+      "profile_curve": [
         "spl_N8kXTlmlp0Hu"
       ]
     },
@@ -7790,7 +7790,7 @@
       },
       "profile": "sbt_xhDG7nBswlfu",
       "group": "Airfoil database B-list",
-      "spline": [
+      "profile_curve": [
         "spl_BNDm05oRs0rO"
       ]
     },
@@ -7815,7 +7815,7 @@
       },
       "profile": "sbt_SnafmBbQFqMU",
       "group": "Airfoil database B-list",
-      "spline": [
+      "profile_curve": [
         "spl_tUwDWVpTircd"
       ]
     },
@@ -7840,7 +7840,7 @@
       },
       "profile": "sbt_FqEr5bn5hlQO",
       "group": "Airfoil database B-list",
-      "spline": [
+      "profile_curve": [
         "spl_IvkGs8AhGAGm"
       ]
     },
@@ -7865,7 +7865,7 @@
       },
       "profile": "sbt_HcT8xUYPFzz5",
       "group": "Airfoil database B-list",
-      "spline": [
+      "profile_curve": [
         "spl_v1BuMl76m5Wy"
       ]
     }
@@ -7892,7 +7892,7 @@
       },
       "profile": "sbt_TOJYzX7UOiJh",
       "group": "Airfoil database C-list",
-      "spline": [
+      "profile_curve": [
         "spl_UrFc8stiTR7E"
       ]
     },
@@ -7917,7 +7917,7 @@
       },
       "profile": "sbt_r89O33S2UOQm",
       "group": "Airfoil database C-list",
-      "spline": [
+      "profile_curve": [
         "spl_GODx7Sa9ZZyP"
       ]
     },
@@ -7942,7 +7942,7 @@
       },
       "profile": "sbt_d4Ust1wa4D0J",
       "group": "Airfoil database C-list",
-      "spline": [
+      "profile_curve": [
         "spl_zyKV0HyWVSZQ"
       ]
     },
@@ -7967,7 +7967,7 @@
       },
       "profile": "sbt_ndENC4YJ2J0D",
       "group": "Airfoil database C-list",
-      "spline": [
+      "profile_curve": [
         "spl_GT2zIL1wwvTx"
       ]
     },
@@ -7992,7 +7992,7 @@
       },
       "profile": "sbt_rbuptiRD1Ny7",
       "group": "Airfoil database C-list",
-      "spline": [
+      "profile_curve": [
         "spl_KkFhCImQcy88"
       ]
     },
@@ -8017,7 +8017,7 @@
       },
       "profile": "sbt_eOKgGoepRmgr",
       "group": "Airfoil database C-list",
-      "spline": [
+      "profile_curve": [
         "spl_nQapU52MGX3f"
       ]
     },
@@ -8042,7 +8042,7 @@
       },
       "profile": "sbt_5CXeglrV0seK",
       "group": "Airfoil database C-list",
-      "spline": [
+      "profile_curve": [
         "spl_tL9KaujkB9aV"
       ]
     },
@@ -8067,7 +8067,7 @@
       },
       "profile": "sbt_PqHtNQvyL4gS",
       "group": "Airfoil database C-list",
-      "spline": [
+      "profile_curve": [
         "spl_pLyWbu5Nvn7V"
       ]
     },
@@ -8092,7 +8092,7 @@
       },
       "profile": "sbt_sAPNgiARCATr",
       "group": "Airfoil database C-list",
-      "spline": [
+      "profile_curve": [
         "spl_GwpbLNFxOYxr"
       ]
     },
@@ -8117,7 +8117,7 @@
       },
       "profile": "sbt_PEHqHzMXLuw7",
       "group": "Airfoil database C-list",
-      "spline": [
+      "profile_curve": [
         "spl_uuqoGGGWUSvR"
       ]
     },
@@ -8142,7 +8142,7 @@
       },
       "profile": "sbt_Y1VZ9cn211sF",
       "group": "Airfoil database C-list",
-      "spline": [
+      "profile_curve": [
         "spl_zwTyKf4guxMF"
       ]
     },
@@ -8167,7 +8167,7 @@
       },
       "profile": "sbt_xI8yCtmDbrIM",
       "group": "Airfoil database C-list",
-      "spline": [
+      "profile_curve": [
         "spl_N5ywpltRJ9Ox"
       ]
     },
@@ -8192,7 +8192,7 @@
       },
       "profile": "sbt_DezYT36AuigU",
       "group": "Airfoil database C-list",
-      "spline": [
+      "profile_curve": [
         "spl_XrpMfv10dgOY"
       ]
     },
@@ -8217,7 +8217,7 @@
       },
       "profile": "sbt_Dhlkgj4iO4IQ",
       "group": "Airfoil database C-list",
-      "spline": [
+      "profile_curve": [
         "spl_lszW0CZZwznK"
       ]
     },
@@ -8242,7 +8242,7 @@
       },
       "profile": "sbt_nExN1rerkAVi",
       "group": "Airfoil database C-list",
-      "spline": [
+      "profile_curve": [
         "spl_I9h1tW48w98G"
       ]
     },
@@ -8267,7 +8267,7 @@
       },
       "profile": "sbt_kYXeuxr1STNE",
       "group": "Airfoil database C-list",
-      "spline": [
+      "profile_curve": [
         "spl_fra1dju390RE"
       ]
     },
@@ -8292,7 +8292,7 @@
       },
       "profile": "sbt_ywIpfo1dkfld",
       "group": "Airfoil database C-list",
-      "spline": [
+      "profile_curve": [
         "spl_CJ516Qy6qjEi"
       ]
     },
@@ -8317,7 +8317,7 @@
       },
       "profile": "sbt_Mk9YWRXiJKTY",
       "group": "Airfoil database C-list",
-      "spline": [
+      "profile_curve": [
         "spl_tJANcD2xrY57"
       ]
     },
@@ -8342,7 +8342,7 @@
       },
       "profile": "sbt_S0woIPGIlbwm",
       "group": "Airfoil database C-list",
-      "spline": [
+      "profile_curve": [
         "spl_Wi8ArUBLpSS4"
       ]
     },
@@ -8367,7 +8367,7 @@
       },
       "profile": "sbt_5LpBeu8qN3fr",
       "group": "Airfoil database C-list",
-      "spline": [
+      "profile_curve": [
         "spl_jhZBWI2LRPhf"
       ]
     },
@@ -8392,7 +8392,7 @@
       },
       "profile": "sbt_hPCmp44fpruE",
       "group": "Airfoil database C-list",
-      "spline": [
+      "profile_curve": [
         "spl_R6Letvvqavb6"
       ]
     },
@@ -8417,7 +8417,7 @@
       },
       "profile": "sbt_K78N7i4Onvry",
       "group": "Airfoil database C-list",
-      "spline": [
+      "profile_curve": [
         "spl_VpTp0VtzQLJB"
       ]
     },
@@ -8442,7 +8442,7 @@
       },
       "profile": "sbt_EiUQ3Xvqeq2r",
       "group": "Airfoil database C-list",
-      "spline": [
+      "profile_curve": [
         "spl_gW08vubsxg9o"
       ]
     },
@@ -8467,7 +8467,7 @@
       },
       "profile": "sbt_ic2Dy6rxPev7",
       "group": "Airfoil database C-list",
-      "spline": [
+      "profile_curve": [
         "spl_CqMbICh96kIR"
       ]
     },
@@ -8492,7 +8492,7 @@
       },
       "profile": "sbt_aMLpuPjxiBgw",
       "group": "Airfoil database C-list",
-      "spline": [
+      "profile_curve": [
         "spl_4ETfLzl5t5u7"
       ]
     },
@@ -8517,7 +8517,7 @@
       },
       "profile": "sbt_XddPDAIuROpp",
       "group": "Airfoil database C-list",
-      "spline": [
+      "profile_curve": [
         "spl_3WfaxUBqIPYa"
       ]
     },
@@ -8542,7 +8542,7 @@
       },
       "profile": "sbt_XWHZiiAArwm0",
       "group": "Airfoil database C-list",
-      "spline": [
+      "profile_curve": [
         "spl_WYHWYP3fB1M8"
       ]
     },
@@ -8567,7 +8567,7 @@
       },
       "profile": "sbt_4XhiYCfuhljk",
       "group": "Airfoil database C-list",
-      "spline": [
+      "profile_curve": [
         "spl_9afMZ0KDEiF9"
       ]
     },
@@ -8592,7 +8592,7 @@
       },
       "profile": "sbt_CEpylvRj3BNT",
       "group": "Airfoil database C-list",
-      "spline": [
+      "profile_curve": [
         "spl_WwPUCfwbjsXw"
       ]
     },
@@ -8617,7 +8617,7 @@
       },
       "profile": "sbt_IliXI038zyk8",
       "group": "Airfoil database C-list",
-      "spline": [
+      "profile_curve": [
         "spl_AL0bPYIUDDsv"
       ]
     },
@@ -8642,7 +8642,7 @@
       },
       "profile": "sbt_kJ5Vw0U2tNjh",
       "group": "Airfoil database C-list",
-      "spline": [
+      "profile_curve": [
         "spl_o91qH82VZduZ"
       ]
     },
@@ -8667,7 +8667,7 @@
       },
       "profile": "sbt_HDdeSP3xy4Va",
       "group": "Airfoil database C-list",
-      "spline": [
+      "profile_curve": [
         "spl_MHfi0gsnPe06"
       ]
     },
@@ -8692,7 +8692,7 @@
       },
       "profile": "sbt_5XYPPDy430yf",
       "group": "Airfoil database C-list",
-      "spline": [
+      "profile_curve": [
         "spl_2k8F0nMmMvAW"
       ]
     },
@@ -8717,7 +8717,7 @@
       },
       "profile": "sbt_mX3WdkOdkwu6",
       "group": "Airfoil database C-list",
-      "spline": [
+      "profile_curve": [
         "spl_nAZZOfRiPmyu"
       ]
     },
@@ -8742,7 +8742,7 @@
       },
       "profile": "sbt_ZFQv5hNoqWag",
       "group": "Airfoil database C-list",
-      "spline": [
+      "profile_curve": [
         "spl_zSfj4dvchmSa"
       ]
     },
@@ -8767,7 +8767,7 @@
       },
       "profile": "sbt_gBEHdt2LiR1j",
       "group": "Airfoil database C-list",
-      "spline": [
+      "profile_curve": [
         "spl_DeLEYH5bpZMC"
       ]
     },
@@ -8792,7 +8792,7 @@
       },
       "profile": "sbt_E5F774kLWOOi",
       "group": "Airfoil database C-list",
-      "spline": [
+      "profile_curve": [
         "spl_De5HqXV4b2Oi"
       ]
     },
@@ -8817,7 +8817,7 @@
       },
       "profile": "sbt_yoHF3Ao0BGpH",
       "group": "Airfoil database C-list",
-      "spline": [
+      "profile_curve": [
         "spl_2OK2ODEDilRi"
       ]
     },
@@ -8842,7 +8842,7 @@
       },
       "profile": "sbt_RDotMdqxrgZr",
       "group": "Airfoil database C-list",
-      "spline": [
+      "profile_curve": [
         "spl_6P1xmgqsHiqC"
       ]
     },
@@ -8867,7 +8867,7 @@
       },
       "profile": "sbt_WeiQ0Rja51sr",
       "group": "Airfoil database C-list",
-      "spline": [
+      "profile_curve": [
         "spl_VcGP8umC4LRe"
       ]
     }
@@ -8894,7 +8894,7 @@
       },
       "profile": "sbt_hOZcRKAhudYS",
       "group": "Airfoil database I-list",
-      "spline": [
+      "profile_curve": [
         "spl_hyO3VmCkyrmW"
       ]
     },
@@ -8919,7 +8919,7 @@
       },
       "profile": "sbt_cnpgRQ6ZK4Px",
       "group": "Airfoil database I-list",
-      "spline": [
+      "profile_curve": [
         "spl_t5Wbh4aEbi8B"
       ]
     },
@@ -8944,7 +8944,7 @@
       },
       "profile": "sbt_38mLwhFXLXlD",
       "group": "Airfoil database I-list",
-      "spline": [
+      "profile_curve": [
         "spl_x0OCy9cm9nFT"
       ]
     },
@@ -8969,7 +8969,7 @@
       },
       "profile": "sbt_dirOfNaWq4I2",
       "group": "Airfoil database I-list",
-      "spline": [
+      "profile_curve": [
         "spl_jquhvBI7pE9R"
       ]
     }
@@ -8996,7 +8996,7 @@
       },
       "profile": "sbt_LtdKdFxYjyPk",
       "group": "Airfoil database L-list",
-      "spline": [
+      "profile_curve": [
         "spl_AGnw3tbBG0KC"
       ]
     },
@@ -9021,7 +9021,7 @@
       },
       "profile": "sbt_xRJKSb3M3Wvv",
       "group": "Airfoil database L-list",
-      "spline": [
+      "profile_curve": [
         "spl_VXZMqD7ITv0h"
       ]
     },
@@ -9046,7 +9046,7 @@
       },
       "profile": "sbt_yK06dxsCszya",
       "group": "Airfoil database L-list",
-      "spline": [
+      "profile_curve": [
         "spl_0fKClK5tWxQk"
       ]
     },
@@ -9071,7 +9071,7 @@
       },
       "profile": "sbt_L9pMMjY9TGzs",
       "group": "Airfoil database L-list",
-      "spline": [
+      "profile_curve": [
         "spl_OlUv1ILFHRyH"
       ]
     },
@@ -9096,7 +9096,7 @@
       },
       "profile": "sbt_6iVFpefbepAB",
       "group": "Airfoil database L-list",
-      "spline": [
+      "profile_curve": [
         "spl_F3mwarHUQG1G"
       ]
     },
@@ -9121,7 +9121,7 @@
       },
       "profile": "sbt_ozMe3HkdihK6",
       "group": "Airfoil database L-list",
-      "spline": [
+      "profile_curve": [
         "spl_SgaTRWL7snFN"
       ]
     },
@@ -9146,7 +9146,7 @@
       },
       "profile": "sbt_CgjYpgM22o5h",
       "group": "Airfoil database L-list",
-      "spline": [
+      "profile_curve": [
         "spl_O13rsKR2ILn4"
       ]
     },
@@ -9171,7 +9171,7 @@
       },
       "profile": "sbt_aDtlYWH1khrV",
       "group": "Airfoil database L-list",
-      "spline": [
+      "profile_curve": [
         "spl_C3CjAJe7MECQ"
       ]
     },
@@ -9196,7 +9196,7 @@
       },
       "profile": "sbt_FeLrog0W3iXl",
       "group": "Airfoil database L-list",
-      "spline": [
+      "profile_curve": [
         "spl_1raof61UVv7u"
       ]
     },
@@ -9221,7 +9221,7 @@
       },
       "profile": "sbt_CDhA9aorvIyU",
       "group": "Airfoil database L-list",
-      "spline": [
+      "profile_curve": [
         "spl_FdYQGSGOCHEY"
       ]
     },
@@ -9246,7 +9246,7 @@
       },
       "profile": "sbt_HmbcaiKHZaYg",
       "group": "Airfoil database L-list",
-      "spline": [
+      "profile_curve": [
         "spl_mqYTZdB91mUr"
       ]
     },
@@ -9271,7 +9271,7 @@
       },
       "profile": "sbt_5fNOlFOinYLv",
       "group": "Airfoil database L-list",
-      "spline": [
+      "profile_curve": [
         "spl_xeh8wLI4yS1x"
       ]
     },
@@ -9296,7 +9296,7 @@
       },
       "profile": "sbt_hwQsiulaobl7",
       "group": "Airfoil database L-list",
-      "spline": [
+      "profile_curve": [
         "spl_n4Ag75hCiyci"
       ]
     },
@@ -9321,7 +9321,7 @@
       },
       "profile": "sbt_ZfgvJuVnf4e3",
       "group": "Airfoil database L-list",
-      "spline": [
+      "profile_curve": [
         "spl_DHbYD8YRtJMy"
       ]
     },
@@ -9346,7 +9346,7 @@
       },
       "profile": "sbt_y39RYm3nQBR5",
       "group": "Airfoil database L-list",
-      "spline": [
+      "profile_curve": [
         "spl_gZmHocolrXEv"
       ]
     },
@@ -9371,7 +9371,7 @@
       },
       "profile": "sbt_vIv2ropkFPb8",
       "group": "Airfoil database L-list",
-      "spline": [
+      "profile_curve": [
         "spl_fhnUXuPPWu8n"
       ]
     },
@@ -9396,7 +9396,7 @@
       },
       "profile": "sbt_TandrbrQ308W",
       "group": "Airfoil database L-list",
-      "spline": [
+      "profile_curve": [
         "spl_fuRKhW5Pdwuj"
       ]
     },
@@ -9421,7 +9421,7 @@
       },
       "profile": "sbt_yuiv9GZlWhI4",
       "group": "Airfoil database L-list",
-      "spline": [
+      "profile_curve": [
         "spl_vYohcFhQiJth"
       ]
     }
@@ -9448,7 +9448,7 @@
       },
       "profile": "sbt_0vwA5VuKJqCg",
       "group": "Airfoil database N-list",
-      "spline": [
+      "profile_curve": [
         "spl_hLyZl8Wy1xCT"
       ]
     },
@@ -9473,7 +9473,7 @@
       },
       "profile": "sbt_0PleXDxnadCX",
       "group": "Airfoil database N-list",
-      "spline": [
+      "profile_curve": [
         "spl_lkxdSw8d4oFK"
       ]
     },
@@ -9498,7 +9498,7 @@
       },
       "profile": "sbt_MK25xsT0viQB",
       "group": "Airfoil database N-list",
-      "spline": [
+      "profile_curve": [
         "spl_40MajV0A1f2K"
       ]
     },
@@ -9523,7 +9523,7 @@
       },
       "profile": "sbt_lW2Q7yoXDdOJ",
       "group": "Airfoil database N-list",
-      "spline": [
+      "profile_curve": [
         "spl_pF9Gx6XXZv06"
       ]
     },
@@ -9548,7 +9548,7 @@
       },
       "profile": "sbt_dRIow9xWQSHX",
       "group": "Airfoil database N-list",
-      "spline": [
+      "profile_curve": [
         "spl_V3ysnQAkL3qe"
       ]
     },
@@ -9573,7 +9573,7 @@
       },
       "profile": "sbt_0RkPpbQiLqsO",
       "group": "Airfoil database N-list",
-      "spline": [
+      "profile_curve": [
         "spl_K1wZFydYbNrF"
       ]
     },
@@ -9598,7 +9598,7 @@
       },
       "profile": "sbt_5hIwGTDbOhdL",
       "group": "Airfoil database N-list",
-      "spline": [
+      "profile_curve": [
         "spl_MB2Pr4ylAkcl"
       ]
     },
@@ -9623,7 +9623,7 @@
       },
       "profile": "sbt_sHt6QmnHHUDH",
       "group": "Airfoil database N-list",
-      "spline": [
+      "profile_curve": [
         "spl_4aS0QT8nWQiX"
       ]
     },
@@ -9648,7 +9648,7 @@
       },
       "profile": "sbt_RwrSjlkh425j",
       "group": "Airfoil database N-list",
-      "spline": [
+      "profile_curve": [
         "spl_mrYip2EuA3Lg"
       ]
     }

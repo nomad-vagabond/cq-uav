@@ -80,7 +80,6 @@ def process_airfoil_spline(dataset_data, airfoils_collection, include_single_spl
 
     datafile_uid = dataset_data['datafile']['uid']
     url = f"{API_BASE_URL}datafiles/{datafile_uid}/relations"
-    profile_name = extract_profile_name(dataset_data['datafile']['path'])
     splines_list = []
     response = requests.get(url).json()
 
@@ -89,7 +88,7 @@ def process_airfoil_spline(dataset_data, airfoils_collection, include_single_spl
             for curve in curves:
                 splines_list.append(curve["uid"])
 
-    airfoils_collection[profile_name]["spline"] = [splines_list[0]] if all((splines_list, include_single_spline)) else splines_list
+    airfoils_collection[profile_name]["profile_curve"] = [splines_list[0]] if all((splines_list, include_single_spline)) else splines_list
 
 
 def process_dataset(dataset_data, airfoils_collection):

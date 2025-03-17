@@ -16,5 +16,6 @@ setup(
         'pandas',
         'cadquery',
         'requests',
+        'splinecloud-scipy',
     ],
 )

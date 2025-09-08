@@ -1,0 +1,58 @@
+experiments:
+  - ROOT_AIRFOIL: NACA4412
+    TIP_AIRFOIL: NACA4412
+    TIP_TWIST: 0
+    SA_LE: null
+    SA_RE: 0
+    data:
+      TR=0.5:
+        AR=6:
+          ccl*c/cref:
+            1.0: spl_c8pvb3hpEQE3
+        AR=7:
+          ccl*c/cref:
+            1.0: spl_L3Osxw7V9pSR
+        AR=8:
+          ccl*c/cref:
+            1.0: spl_KzStgIt7hJND
+        AR=9:
+          ccl*c/cref:
+            1.0: spl_i1b5nkLEbeiC
+        AR=10:
+          ccl*c/cref:
+            1.0: spl_J7KTUqSbtacs
+
+      TR=0.6:
+        AR=6:
+          ccl*c/cref:
+            1.0: spl_aJmX6ZE5UCH9
+        AR=7:
+          ccl*c/cref:
+            1.0: spl_lOGw0EaLHJL6
+        AR=8:
+          ccl*c/cref:
+            1.0: spl_6IF5a164iPX1
+        AR=9:
+          ccl*c/cref:
+            1.0: spl_nR3SXOzxK8d1
+        AR=10:
+          ccl*c/cref:
+            1.0: spl_U835opI89YBG
+
+      TR=0.7:
+        AR=6:
+          ccl*c/cref:
+            1.0: spl_4D3g30I3Uv3b
+        AR=7:
+          ccl*c/cref:
+            1.0: spl_wVZazMRFqeK8
+        AR=8:
+          ccl*c/cref:
+            1.0: spl_sjW01oBlQaVJ
+        AR=9:
+          ccl*c/cref:
+            1.0: spl_xixfgMpTEjC3
+        AR=10:
+          ccl*c/cref:
+            1.0: spl_PHgAEsaWaqZ6
+

@@ -2,14 +2,15 @@ import numpy as np
 from scipy.optimize import direct
 import cadquery as cq
 
-import cquav.splinecloud_scipy as scsp
+import splinecloud_scipy as scsp
 
 
 class Airfoil:
 
     def __init__(self, profile_data):
         self.name = profile_data["name"]
-        self.profile = scsp.LoadSubset(profile_data["profile"])
+        self.profile = scsp.load_subset(profile_data["profile"])
+        self.profile_curve = scsp.load_spline(profile_data["profile_curve"][0])
         self.profile_data = profile_data
         self.load_curves()
    
@@ -57,7 +58,7 @@ class Airfoil:
     def load_curves(self):
         self.curves = {}
         for curve_name, curve_uid in self.profile_data["curves"].items():
-            self.curves[curve_name] = scsp.LoadSpline(curve_uid)
+            self.curves[curve_name] = scsp.load_spline(curve_uid)
 
     def cl_to_cd(self, alpha, reynolds):
         return float(self.eval_cl(alpha, reynolds)) / float(self.eval_cd(alpha, reynolds))

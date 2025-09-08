@@ -433,17 +433,20 @@ class TwoSparWingConsole(Wing):
         
         return Ixx, Iyy, Izz
     
-    def eval_aero_midspan(self, alpha, velocity, n=100):
+    def eval_aero_midspan(self, alpha, velocity, delta=0, n=100):
         """Calculates span offset where the total console lift force is applied"""
         
         root_airfoil = self.root_section.airfoil
         tip_airfoil = self.tip_section.airfoil
         
-        alpha_ = self._alpha_actual(alpha, self.root_twist_angle)
-        reynolds = self.eval_reynolds(velocity)
+        alpha_root = self._alpha_actual(alpha, delta+self.root_twist_angle)
+        alpha_tip = self._alpha_actual(alpha, delta+self.tip_twist_angle)
 
-        cl_root = root_airfoil.eval_cl(alpha_, reynolds)
-        cl_tip = tip_airfoil.eval_cl(alpha_, reynolds)
+        reynolds_root = self.eval_reynolds(velocity, self.root_chord)
+        reynolds_tip = self.eval_reynolds(velocity, self.tip_chord)
+
+        cl_root = root_airfoil.eval_cl(alpha_root, reynolds_root)
+        cl_tip = tip_airfoil.eval_cl(alpha_tip, reynolds_tip)
         cl_prev = cl_root
 
         dl = self.length / n
@@ -471,14 +474,17 @@ class TwoSparWingConsole(Wing):
         root_airfoil = self.root_section.airfoil
         tip_airfoil = self.tip_section.airfoil
 
-        alpha_ = self._alpha_actual(alpha, delta+self.root_twist_angle)
+        alpha_root = self._alpha_actual(alpha, delta+self.root_twist_angle)
+        alpha_tip = self._alpha_actual(alpha, delta+self.tip_twist_angle)
+
+        reynolds_root = self.eval_reynolds(velocity, self.root_chord)
+        reynolds_tip = self.eval_reynolds(velocity, self.tip_chord)
+
         c_dihedral = cos(self.dihedral * pi / 180)
-
         dyn_airpressure = 0.5 * AIR_DENSITY * velocity**2
-        reynolds = self.eval_reynolds(velocity)
 
-        cl_root = root_airfoil.eval_cl(alpha_, reynolds)
-        cl_tip = tip_airfoil.eval_cl(alpha_, reynolds)
+        cl_root = root_airfoil.eval_cl(alpha_root, reynolds_root)
+        cl_tip = tip_airfoil.eval_cl(alpha_tip, reynolds_tip)
 
         cl_prev = cl_root
         root_chord = self.root_chord*1e-3
@@ -549,14 +555,17 @@ class TwoSparWingConsole(Wing):
         root_airfoil = self.root_section.airfoil
         tip_airfoil = self.tip_section.airfoil
 
-        alpha_ = self._alpha_actual(alpha, delta+self.root_twist_angle)
+        alpha_root = self._alpha_actual(alpha, delta+self.root_twist_angle)
+        alpha_tip = self._alpha_actual(alpha, delta+self.tip_twist_angle)
+
+        reynolds_root = self.eval_reynolds(velocity, self.root_chord)
+        reynolds_tip = self.eval_reynolds(velocity, self.tip_chord)
+
         c_dihedral = cos(self.dihedral * pi / 180)
-
         dyn_airpressure = 0.5 * AIR_DENSITY * velocity**2
-        reynolds = self.eval_reynolds(velocity)
 
-        cd0_root = root_airfoil.eval_cd(alpha_, reynolds)
-        cd0_tip = tip_airfoil.eval_cd(alpha_, reynolds)
+        cd0_root = root_airfoil.eval_cd(alpha_root, reynolds_root)
+        cd0_tip = tip_airfoil.eval_cd(alpha_tip, reynolds_tip)
         cd0_prev = cd0_root
 
         root_chord = self.root_chord * 1e-3
@@ -580,7 +589,7 @@ class TwoSparWingConsole(Wing):
             drag0_i = dyn_airpressure * cd0_i_avg * chord_i_avg * dl
             zero_drag_force += drag0_i
 
-        cdi = self.induced_drag_coefficient(alpha_)
+        cdi = self.induced_drag_coefficient(alpha_root)
         induced_drag_force = dyn_airpressure * cdi * self.area*0.5
         
         return (zero_drag_force + induced_drag_force) * INCREASED_DRAG_FACTOR

@@ -67,8 +67,13 @@ class Wing:
     def actual_velocity_coeff(self, alpha):
         return sqrt(1 - (sin(alpha*pi/180)*sin(self.dihedral*pi/180))**2)
         
-    def eval_reynolds(self, velocity):
-        reynolds = velocity * self.root_chord*1e-3 / AIR_KINEMATIC_VISCOSITY_SEA_LEVEL
+    def eval_reynolds(self, velocity, chord=None):
+        """Velocity is in [m/s], chord is in the [mm]"""
+
+        if chord is None:
+            chord = self.root_chord
+        
+        reynolds = velocity * chord*1e-3 / AIR_KINEMATIC_VISCOSITY_SEA_LEVEL
         
         return reynolds
     
@@ -107,11 +112,12 @@ class Wing:
         
         return dyn_airpressure * self.area * (cd0+cdi)
       
-    def induced_drag_coefficient(self, alpha):
-        delta = self.se.eval(self.ar, self.tr)
-        cl = self.CCLS_avg*self.airfoil.eval_cl(alpha, self.reynolds)
+    def induced_drag_coefficient(self, alpha, delta=0):
+        alpha_ = self._alpha_actual(alpha, delta)
+        d = self.se.eval(self.ar, self.tr)
+        cl = self.CCLS_avg*self.airfoil.eval_cl(alpha_, self.reynolds)
         
-        return (cl**2)*(1+delta)/(pi*self.ar)
+        return (cl**2)*(1+d)/(pi*self.ar)
         
     def eval_relative_aero_midspan(self, n=100):
         """Calculates relative span coordinate where the total console lift force is applied"""

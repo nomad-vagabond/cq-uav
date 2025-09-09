@@ -20,9 +20,9 @@ class TwoSparWingConsole(Wing):
     Wing console of the tapered swept wing, made of foam, and reinforced with two simple thin-walled spars. 
     """
     
-    def __init__(self, ccls_surface, span_efficiency, 
-                 root_airfoil, tip_airfoil=None, root_twist_angle=0, tip_twist_angle=0,
-                 span=2000, sweep_angle=15, aspect_ratio=9, taper_ratio=0.7, dihedral=0, chord_align_factor=0.0,
+    def __init__(self, ccls_surface, span_efficiency, root_airfoil, 
+                 tip_airfoil=None, span=2000, root_twist_angle=0, tip_twist_angle=0, dihedral=0,
+                 sweep_angle=None, chord_align_factor=0.0, aspect_ratio=9, taper_ratio=0.7, 
                  front_spar_rel_position=0.25, front_spar_thickness=None, 
                  rear_spar_rel_position=0.7, rear_spar_thickness=None,
                  shell_thickness=None, materials=None):
@@ -62,6 +62,7 @@ class TwoSparWingConsole(Wing):
         self.length = 0.5 * span
         self.root_twist_angle = root_twist_angle
         self.tip_twist_angle = tip_twist_angle
+        self.tip_vertical_offset = self.length*sin(dihedral*pi/180)
 
         if sweep_angle is None:           
             self.tip_chord_setback = (self.root_chord - self.tip_chord) * chord_align_factor
@@ -74,7 +75,7 @@ class TwoSparWingConsole(Wing):
         )
         self.tip_section = AirfoilSection(
             tip_airfoil, chord=self.tip_chord, twist_angle=self.tip_twist_angle,
-            x_offset=self.tip_chord_setback, z_offset=self.length,
+            x_offset=self.tip_chord_setback, y_offset=self.tip_vertical_offset, z_offset=self.length,
         )
 
         self.front_spar_rel_position = front_spar_rel_position
@@ -120,7 +121,7 @@ class TwoSparWingConsole(Wing):
         )
         self.tip_section = AirfoilSection(
             tip_airfoil, chord=self.tip_chord, twist_angle=self.tip_twist_angle,
-            x_offset=self.tip_chord_setback, z_offset=self.length,
+            x_offset=self.tip_chord_setback, y_offset=self.tip_vertical_offset, z_offset=self.length,
         )
 
     def set_new_aspect_ratio(self, ar):
@@ -303,7 +304,6 @@ class TwoSparWingConsole(Wing):
 
     def get_aero_center(self):
         ac = self.aero_center.vals()[0].Center()
-        
         return ac.x, ac.y, ac.z
 
     def xa(self):
@@ -843,8 +843,14 @@ class TwoSparWingConsole(Wing):
                 "Load factor": (load_factor, "")
             },
             "Wing geometry": {
+                "Root airfoil": (self.root_section.airfoil.name, ""),
                 "Root chord": (self.root_section.chord, "[mm]"),
+                "Root section twist angle": (self.root_section.twist_angle, "[degrees]"),
+
+                "Tip airfoil": (self.tip_section.airfoil.name, ""),
                 "Tip chord": (self.tip_section.chord, "[mm]"),
+                "Tip section twist angle": (self.tip_section.twist_angle, "[degrees]"),
+
                 "Wing sweep angle": (self.sweep_angle, "[degrees]"),
                 "Wing span": (self.span, "[mm]"),
                 "Wing aspect ratio": (self.ar, ""),
@@ -858,9 +864,12 @@ class TwoSparWingConsole(Wing):
                 "Relative foam mass": (f"{100*foam_mass/mass:.2f}", "[%]"),
                 "Shell mass": (shell_mass, "[kg]"),
                 "Relative shell mass": (f"{100*shell_mass/mass:.2f}", "[%]"),
+
                 "Front spar thickness": (self.front_spar_thickness, "[mm]"),
                 "Rear spar thickness": (self.rear_spar_thickness, "[mm]"),
                 "Shell thickness": (self.shell_thickness, "[mm]"),
+            },
+            "Strength:": {
                 "Relative bend deflection": (bend_deflection_rel * 100, "[%]"),
                 "Max bend stress": (bend_stress, "[MPa]")
             },

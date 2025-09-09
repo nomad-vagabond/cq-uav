@@ -18,7 +18,7 @@ class AirfoilSection:
         self.profile_curve = airfoil.profile_curve # spline curve
         self.chord = chord
         self.offset_vector = cq.Vector(x_offset, y_offset, z_offset)
-        self.twist_axis = cq.Vector(0, 0, 1)  # twist around Z axis
+        self.twist_axis = cq.Vector(0, 0, -1)  # twist around Z axis
         self.twist_angle = twist_angle
         self.sketch = self.build_sketch()
 
